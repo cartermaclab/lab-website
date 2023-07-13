@@ -1,0 +1,28 @@
+---
+title: "Research"
+pagetitle: "CarterLab | Research"
+toc: true
+---
+
+Our research is supported by the [Natural Sciences and Engineering Research Council of Canada](https://www.nserc-crsng.gc.ca/), the [Canadian Foundation for Innovation](https://www.innovation.ca/), and the [Ontario Research Fund](https://www.ontario.ca/page/ontario-research-fund-research-infrastructure).
+
+## Current projects
+
+### Decision-making for action
+
+Real-world action tasks involve a sequence of decision-making processes that determine, based on information extracted during the unfolding task, which movement to make next and when to make it. This complex interplay between decision-making and action is essential for understanding how people learn to make optimal choices, develop and learn skilled actions, and for elucidating how motor disorders (e.g., Parkinson's, Alzheimer's, etc) impact cognition in order to develop novel and more effective neurorehabilitation protocols. We are currently conducting experiments to better understand a) how individuals invest their time when learning multiple skills with the goal of maximize overall proficieny, and b) how individuals select and specify actions with multiple potential goals and/or sequential goals.
+
+### Sensorimotor interactions
+
+Our lives are filled with sensorimotor interactions between two or more people, from dancing to sports to receiving rehabilitation from a physical therapist. Sensorimotor neuroscience has largely focused on how a single person controls their movement. Yet our own evolution, survival, and neural hardwiring have been shaped by our ability to compete and collaborate with others. We are currently conducting experiments to better understand a) how the assignment of errors is used to adapt one's behaviour during multi-agent learning (e.g., virtual partner or another human), b) how we utilize online bidirectional sensorimotor information---vision and/or haptics---to make rapid decisions and jointly select actions together, and c) how different factors (e.g., individual, task, environment, socio-cultural) drive our decision to perform tasks alone or with a partner.
+
+### Motor learning metascience
+
+In recent years, there has been a lot of discussion about the replication crisis in psychology, neuroscience, and medical research to name just a few. Much of this is likely attributed to questionable research practices such as, but not limited to, *p*-hacking, HARKing (or Hypothesizing After Results are Known), publication bias, and a flawed incentive structure within academia. Metascience is the field of research on the scientific process itself and has been effective in advancing our understanding of how science (should) work and why it sometimes fails. We are interested in applying meta-research techniques to better understand the state of motor behaviour research in particular, but also more generally the field of kinesiology and sport science.
+
+<!-- ### Many motor labs -->
+
+
+<!-- ### Aging, disease, and motor control and learning -->
+
+<!-- Although motor performance tends to decline as we age, our capacity to learn new skills remains intact. The significance of our ability to perform skilled actions and activities of daily living across the lifespan is exemplified by the many cases of individuals living with a neurological disease (e.g., Alzheimer’s, Parkinson’s) or stroke. These individuals experience long-term movement-related and cognitive deficits that can greatly reduce their functional independence and quality of life. We are interested in identifying the practice factors the supporting motor learning in healthy aging populations, as well as those that can help maintain functional independence in individuals living with mild cognitive impairment and/or Alzheimer’s disease. -->

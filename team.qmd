@@ -1,0 +1,85 @@
+---
+title: "Meet the team"
+toc: false
+listing:
+  - id: senior
+    contents: "team/senior/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 3
+    fields: 
+      - image
+      - title
+      - subtitle
+    sort: sortby
+    field-display-names: 
+      started: "Started"
+  - id: junior
+    contents: "team/junior/*.qmd"
+    type: grid
+    image-height: 225px
+    grid-columns: 3
+    fields: 
+      - image
+      - title
+      - subtitle
+    sort: sortby
+    field-display-names: 
+      started: "Started"
+---
+
+## Senior members
+
+:::{#senior}
+:::
+
+## Junior members
+
+**Hibaa Hasan**, Undergraduate thesis student (Psychology, Neuroscience, and Behaviour)  
+**Lidia Barbera**, Undergraduate thesis student (Life Sciences)  
+**Ola Schwarzenberg**, Undergraduate thesis student (Life Sciences - Sensory Motor Systems specialization)  
+**Enuri Dissanayake**, Undergraduate practicum student (Life Sciences - Sensory Motor Systems specialization)  
+
+<!-- :::{#junior} -->
+<!-- ::: -->
+
+
+## Collaborators
+
+The lab maintains active and extensive research collaborations with:  
+[Joshua Cashaback](https://joshcashaback.weebly.com/) | Department of Biomedical Engineering, University of Delaware  
+[Brad Mckay](https://bradmckay-motor-meta.netlify.app/) | Milwaukee Brewers  
+
+Some of our other collaborators include:  
+[Keith Lohse](https://sites.google.com/site/lohsekr/) | Department of Neurology, Washington University School of Medicine in Saint Louis  
+[Matthew Miller](http://www.education.auburn.edu/initiatives/performance-exercise-psychophysiology-lab-pep-matt-miller-ph-d/) | School of Kinesiology, Auburn University  
+[Mariane Bacelar](https://www.boisestate.edu/kinesiology/faculty-and-staff-mariane-bacelar-phd/) | Department of Kinesiology, Boise State University
+
+## Alumni
+
+Former lab members and what they did after leaving the lab or what they are currently doing (if known).
+
+### Post-doctoral fellows
+
+**Brad McKay** (2021-23); *Senior Strategist of Training Design, Milwaukee Brewers*
+
+### Graduate students
+
+**Laura St. Germain**, Ph.D. Kinesiology (2018-23); *Research and Data Specialist at Sheridan College*  
+**Mirette Mounir**, M.Sc. Kinesiology (2019-21); *Dentistry at Western University*  
+**Rajbir Sihu**, M.Sc. Kinesiology (2019-21); *Dentistry at the University of Toronto*
+
+
+### Undergraduate students
+
+#### Honours thesis
+
+Chitrini Tandon (2021-23); Alyssa Skouros (2022-23); Kiana Masoudi (2022-23); Raika Bourmand (2021-22); Armin Sariaslani (2021-22); Katharine (Katie) Douglas (2021-22); Thinzar Soe (2021-22); Julianna Marfisi (2020-21); Matthew Tobis (2020-21); Andrew Poskus (2020-21); Sherry Feldman (2019-20); Olena Leshchyshen (2019-20); Noura Balbaa (2019-20)
+
+#### Research practicum / project
+
+Jeswende Seedu (2022-23); Vivian Li (2022); Caroline Jarvi (2022); Gurlal Gill (2021); Anita Chaseendran (2021); Gianna Jeyarajan (2021); Mackenzie (Kenzie) Bell (2021); Ashton Yuen (2021); Charlie Violin (2021); Ammaar Jan (2020); Faran Chaudhry (2020); Yu (Sarah) Fu (2020); Andrew Poskus (2019); Maya El-Zahed (2019); Grant Yang (2019); Olena Leshchyshen (2019); Rita Waseem (2019); Christian Kleiser (2018); Christopher Li (2018); Faryal Zahir (2018)
+
+#### Research assistants
+
+Elizabeth Mitchell (2020-23); Celeste de Faveri (2021-23); Lidia Barbera (2022-23); Hibaa Hasan (2022-23); Faith Adams (2022); Chitrini Tandon (2021-22); Kristen Arnold (2021-22); Alison Williams (2018-20); Andrew Poskus (2019); Kevin Gilotra (2019); Ashton Yuen (2019); Mackenzie (Kenzie) Bell (2019-21); Olena Leshchyshen (2018-19); Yu (Sarah) Fu (2018-19)

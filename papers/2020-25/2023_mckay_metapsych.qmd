@@ -1,0 +1,42 @@
+---
+title: "A critical re-analysis of six implicit learning papers"
+type: "article"
+author: "McKay B. & Carter MJ."
+year: "2023"
+publication: "Meta-Psychology"
+pdf: ""
+doi: "https://doi.org/10.15626/MP.2021.2938"
+github: "https://www.github.com/cartermaclab/comm_lola-tzetzis-data-irregularities"
+materials: "https://osf.io/raz6q/"
+#supplementary: ""
+preprint: "https://psyarxiv.com/n8mab/"
+toc: false
+---
+
+## Citation
+
+### APA 7th
+
+> McKay, B., & Carter, M. (2023). A critical re-analysis of six implicit learning papers. *Meta-Psychology*, 7. https://doi.org/10.15626/MP.2021.2938
+
+### Bibtex
+
+<pre>
+@article{,
+  title = {A Critical Re-Analysis of Six Implicit Learning Papers},
+  author = {McKay, Brad and Carter, Michael},
+  date = {2023-07-10},
+  journaltitle = {Meta-Psychology},
+  volume = {7},
+  issn = {2003-2714},
+  doi = {10.15626/MP.2021.2938},
+  url = {https://open.lnu.se/index.php/metapsychology/article/view/2938},
+  urldate = {2023-07-13},
+  langid = {english},
+  keywords = {Effect sizes,GRIMMER,Metascience,Perceptual motor learning}
+}
+</pre>
+
+## Abstract
+
+We present a critical re-analysis of six implicit learning papers published by the same authors between 2010 and 2021. We calculated effect sizes for each pairwise comparison reported in the papers using the data published in each article. We further identified mathematically impossible data reported in multiple papers, either with deductive logic or by conducting a GRIMMER analysis of reported means and standard deviations. We found the pairwise effect sizes were implausible in all six articles in question, with Cohen’s *d* values often exceeding 100 and sometimes exceeding 1000. In contrast, the largest effect size observed in a million simulated experiments with a true effect of *d* = 3 was *d* = 6.6. Impossible statistics were reported in four out of the six articles. Reported test statistics and $\eta^{2}$ values were also implausible, with several $\eta^{2}$ = .99 and even $\eta^{2}$ = 1.0 for between-subjects main effects. The results reported in the six articles in question are unreliable. Many of the problems we identified could be spotted without further analysis.

@@ -1,0 +1,45 @@
+---
+title: "Learner regulated knowledge of results during the acquisition of multiple timing goals"
+type: "article"
+author: "Patterson JT. & Carter MJ."
+year: "2010"
+publication: "Human Movement Science"
+pdf: ""
+doi: "https://doi.org/10.1016/j.humov.2009.12.003"
+github: ""
+materials: ""
+#supplementary: ""
+preprint: ""
+toc: false
+---
+
+## Citation
+
+### APA 7th
+
+> Patterson, J. T., & Carter, M. J. (2010). Learner regulated knowledge of results during the acquisition of multiple timing goals. *Human Movement Science*, 29(2), 214–227. https://doi.org/10.1016/j.humov.2009.12.003
+
+### Bibtex
+
+<pre>
+@article{,
+  title = {Learner Regulated Knowledge of Results during the Acquisition of Multiple Timing Goals},
+  author = {Patterson, Jae T. and Carter, Michael J.},
+  date = {2010-04-01},
+  journaltitle = {Human Movement Science},
+  shortjournal = {Human Movement Science},
+  volume = {29},
+  number = {2},
+  pages = {214--227},
+  issn = {0167-9457},
+  doi = {10.1016/j.humov.2009.12.003},
+  url = {https://www.sciencedirect.com/science/article/pii/S0167945710000035},
+  urldate = {2023-07-13},
+  langid = {english},
+  keywords = {Knowledge of results,Motor learning,Motor skills,Practice,Self-control}
+}
+</pre>
+
+## Abstract
+
+The purpose of the present experiment was to examine the advantages of a learner controlled KR schedule during the acquisition of three novel sequential timing tasks. The self-regulated group requested KR when necessary during the acquisition period while participants in the yoked condition replicated the KR schedule of a self-regulated counterpart, without the choice. The self-regulated condition demonstrated superior performance in retention and transfer, with a relative KR frequency similar for all three sequences. Similar to Chiviacowsky and Wulf (2002), learners also demonstrated a preference for KR after perceived good trials, independent of defined task difficulty. Thus, the results extend previous research by suggesting a generalized learning strategy by performers acquiring multiple motor task goals.

@@ -1,0 +1,44 @@
+---
+title: "Startle neural activity is additive with normal cortical initiation-related activation"
+type: "article"
+author: "Maslovat D., Carter MJ., Kennefick M., & Carlsen AN."
+year: "2014"
+publication: "Neuroscience Letters"
+pdf: ""
+doi: "https://doi.org/10.1016/j.neulet.2013.11.009"
+github: ""
+materials: ""
+#supplementary: ""
+preprint: ""
+toc: false
+---
+
+## Citation
+
+### APA 7th
+
+> Maslovat, D., Carter, M. J., Kennefick, M., & Carlsen, A. N. (2014). Startle neural activity is additive with normal cortical initiation-related activation. *Neuroscience Letters*, 558, 164–168. https://doi.org/10.1016/j.neulet.2013.11.009
+
+### Bibtex
+
+<pre>
+@article{,
+  title = {Startle Neural Activity Is Additive with Normal Cortical Initiation-Related Activation},
+  author = {Maslovat, Dana and Carter, Michael J. and Kennefick, Michael and Carlsen, Anthony N.},
+  date = {2014-01-13},
+  journaltitle = {Neuroscience Letters},
+  shortjournal = {Neuroscience Letters},
+  volume = {558},
+  pages = {164--168},
+  issn = {0304-3940},
+  doi = {10.1016/j.neulet.2013.11.009},
+  url = {https://www.sciencedirect.com/science/article/pii/S0304394013010094},
+  urldate = {2023-07-13},
+  langid = {english},
+  keywords = {Additive model,Initiation,Motor preparation,Neural activation,Startle}
+}
+</pre>
+
+## Abstract
+
+The current study examined the process of response initiation in a simple reaction time (RT) task using a startling acoustic stimulus (SAS), which has been shown to trigger a prepared movement through an involuntary initiation pathway. The SAS was presented within the RT interval (concurrent with, and 25, 50, 75, 100, and 125 ms following the “go” signal), with the observed response latency used to examine the relative contributions of voluntary and involuntary activation to response initiation. Our results clearly indicate that both voluntary and startle-related initiation activation jointly contribute to the observed RT. The data support a model in which startle-related neural activity is additive with voluntary cortical initiation-related activation. This result also provides indirect support for the hypothesis that both voluntary and SAS-related involuntary activation involve a similar process of response output.

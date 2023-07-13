@@ -1,0 +1,46 @@
+---
+title: "Measuring investment in learning: Can electrocardiogram provide an indication of cognitive effort during learning?"
+type: "article"
+author: "Patterson JT., Hart A., Hansen S., Carter MJ., & Ditor D."
+year: "2016"
+publication: "Perceptual and Motor Skills"
+pdf: ""
+doi: "https://doi.org/10.1177/0031512516633348"
+github: ""
+materials: ""
+#supplementary: ""
+preprint: ""
+toc: false
+---
+
+## Citation
+
+### APA 7th
+
+> Patterson, J. T., Hart, A., Hansen, S., Carter, M. J., & Ditor, D. (2016). Measuring investment in learning: Can electrocardiogram provide an indication of cognitive effort during learning? *Perceptual and Motor Skills*, 122(2), 375–394. https://doi.org/10.1177/0031512516633348
+
+### Bibtex
+
+<pre>
+@article{,
+  title = {Measuring Investment in Learning: {{Can}} Electrocardiogram Provide an Indication of Cognitive Effort during Learning?},
+  shorttitle = {Measuring {{Investment}} in {{Learning}}},
+  author = {Patterson, Jae T. and Hart, Amanda and Hansen, Steve and Carter, Michael J. and Ditor, David},
+  date = {2016-04-01},
+  journaltitle = {Perceptual and Motor Skills},
+  shortjournal = {Percept Mot Skills},
+  volume = {122},
+  number = {2},
+  pages = {375--394},
+  publisher = {{SAGE Publications Inc}},
+  issn = {0031-5125},
+  doi = {10.1177/0031512516633348},
+  url = {https://doi.org/10.1177/0031512516633348},
+  urldate = {2023-07-13},
+  langid = {english}
+}
+</pre>
+
+## Abstract
+
+Heart rate variability (i.e., low frequency:high frequency ratio) was measured to differentiate invested cognitive effort during the acquisition and retention of a novel task. Participants (12 male, *M* = 25.1 year, *SD* = 3.6; 12 female, *M* = 22.8 year, *SD* = 1.1) were required to produce Braille equivalents of English letter primes on a standardized keyboard in proactive or retroactive conditions (groups, each *n* = 12). The correct Braille response was either provided before (i.e., proactively) or after (i.e., retroactively) the participant’s response. During acquisition, participants in the proactive group demonstrated shorter study time, greater recall success, and reported lower cognitive investment. Participants in the proactive and retroactive groups did not statistically differ in heart rate variability. For retention, the retroactive group showed greater recall success, lower perceived cognitive effort investment, and lower heart rate variability. The results highlight the usefulness of heart rate variability in discriminating the cognitive effort invested for a recently acquired skill.

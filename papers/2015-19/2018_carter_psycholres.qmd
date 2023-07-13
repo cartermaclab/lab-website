@@ -1,0 +1,44 @@
+---
+title: "Anodal transcranial direct current stimulation over the primary motor cortex does not enhance the learning benefits of self-controlled feedback schedules"
+type: "article"
+author: "Carter MJ., Smith V., Carlsen AN., & Ste-Marie DM."
+year: "2018"
+publication: "Psychological Research"
+pdf: ""
+doi: "https://doi.org/10.1007/s00426-017-0846-x"
+github: ""
+materials: ""
+#supplementary: ""
+preprint: ""
+toc: false
+---
+
+## Citation
+
+### APA 7th
+
+> Carter, M. J., Smith, V., Carlsen, A. N., & Ste-Marie, D. M. (2018). Anodal transcranial direct current stimulation over the primary motor cortex does not enhance the learning benefits of self-controlled feedback schedules. *Psychological Research*, 82(3), 496–506. https://doi.org/10.1007/s00426-017-0846-x
+
+### Bibtex
+
+<pre>
+@article{,
+  title = {Anodal Transcranial Direct Current Stimulation over the Primary Motor Cortex Does Not Enhance the Learning Benefits of Self-Controlled Feedback Schedules},
+  author = {Carter, Michael J. and Smith, Victoria and Carlsen, Anthony N. and Ste-Marie, Diane M.},
+  date = {2018-05-01},
+  journaltitle = {Psychological Research},
+  shortjournal = {Psychological Research},
+  volume = {82},
+  number = {3},
+  pages = {496--506},
+  issn = {1430-2772},
+  doi = {10.1007/s00426-017-0846-x},
+  url = {https://doi.org/10.1007/s00426-017-0846-x},
+  urldate = {2023-07-13},
+  langid = {english}
+}
+</pre>
+
+## Abstract
+
+A distinct learning advantage has been shown when participants control their knowledge of results (KR) scheduling during practice compared to when the same KR schedule is imposed on the learner without choice (i.e., yoked schedules). Although the learning advantages of self-controlled KR schedules are well-documented, the brain regions contributing to these advantages remain unknown. Identifying key brain regions would not only advance our theoretical understanding of the mechanisms underlying self-controlled learning advantages, but would also highlight regions that could be targeted in more applied settings to boost the already beneficial effects of self-controlled KR schedules. Here, we investigated whether applying anodal transcranial direct current stimulation (tDCS) to the primary motor cortex (M1) would enhance the typically found benefits of learning a novel motor skill with a self-controlled KR schedule. Participants practiced a spatiotemporal task in one of four groups using a factorial combination of KR schedule (self-controlled vs. yoked) and tDCS (anodal vs. sham). Testing occurred on two consecutive days with spatial and temporal accuracy measured on both days and learning was assessed using 24-h retention and transfer tests without KR. All groups improved their performance in practice and a significant effect for practicing with a self-controlled KR schedule compared to a yoked schedule was found for temporal accuracy in transfer, but a similar advantage was not evident in retention. There were no significant differences as a function of KR schedule or tDCS for spatial accuracy in retention or transfer. The lack of a significant tDCS effect suggests that M1 may not strongly contribute to self-controlled KR learning advantages; however, caution is advised with this interpretation as typical self-controlled learning benefits were not strongly replicated in the present experiment.

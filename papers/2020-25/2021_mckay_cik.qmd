@@ -1,0 +1,45 @@
+---
+title: "Expecting to teach a novel golf putting task did not enhance retention performance: A replication attempt of Daou and colleagues"
+type: "article"
+author: "McKay B., Hussien J., Carter MJ., Yantha ZD., & Ste-Marie DM."
+year: "2021"
+publication: "Communications in Kinesiology"
+pdf: ""
+doi: "https://doi.org/10.51224/cik.v1i2.39"
+github: "https://github.com/cartermaclab/expt_expect-to-teach"
+materials: "https://osf.io/r6z84/"
+#supplementary: ""
+preprint: "https://osf.io/preprints/sportrxiv/u897b/"
+toc: false
+---
+
+## Citation
+
+### APA 7th
+
+> McKay, B., Hussien, J., Carter, M., Yantha, Z., & Ste-Marie, D. (2021). Expecting to teach a novel golf putting task did not enhance retention performance: A replication attempt of Daou and colleagues. *Communications in Kinesiology*, 1(2), Article 2. https://doi.org/10.51224/cik.v1i2.39
+
+### Bibtex
+
+<pre>
+@article{,
+  title = {Expecting to Teach a Novel Golf Putting Task Did Not Enhance Retention Performance: {{A}} Replication Attempt of {{Daou}} and Colleagues},
+  shorttitle = {Expecting to Teach a Novel Golf Putting Task Did Not Enhance Retention Performance},
+  author = {McKay, Brad and Hussien, Julia and Carter, Michael and Yantha, Zachary and Ste-Marie, Diane},
+  date = {2021-09-03},
+  journaltitle = {Communications in Kinesiology},
+  volume = {1},
+  number = {2},
+  issn = {2767-0732},
+  doi = {10.51224/cik.v1i2.39},
+  url = {https://storkjournals.org/index.php/cik/article/view/39},
+  urldate = {2023-07-13},
+  issue = {2},
+  langid = {english},
+  keywords = {Motor learning,Preregistered,Sequential analysis,Two-one-sided-tests}
+}
+</pre>
+
+## Abstract
+
+While research has identified several practice variables that purportedly enhance motor learning, recent replication failures highlight the importance of conducting high-powered, pre-registered replications. The "expecting to teach" phenomenon was first reported in the motor learning literature by Daou and colleagues and suggested learners benefit from practicing with the understanding they will later need to teach the skill. The extant data have been mixed but generally positive. While expecting to teach has been shown to enhance motor learning of a golf putt, the mechanisms linked with this benefit are yet to be determined. As such, this study sought to replicate the expecting to teach effect and to extend those findings by exploring participants’ thought processes. Participants (*N* = 76) were randomly assigned to one of two groups in which they were told that they were learning a golf putt in order to 1) be tested on the skill or 2) teach the skill to another individual. On Day 1, participants completed pre-test putts, a pre-acquisition intrinsic motivation inventory (IMI), a 2-minute study of an instructional booklet, 50 practice putts and a post-acquisition IMI. During practice, participants were also afforded opportunities to continue studying the booklet and to complete additional putts. Participants returned 24 hours later to complete a retention, a transfer (50-cm longer golf-putt), and a free recall test, as well as a post-study survey to reveal thoughts they engaged in after practice but before (or during) the retention test. Similar to Daou et al., no significant differences were found with study time, number of acquisition putts, or motivation. However, golf-putting performance during retention resulted in no differences for radial error, *g* = -0.13 (95% C.I. [-0.55, 0.29]), between the two groups and no differences were shown for the recall test. The present study fails to replicate the benefits reported in the original experiments.

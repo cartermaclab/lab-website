@@ -1,0 +1,51 @@
+---
+title: "Papers"
+pagetitle: "CarterLab | Papers"
+toc: true
+toc-title: "Jump to..."
+listing:
+  - id: preprints
+    contents: "papers/preprints/*.qmd"
+    template: papers.ejs
+    sort:
+      - "year desc"
+      - "author"
+  - id: papers2020
+    contents: "papers/2020-25/*.qmd"
+    template: papers.ejs
+    sort:
+      - "year desc"
+      - "author"
+  - id: papers2015
+    contents: "papers/2015-19/*.qmd"
+    template: papers.ejs
+    sort:
+      - "year desc"
+      - "author"
+  - id: papers2010
+    contents: "papers/2010-14/*.qmd"
+    template: papers.ejs
+    sort:
+      - "year desc"
+      - "author"
+---
+
+## Preprints
+
+:::{#preprints}
+:::
+
+## 2020--23
+
+:::{#papers2020}
+:::
+
+## 2015--19
+
+:::{#papers2015}
+:::
+
+## 2010--14
+
+:::{#papers2010}
+:::

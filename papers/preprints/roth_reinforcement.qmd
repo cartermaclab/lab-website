@@ -1,0 +1,42 @@
+---
+title: "Reinforcement-based processes actively regulate motor exploration along redundant solution manifolds"
+type: "article"
+author: "Roth AM., Calalo JA., Lokesh R., Sullivan SR., Grill S., Jeka JJ., van der Kooij K., Carter MJ., & Cashaback JGA."
+year: "2023"
+publication: "bioR&#43859;iv"
+pdf: ""
+doi: "https://doi.org/10.1101/2023.02.08.527668"
+github: ""
+materials: ""
+#supplementary: ""
+preprint: ""
+toc: false
+---
+
+## Citation
+
+### APA 7th
+
+> Roth, A. M., Calalo, J. A., Lokesh, R., Sullivan, S. R., Grill, S., Jeka, J. J., Kooij, K. van der, Carter, M. J., & Cashaback, J. G. A. (2023). Reinforcement-based processes actively regulate motor exploration along redundant solution manifolds. *bioRxiv*. https://doi.org/10.1101/2023.02.08.527668
+
+### Bibtex
+
+<pre>
+@preprint{roth2023,
+  title = {Reinforcement-Based Processes Actively Regulate Motor Exploration along Redundant Solution Manifolds},
+  author = {Roth, Adam M. and Calalo, Jan A. and Lokesh, Rakshith and Sullivan, Seth R. and Grill, Stephen and Jeka, John J. and family=Kooij, given=Katinka, prefix=van der, useprefix=false and Carter, Michael J. and Cashaback, Joshua G. A.},
+  date = {2023-02-22},
+  eprinttype = {bioRxiv},
+  eprintclass = {New Results},
+  pages = {2023.02.08.527668},
+  doi = {10.1101/2023.02.08.527668},
+  url = {https://www.biorxiv.org/content/10.1101/2023.02.08.527668v2},
+  urldate = {2023-07-13},
+  langid = {english},
+  pubstate = {preprint}
+}
+</pre>
+
+## Abstract
+
+From a baby’s babbling to a songbird practicing a new tune, exploration is critical to motor learning. A hallmark of exploration is the emergence of random walk behaviour along solution manifolds, where successive motor actions are not independent but rather become serially dependent. Such exploratory random walk behaviour is ubiquitous across species, neural firing, gait patterns, and reaching behaviour. Past work has suggested that exploratory random walk behaviour arises from an accumulation of movement variability and a lack of error-based corrections. Here we test a fundamentally different idea—that reinforcement-based processes regulate random walk behaviour to promote continual motor exploration to maximize success. Across three human reaching experiments we manipulated the size of both the visually displayed target and an unseen reward zone, as well as the probability of reinforcement feedback. Our empirical and modelling results parsimoniously support the notion that exploratory random walk behaviour emerges by utilizing knowledge of movement variability to update intended reach aim towards recently reinforced motor actions. This mechanism leads to active and continuous exploration of the solution manifold, currently thought by prominent theories to arise passively. The ability to continually explore muscle, joint, and task redundant solution manifolds is beneficial while acting in uncertain environments, during motor development, or when recovering from a neurological disorder to discover and learn new motor actions.

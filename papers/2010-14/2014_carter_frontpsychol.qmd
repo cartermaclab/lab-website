@@ -1,0 +1,41 @@
+---
+title: "Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005)"
+type: "article"
+author: "Carter MJ., Carlsen AN., & Ste-Marie DM."
+year: "2014"
+publication: "Frontiers in Psychology"
+pdf: ""
+doi: "https://doi.org/10.3389/fpsyg.2014.01325"
+github: ""
+materials: ""
+#supplementary: ""
+preprint: ""
+toc: false
+---
+
+## Citation
+
+### APA 7th
+
+> Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: A replication and extension of Chiviacowsky and Wulf (2005). *Frontiers in Psychology*, 5. https://doi.org/10.3389/fpsyg.2014.01325
+
+### Bibtex
+
+<pre>
+@article{,
+  title = {Self-Controlled Feedback Is Effective If It Is Based on the Learner’s Performance: {{A}} Replication and Extension of {{Chiviacowsky}} and {{Wulf}} (2005)},
+  shorttitle = {Self-Controlled Feedback Is Effective If It Is Based on the Learner’s Performance},
+  author = {Carter, Michael J. and Carlsen, Anthony N. and Ste-Marie, Diane M.},
+  date = {2014},
+  journaltitle = {Frontiers in Psychology},
+  volume = {5},
+  issn = {1664-1078},
+  doi = {10.3389/fpsyg.2014.01325},
+  url = {https://www.frontiersin.org/articles/10.3389/fpsyg.2014.01325},
+  urldate = {2023-07-13}
+}
+</pre>
+
+## Abstract
+
+The learning advantages of self-controlled feedback schedules compared to yoked schedules have been attributed to motivational influences and/or information processing activities with many researchers adopting the motivational perspective in recent years. Chiviacowsky and Wulf (2005) found that feedback decisions made before (Self-Before) or after a trial (Self-After) resulted in similar retention performance, but superior transfer performance resulted when the decision to receive feedback occurred after a trial. They suggested that the superior skill transfer of the Self-After group likely emerged from information processing activities such as error estimation. However, the lack of yoked groups and a measure of error estimation in their experimental design prevents conclusions being made regarding the underlying mechanisms of why self-controlled feedback schedules optimize learning. Here, we revisited Chiviacowsky and Wulf’s (2005) design to investigate the learning benefits of self-controlled feedback schedules. We replicated their Self-Before and Self-After groups, but added a Self-Both group that was able to request feedback before a trial, but could then change or stay with their original choice after the trial. Importantly, yoked groups were included for the three self-controlled groups to address the previously stated methodological limitation and error estimations were included to examine whether self-controlling feedback facilitates a more accurate error detection and correction mechanism. The Self-After and Self-Before groups demonstrated similar accuracy in physical performance and error estimation scores in retention and transfer, and both groups were significantly more accurate than the Self-Before group and their respective Yoked groups (*p*’s < 0.05). Further, the Self-Before group was not significantly different from their yoked counterparts (*p*’s > 0.05). We suggest these findings further indicate that informational factors associated with the processing of feedback for the development of one’s error detection and correction mechanism, rather than motivational processes are more critical for why self-controlled feedback schedules optimize motor learning.

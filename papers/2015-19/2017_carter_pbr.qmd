@@ -1,0 +1,46 @@
+---
+title: "Not all choices are created equal: Task-relevant choices enhance motor learning compared to task-irrelevant choices"
+type: "article"
+author: "Carter MJ. & Ste-Marie DM."
+year: "2017"
+publication: "Psychonomic Bulletin & Review"
+pdf: ""
+doi: "https://doi.org/10.3758/s13423-017-1250-7"
+github: ""
+materials: ""
+#supplementary: ""
+preprint: ""
+toc: false
+---
+
+## Citation
+
+### APA 7th
+
+> Carter, M. J., & Ste-Marie, D. M. (2017). Not all choices are created equal: Task-relevant choices enhance motor learning compared to task-irrelevant choices. *Psychonomic Bulletin & Review*, 24(6), 1879–1888. https://doi.org/10.3758/s13423-017-1250-7
+
+### Bibtex
+
+<pre>
+@article{,
+  title = {Not All Choices Are Created Equal: {{Task-relevant}} Choices Enhance Motor Learning Compared to Task-Irrelevant Choices},
+  shorttitle = {Not All Choices Are Created Equal},
+  author = {Carter, Michael J. and Ste-Marie, Diane M.},
+  date = {2017-12-01},
+  journaltitle = {Psychonomic Bulletin \& Review},
+  shortjournal = {Psychon Bull Rev},
+  volume = {24},
+  number = {6},
+  pages = {1879--1888},
+  issn = {1531-5320},
+  doi = {10.3758/s13423-017-1250-7},
+  url = {https://doi.org/10.3758/s13423-017-1250-7},
+  urldate = {2023-07-13},
+  langid = {english},
+  keywords = {Autonomy,Competence,Error estimation,Information processing,Motor learning}
+}
+</pre>
+
+## Abstract
+
+Lewthwaite et al. (2015) reported that the learning benefits of exercising choice (i.e., their self-controlled condition) are not restricted to task-relevant features (e.g., feedback). They found that choosing one’s golf ball color (Exp. 1) or choosing which of two tasks to perform at a later time plus which of two artworks to hang (Exp. 2) resulted in better retention than did being denied these same choices (i.e., yoked condition). The researchers concluded that the learning benefits derived from choice, whether irrelevant or relevant to the to-be-learned task, are predominantly motivational because choice is intrinsically rewarding and satisfies basic psychological needs. However, the absence of a group that made task-relevant choices and the lack of psychological measures significantly weakened their conclusions. Here, we investigated how task-relevant and task-irrelevant choices affect motor-skill learning. Participants practiced a spatiotemporal motor task in either a task-relevant group (choice over feedback schedule), a task-irrelevant group (choice over the color of an arm-wrap plus game selection), or a no-choice group. The results showed significantly greater learning in the task-relevant group than in both the task-irrelevant and no-choice groups, who did not differ significantly. Critically, these learning differences were not attributed to differences in perceptions of competence or autonomy, but instead to superior error-estimation abilities. These results challenge the perspective that motivational influences are the root cause of self-controlled learning advantages. Instead, the findings add to the growing evidence highlighting that the informational value gained from task-relevant choices makes a greater relative contribution to these advantages than motivational influences.

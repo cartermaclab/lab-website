@@ -1,0 +1,46 @@
+---
+title: "Reduced motor preparation during dual-task performance: Evidence from startle"
+type: "article"
+author: "Maslovat D., Drummond NM., Carter MJ., & Carlsen AN."
+year: "2015"
+publication: "Experimental Brain Research"
+pdf: ""
+doi: "https://doi.org/10.1007/s00221-015-4340-7"
+github: ""
+materials: ""
+#supplementary: ""
+preprint: ""
+toc: false
+---
+
+## Citation
+
+### APA 7th
+
+> Maslovat, D., Drummond, N. M., Carter, M. J., & Carlsen, A. N. (2015). Reduced motor preparation during dual-task performance: Evidence from startle. *Experimental Brain Research*, 233(9), 2673–2683. https://doi.org/10.1007/s00221-015-4340-7
+
+### Bibtex
+
+<pre>
+@article{,
+  title = {Reduced Motor Preparation during Dual-Task Performance: {{Evidence}} from Startle},
+  shorttitle = {Reduced Motor Preparation during Dual-Task Performance},
+  author = {Maslovat, Dana and Drummond, Neil M. and Carter, Michael J. and Carlsen, Anthony N.},
+  date = {2015-09-01},
+  journaltitle = {Experimental Brain Research},
+  shortjournal = {Exp Brain Res},
+  volume = {233},
+  number = {9},
+  pages = {2673--2683},
+  issn = {1432-1106},
+  doi = {10.1007/s00221-015-4340-7},
+  url = {https://doi.org/10.1007/s00221-015-4340-7},
+  urldate = {2023-07-13},
+  langid = {english},
+  keywords = {Activation,Attention,Dual-task,Preparation,Probe reaction time,Startle}
+}
+</pre>
+
+## Abstract
+
+Previous studies have used a secondary probe reaction time (RT) task to assess attentional demands of a primary task. The current study used a startling acoustic stimulus (SAS) in a probe RT paradigm to test the hypothesis that attentional resources would be directly related to limitations in response preparation. Participants performed an easy or difficult version of a continuous primary task that was either primarily motor in nature (pursuit tracking) or cognitive (counting backward). Concurrently, participants responded to an auditory cue as fast as possible by performing a wrist extension secondary movement. On selected trials, the auditory cue was replaced with a SAS (120 dB), which is thought to involuntarily trigger a prepared response and thus bypass any response initiation bottleneck that may be present when trying to perform two movements. Although startle trials were performed at a shorter latency, both non-startle and startle probe trials resulted in a delayed RT, as compared to single-task trials, consistent with reduced preparation of the secondary task. In addition, analysis of SAS trial RT when a startle indicator was present versus absent provided evidence that the secondary task was at a lowered state of preparation when engaged in the cognitive primary task as compared to a motor primary task, suggesting a facilitative effect on preparatory activation when both the primary and secondary tasks are motoric in nature.

@@ -1,0 +1,47 @@
+---
+title: "Self-controlled learning benefits: exploring contributions of self-efficacy and intrinsic motivation via path analysis"
+type: "article"
+author: "Ste-Marie DM., Carter MJ., Law B., Vertes K., & Smith V."
+year: "2016"
+publication: "Journal of Sports Sciences"
+pdf: ""
+doi: "https://doi.org/10.1080/02640414.2015.1130236"
+github: ""
+materials: ""
+#supplementary: ""
+preprint: ""
+toc: false
+---
+
+## Citation
+
+### APA 7th
+
+> Ste-Marie, D. M., Carter, M. J., Law, B., Vertes, K., & Smith, V. (2016). Self-controlled learning benefits: Exploring contributions of self-efficacy and intrinsic motivation via path analysis. *Journal of Sports Sciences*, 34(17), 1650–1656. https://doi.org/10.1080/02640414.2015.1130236
+
+### Bibtex
+
+<pre>
+@article{,
+  title = {Self-Controlled Learning Benefits: {{Exploring}} Contributions of Self-Efficacy and Intrinsic Motivation via Path Analysis},
+  shorttitle = {Self-Controlled Learning Benefits},
+  author = {Ste-Marie, Diane M. and Carter, Michael J. and Law, Barbi and Vertes, Kelly and Smith, Victoria},
+  date = {2016-09-01},
+  journaltitle = {Journal of Sports Sciences},
+  volume = {34},
+  number = {17},
+  eprint = {26707002},
+  eprinttype = {pmid},
+  pages = {1650--1656},
+  publisher = {{Routledge}},
+  issn = {0264-0414},
+  doi = {10.1080/02640414.2015.1130236},
+  url = {https://doi.org/10.1080/02640414.2015.1130236},
+  urldate = {2023-07-13},
+  keywords = {knowledge of performance,learner-controlled,Motor skill learning,video feedback}
+}
+</pre>
+
+## Abstract
+
+Research has shown learning advantages for self-controlled practice contexts relative to yoked (i.e., experimenter-imposed) contexts; yet, explanations for this phenomenon remain relatively untested. We examined, via path analysis, whether self-efficacy and intrinsic motivation are important constructs for explaining self-controlled learning benefits. The path model was created using theory-based and empirically supported relationships to examine causal links between these psychological constructs and physical performance. We hypothesised that self-efficacy and intrinsic motivation would have greater predictive power for learning under self-controlled compared to yoked conditions. Participants learned double-mini trampoline progressions, and measures of physical performance, self-efficacy and intrinsic motivation were collected over two practice days and a delayed retention day. The self-controlled group (*M* = 2.04, *SD* = .98) completed significantly more skill progressions in retention than their yoked counterparts (*M* = 1.3, *SD* = .65). The path model displayed adequate fit, and similar significant path coefficients were found for both groups wherein each variable was predominantly predicted by its preceding time point (e.g., self-efficacy time 1 predicts self-efficacy time 2). Interestingly, the model was not moderated by group; thus, failing to support the hypothesis that self-efficacy and intrinsic motivation have greater predictive power for learning under self-controlled relative to yoked conditions.

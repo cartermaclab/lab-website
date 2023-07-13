@@ -1,0 +1,940 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "carterlab",
+    "section": "",
+    "text": "The Action, Cognition, and Metascience Lab is an interdisciplinary research team investigating basic scientific questions about how the human brain controls and learns skilled actions. We study decision-making for action and practice factors supporting skill acquisition and maintenance in single- and multi-agent scenarios. We also conduct metascience research to gain important insights into research practices within kinesiology and sport science. We are located in the Ivor Wynne Centre, which is home to the Department of Kinesiology within the Faculty of Science at McMaster University.\n\nRecent lab news ———\n[June 28 2023]. New award. Congratulations Dr. Laura St. Germain on a successfully defending your doctoral work.\n[June 20 2023]. New award. Congratulations to Laura St. Germain (Ph.D. Candidate) on winning the 2023 Franklin Henry Young Scientist Award in Motor Control and Learning from the Canadian Society for Psychomotor Learning and Sport Psychology.\n[June 16 2023]. New preprint. McKay, B., Corson, A.E., Seedu, J., De Faveri, C.S., Hasan, H., Arnold, K., Adams, F.C., & Carter, M.J. Reporting bias, not external focus: A robust Bayesian meta-analysis of the attentional focus literature. SportR\\(\\chi\\)iv. doi: https://doi.org/10.51224/SRXIV.304\n[May 26 2023]. Paper accepted. Lokesh, R., Sullivan, S.R., St. Germain, L., Roth, A.M., Calalo, J.A., Buggeln, J., Ngo, T., Marchhart, V.R.F., Carter, M.J, & Cashaback, J.G.A. Visual accuracy dominates over haptic speed for state estimation of a partner during collaborative sensorimotor interactions. Journal of Neurophysiology."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Our research is supported by the Natural Sciences and Engineering Research Council of Canada, the Canadian Foundation for Innovation, and the Ontario Research Fund."
+  },
+  {
+    "objectID": "research.html#current-projects",
+    "href": "research.html#current-projects",
+    "title": "Research",
+    "section": "Current projects",
+    "text": "Current projects\n\nDecision-making for action\nReal-world action tasks involve a sequence of decision-making processes that determine, based on information extracted during the unfolding task, which movement to make next and when to make it. This complex interplay between decision-making and action is essential for understanding how people learn to make optimal choices, develop and learn skilled actions, and for elucidating how motor disorders (e.g., Parkinson’s, Alzheimer’s, etc) impact cognition in order to develop novel and more effective neurorehabilitation protocols. We are currently conducting experiments to better understand a) how individuals invest their time when learning multiple skills with the goal of maximize overall proficieny, and b) how individuals select and specify actions with multiple potential goals and/or sequential goals.\n\n\nSensorimotor interactions\nOur lives are filled with sensorimotor interactions between two or more people, from dancing to sports to receiving rehabilitation from a physical therapist. Sensorimotor neuroscience has largely focused on how a single person controls their movement. Yet our own evolution, survival, and neural hardwiring have been shaped by our ability to compete and collaborate with others. We are currently conducting experiments to better understand a) how the assignment of errors is used to adapt one’s behaviour during multi-agent learning (e.g., virtual partner or another human), b) how we utilize online bidirectional sensorimotor information—vision and/or haptics—to make rapid decisions and jointly select actions together, and c) how different factors (e.g., individual, task, environment, socio-cultural) drive our decision to perform tasks alone or with a partner.\n\n\nMotor learning metascience\nIn recent years, there has been a lot of discussion about the replication crisis in psychology, neuroscience, and medical research to name just a few. Much of this is likely attributed to questionable research practices such as, but not limited to, p-hacking, HARKing (or Hypothesizing After Results are Known), publication bias, and a flawed incentive structure within academia. Metascience is the field of research on the scientific process itself and has been effective in advancing our understanding of how science (should) work and why it sometimes fails. We are interested in applying meta-research techniques to better understand the state of motor behaviour research in particular, but also more generally the field of kinesiology and sport science."
+  },
+  {
+    "objectID": "research.html#past-projects",
+    "href": "research.html#past-projects",
+    "title": "Research",
+    "section": "Past projects",
+    "text": "Past projects\n\nThe role of autonomy-support in motor learning\nThe influence of feedback characteristics on motor learning"
+  },
+  {
+    "objectID": "papers/2020-25/2023_mckay_irsep.html",
+    "href": "papers/2020-25/2023_mckay_irsep.html",
+    "title": "The combination of reporting bias and underpowered study designs has substantially exaggerated the motor learning benefits of self-controlled practice and enhanced expectancies: A meta-analysis",
+    "section": "",
+    "text": "McKay, B., Bacelar, M. F. B., Parma, J. O., Miller, M. W., & Carter, M. J. (2023). The combination of reporting bias and underpowered study designs has substantially exaggerated the motor learning benefits of self-controlled practice and enhanced expectancies: A meta-analysis. International Review of Sport and Exercise Psychology, 0(0), 1–21. https://doi.org/10.1080/1750984X.2023.2207255\n\n\n\n\n@article{,\n  title = {The Combination of Reporting Bias and Underpowered Study Designs Has Substantially Exaggerated the Motor Learning Benefits of Self-Controlled Practice and Enhanced Expectancies: {{A}} Meta-Analysis},\n  shorttitle = {The Combination of Reporting Bias and Underpowered Study Designs Has Substantially Exaggerated the Motor Learning Benefits of Self-Controlled Practice and Enhanced Expectancies},\n  author = {McKay, Brad and Bacelar, Mariane F. B. and Parma, Juliana O. and Miller, Matthew W. and Carter, Michael J.},\n  date = {2023-05-04},\n  journaltitle = {International Review of Sport and Exercise Psychology},\n  volume = {0},\n  number = {0},\n  pages = {1--21},\n  publisher = {{Routledge}},\n  issn = {1750-984X},\n  doi = {10.1080/1750984X.2023.2207255},\n  url = {https://doi.org/10.1080/1750984X.2023.2207255},\n  urldate = {2023-07-13},\n  keywords = {motivation,OPTIMAL theory,publication bias,roBMA,Z-curve}\n}"
+  },
+  {
+    "objectID": "papers/2020-25/2023_mckay_irsep.html#citation",
+    "href": "papers/2020-25/2023_mckay_irsep.html#citation",
+    "title": "The combination of reporting bias and underpowered study designs has substantially exaggerated the motor learning benefits of self-controlled practice and enhanced expectancies: A meta-analysis",
+    "section": "",
+    "text": "McKay, B., Bacelar, M. F. B., Parma, J. O., Miller, M. W., & Carter, M. J. (2023). The combination of reporting bias and underpowered study designs has substantially exaggerated the motor learning benefits of self-controlled practice and enhanced expectancies: A meta-analysis. International Review of Sport and Exercise Psychology, 0(0), 1–21. https://doi.org/10.1080/1750984X.2023.2207255\n\n\n\n\n@article{,\n  title = {The Combination of Reporting Bias and Underpowered Study Designs Has Substantially Exaggerated the Motor Learning Benefits of Self-Controlled Practice and Enhanced Expectancies: {{A}} Meta-Analysis},\n  shorttitle = {The Combination of Reporting Bias and Underpowered Study Designs Has Substantially Exaggerated the Motor Learning Benefits of Self-Controlled Practice and Enhanced Expectancies},\n  author = {McKay, Brad and Bacelar, Mariane F. B. and Parma, Juliana O. and Miller, Matthew W. and Carter, Michael J.},\n  date = {2023-05-04},\n  journaltitle = {International Review of Sport and Exercise Psychology},\n  volume = {0},\n  number = {0},\n  pages = {1--21},\n  publisher = {{Routledge}},\n  issn = {1750-984X},\n  doi = {10.1080/1750984X.2023.2207255},\n  url = {https://doi.org/10.1080/1750984X.2023.2207255},\n  urldate = {2023-07-13},\n  keywords = {motivation,OPTIMAL theory,publication bias,roBMA,Z-curve}\n}"
+  },
+  {
+    "objectID": "papers/2020-25/2023_mckay_irsep.html#abstract",
+    "href": "papers/2020-25/2023_mckay_irsep.html#abstract",
+    "title": "The combination of reporting bias and underpowered study designs has substantially exaggerated the motor learning benefits of self-controlled practice and enhanced expectancies: A meta-analysis",
+    "section": "Abstract",
+    "text": "Abstract\nEnhanced expectancies and autonomy-support through self-controlled practice conditions form the motivation pillar of OPTIMAL theory [Wulf, G., & Lewthwaite, R. (2016). Optimizing performance through intrinsic motivation and attention for learning: The OPTIMAL theory of motor learning. Psychonomic Bulletin & Review, 23(5), 1382–1414. https://doi.org/10.3758/s13423-015-0999-9]. The influence of these practice variables on motor learning was recently evaluated in two separate meta-analyses. Both meta-analyses found that the published literature suggested a moderate and significant benefit on motor learning; however, evidence for reporting bias was found in both literatures. Although multiple bias-corrected estimates were reported in the self-controlled meta-analysis, there was no principled way to prefer one over the other. In the enhanced expectancies meta-analysis, the trim-and-fill-technique failed to correct the estimated effects. Here, we addressed these limitations by reanalyzing the data from both meta-analyses using robust Bayesian meta-analysis methods. Our reanalysis revealed that reporting bias substantially exaggerated the benefits of these practice variables in the original meta-analyses. The true effects appear small, uncertain, and potentially null. We found the estimated average statistical power among all studies from the original meta-analyses was 6% (95% confidence interval [5%, 13%]). These results provide compelling and converging evidence that strongly suggests the available literature is insufficient to support the motivation pillar of OPTIMAL theory. Our results highlight the need for adequately powered experimental designs if motor learning scientists want to make evidence-based recommendations."
+  },
+  {
+    "objectID": "papers/2020-25/2023a_mckay_jmld.html",
+    "href": "papers/2020-25/2023a_mckay_jmld.html",
+    "title": "Low prevalence of a priori power analyses in motor behavior research",
+    "section": "",
+    "text": "McKay, B., Corson, A., Vinh, M.-A., Jeyarajan, G., Tandon, C., Brooks, H., Hubley, J., & Carter, M. J. (2023). Low prevalence of a priori power analyses in motor behavior research. Journal of Motor Learning and Development, 11(1), 15–28. https://doi.org/10.1123/jmld.2022-0042\n\n\n\n\n@article{,\n  title = {Low Prevalence of a Priori Power Analyses in Motor Behavior Research},\n  author = {McKay, Brad and Corson, Abbey and Vinh, Mary-Anne and Jeyarajan, Gianna and Tandon, Chitrini and Brooks, Hugh and Hubley, Julie and Carter, Michael J.},\n  year = {2023},\n  date = {2022-12-26},\n  journaltitle = {Journal of Motor Learning and Development},\n  volume = {11},\n  number = {1},\n  pages = {15--28},\n  publisher = {{Human Kinetics}},\n  issn = {2325-3193, 2325-3215},\n  doi = {10.1123/jmld.2022-0042},\n  url = {https://journals.humankinetics.com/view/journals/jmld/11/1/article-p15.xml},\n  urldate = {2023-07-13},\n  langid = {english}\n}"
+  },
+  {
+    "objectID": "papers/2020-25/2023a_mckay_jmld.html#citation",
+    "href": "papers/2020-25/2023a_mckay_jmld.html#citation",
+    "title": "Low prevalence of a priori power analyses in motor behavior research",
+    "section": "",
+    "text": "McKay, B., Corson, A., Vinh, M.-A., Jeyarajan, G., Tandon, C., Brooks, H., Hubley, J., & Carter, M. J. (2023). Low prevalence of a priori power analyses in motor behavior research. Journal of Motor Learning and Development, 11(1), 15–28. https://doi.org/10.1123/jmld.2022-0042\n\n\n\n\n@article{,\n  title = {Low Prevalence of a Priori Power Analyses in Motor Behavior Research},\n  author = {McKay, Brad and Corson, Abbey and Vinh, Mary-Anne and Jeyarajan, Gianna and Tandon, Chitrini and Brooks, Hugh and Hubley, Julie and Carter, Michael J.},\n  year = {2023},\n  date = {2022-12-26},\n  journaltitle = {Journal of Motor Learning and Development},\n  volume = {11},\n  number = {1},\n  pages = {15--28},\n  publisher = {{Human Kinetics}},\n  issn = {2325-3193, 2325-3215},\n  doi = {10.1123/jmld.2022-0042},\n  url = {https://journals.humankinetics.com/view/journals/jmld/11/1/article-p15.xml},\n  urldate = {2023-07-13},\n  langid = {english}\n}"
+  },
+  {
+    "objectID": "papers/2020-25/2023a_mckay_jmld.html#abstract",
+    "href": "papers/2020-25/2023a_mckay_jmld.html#abstract",
+    "title": "Low prevalence of a priori power analyses in motor behavior research",
+    "section": "Abstract",
+    "text": "Abstract\nA priori power analyses can ensure studies are unlikely to miss interesting effects. Recent metascience has suggested that kinesiology research may be underpowered and selectively reported. Here, we examined whether power analyses are being used to ensure informative studies in motor behavior. We reviewed every article published in three motor behavior journals between January 2019 and June 2021. Power analyses were reported in 13% of studies (k = 636) that tested a hypothesis. No study targeted the smallest effect size of interest. Most studies with a power analysis relied on estimates from previous experiments, pilot studies, or benchmarks to determine the effect size of interest. Studies without a power analysis reported support for their main hypothesis 85% of the time, while studies with a power analysis found support 76% of the time. The median sample sizes were n = 17.5 without a power analysis and n = 16 with a power analysis, suggesting the typical study design was underpowered for all but the largest plausible effect size. At present, power analyses are not being used to optimize the informativeness of motor behavior research. Adoption of this widely recommended practice may greatly enhance the credibility of the motor behavior literature."
+  },
+  {
+    "objectID": "papers/2020-25/2022_stgermain_jephpp.html",
+    "href": "papers/2020-25/2022_stgermain_jephpp.html",
+    "title": "Increased perceptions of autonomy through choice fail to enhance motor skill retention",
+    "section": "",
+    "text": "St. Germain, L., Williams, A., Balbaa, N., Poskus, A., Leshchyshen, O., Lohse, K. R., & Carter, M. J. (2022). Increased perceptions of autonomy through choice fail to enhance motor skill retention. Journal of Experimental Psychology: Human Perception and Performance, 48(4), 370–379. https://doi.org/10.1037/xhp0000992\n\n\n\n\n@article{,\n  title = {Increased Perceptions of Autonomy through Choice Fail to Enhance Motor Skill Retention.},\n  author = {St. Germain, Laura and Williams, Allison and Balbaa, Noura and Poskus, Andrew and Leshchyshen, Olena and Lohse, Keith R. and Carter, Michael J.},\n  date = {2022-04},\n  journaltitle = {Journal of Experimental Psychology: Human Perception and Performance},\n  shortjournal = {Journal of Experimental Psychology: Human Perception and Performance},\n  volume = {48},\n  number = {4},\n  pages = {370--379},\n  issn = {1939-1277, 0096-1523},\n  doi = {10.1037/xhp0000992},\n  url = {http://doi.apa.org/getdoi.cfm?doi=10.1037/xhp0000992},\n  urldate = {2023-07-13},\n  langid = {english}\n}"
+  },
+  {
+    "objectID": "papers/2020-25/2022_stgermain_jephpp.html#citation",
+    "href": "papers/2020-25/2022_stgermain_jephpp.html#citation",
+    "title": "Increased perceptions of autonomy through choice fail to enhance motor skill retention",
+    "section": "",
+    "text": "St. Germain, L., Williams, A., Balbaa, N., Poskus, A., Leshchyshen, O., Lohse, K. R., & Carter, M. J. (2022). Increased perceptions of autonomy through choice fail to enhance motor skill retention. Journal of Experimental Psychology: Human Perception and Performance, 48(4), 370–379. https://doi.org/10.1037/xhp0000992\n\n\n\n\n@article{,\n  title = {Increased Perceptions of Autonomy through Choice Fail to Enhance Motor Skill Retention.},\n  author = {St. Germain, Laura and Williams, Allison and Balbaa, Noura and Poskus, Andrew and Leshchyshen, Olena and Lohse, Keith R. and Carter, Michael J.},\n  date = {2022-04},\n  journaltitle = {Journal of Experimental Psychology: Human Perception and Performance},\n  shortjournal = {Journal of Experimental Psychology: Human Perception and Performance},\n  volume = {48},\n  number = {4},\n  pages = {370--379},\n  issn = {1939-1277, 0096-1523},\n  doi = {10.1037/xhp0000992},\n  url = {http://doi.apa.org/getdoi.cfm?doi=10.1037/xhp0000992},\n  urldate = {2023-07-13},\n  langid = {english}\n}"
+  },
+  {
+    "objectID": "papers/2020-25/2022_stgermain_jephpp.html#abstract",
+    "href": "papers/2020-25/2022_stgermain_jephpp.html#abstract",
+    "title": "Increased perceptions of autonomy through choice fail to enhance motor skill retention",
+    "section": "Abstract",
+    "text": "Abstract\nThere has been growing research interest in the effects that motivation plays in motor learning, and specifically how autonomy, competence, and social relatedness may directly benefit the learning process. Here, we present a preregistered manipulation of autonomy-support by providing learners with choice during the practice of a speed cup-stacking task. One group was given control over when a video demonstration was provided and the viewing speed. A yoked control group received an identical demonstration schedule, but without choice (as their schedule was matched to a participant with choice). Critically, we addressed a gap in the literature by adding a yoked group who was explicitly told that they were being denied choice and that their schedule was chosen by another participant. We found no statistically significant learning differences between groups, despite finding evidence that providing choice increased perceived autonomy. Equivalence tests further showed that although the groups were not statistically equivalent, the effect size is likely too small to practically study the effects of autonomy-support through choice in most motor learning labs. These findings add to a growing body of research that questions a causal role of autonomy-support on motor learning, and the robustness of the so-called self-controlled learning advantage."
+  },
+  {
+    "objectID": "papers/2020-25/2021_mckay_cik.html",
+    "href": "papers/2020-25/2021_mckay_cik.html",
+    "title": "Expecting to teach a novel golf putting task did not enhance retention performance: A replication attempt of Daou and colleagues",
+    "section": "",
+    "text": "McKay, B., Hussien, J., Carter, M., Yantha, Z., & Ste-Marie, D. (2021). Expecting to teach a novel golf putting task did not enhance retention performance: A replication attempt of Daou and colleagues. Communications in Kinesiology, 1(2), Article 2. https://doi.org/10.51224/cik.v1i2.39\n\n\n\n\n@article{,\n  title = {Expecting to Teach a Novel Golf Putting Task Did Not Enhance Retention Performance: {{A}} Replication Attempt of {{Daou}} and Colleagues},\n  shorttitle = {Expecting to Teach a Novel Golf Putting Task Did Not Enhance Retention Performance},\n  author = {McKay, Brad and Hussien, Julia and Carter, Michael and Yantha, Zachary and Ste-Marie, Diane},\n  date = {2021-09-03},\n  journaltitle = {Communications in Kinesiology},\n  volume = {1},\n  number = {2},\n  issn = {2767-0732},\n  doi = {10.51224/cik.v1i2.39},\n  url = {https://storkjournals.org/index.php/cik/article/view/39},\n  urldate = {2023-07-13},\n  issue = {2},\n  langid = {english},\n  keywords = {Motor learning,Preregistered,Sequential analysis,Two-one-sided-tests}\n}"
+  },
+  {
+    "objectID": "papers/2020-25/2021_mckay_cik.html#citation",
+    "href": "papers/2020-25/2021_mckay_cik.html#citation",
+    "title": "Expecting to teach a novel golf putting task did not enhance retention performance: A replication attempt of Daou and colleagues",
+    "section": "",
+    "text": "McKay, B., Hussien, J., Carter, M., Yantha, Z., & Ste-Marie, D. (2021). Expecting to teach a novel golf putting task did not enhance retention performance: A replication attempt of Daou and colleagues. Communications in Kinesiology, 1(2), Article 2. https://doi.org/10.51224/cik.v1i2.39\n\n\n\n\n@article{,\n  title = {Expecting to Teach a Novel Golf Putting Task Did Not Enhance Retention Performance: {{A}} Replication Attempt of {{Daou}} and Colleagues},\n  shorttitle = {Expecting to Teach a Novel Golf Putting Task Did Not Enhance Retention Performance},\n  author = {McKay, Brad and Hussien, Julia and Carter, Michael and Yantha, Zachary and Ste-Marie, Diane},\n  date = {2021-09-03},\n  journaltitle = {Communications in Kinesiology},\n  volume = {1},\n  number = {2},\n  issn = {2767-0732},\n  doi = {10.51224/cik.v1i2.39},\n  url = {https://storkjournals.org/index.php/cik/article/view/39},\n  urldate = {2023-07-13},\n  issue = {2},\n  langid = {english},\n  keywords = {Motor learning,Preregistered,Sequential analysis,Two-one-sided-tests}\n}"
+  },
+  {
+    "objectID": "papers/2020-25/2021_mckay_cik.html#abstract",
+    "href": "papers/2020-25/2021_mckay_cik.html#abstract",
+    "title": "Expecting to teach a novel golf putting task did not enhance retention performance: A replication attempt of Daou and colleagues",
+    "section": "Abstract",
+    "text": "Abstract\nWhile research has identified several practice variables that purportedly enhance motor learning, recent replication failures highlight the importance of conducting high-powered, pre-registered replications. The “expecting to teach” phenomenon was first reported in the motor learning literature by Daou and colleagues and suggested learners benefit from practicing with the understanding they will later need to teach the skill. The extant data have been mixed but generally positive. While expecting to teach has been shown to enhance motor learning of a golf putt, the mechanisms linked with this benefit are yet to be determined. As such, this study sought to replicate the expecting to teach effect and to extend those findings by exploring participants’ thought processes. Participants (N = 76) were randomly assigned to one of two groups in which they were told that they were learning a golf putt in order to 1) be tested on the skill or 2) teach the skill to another individual. On Day 1, participants completed pre-test putts, a pre-acquisition intrinsic motivation inventory (IMI), a 2-minute study of an instructional booklet, 50 practice putts and a post-acquisition IMI. During practice, participants were also afforded opportunities to continue studying the booklet and to complete additional putts. Participants returned 24 hours later to complete a retention, a transfer (50-cm longer golf-putt), and a free recall test, as well as a post-study survey to reveal thoughts they engaged in after practice but before (or during) the retention test. Similar to Daou et al., no significant differences were found with study time, number of acquisition putts, or motivation. However, golf-putting performance during retention resulted in no differences for radial error, g = -0.13 (95% C.I. [-0.55, 0.29]), between the two groups and no differences were shown for the recall test. The present study fails to replicate the benefits reported in the original experiments."
+  },
+  {
+    "objectID": "papers/2020-25/2020_stemarie_chapter.html",
+    "href": "papers/2020-25/2020_stemarie_chapter.html",
+    "title": "Self-controlled learning: Current findings, theoretical perspectives, and future directions",
+    "section": "",
+    "text": "Ste-Marie, D. M., Carter, M. J., & Yantha, Z. D. (2020). Self-controlled learning: Current findings, theoretical perspectives, and future directions. In Skill Acquisition in Sport (3rd ed.). Routledge.\n\n\n\n\n@incollection{,\n  title = {Self-Controlled Learning: {{Current}} Findings, Theoretical Perspectives, and Future Directions},\n  shorttitle = {Self-Controlled Learning},\n  booktitle = {Skill {{Acquisition}} in {{Sport}}},\n  author = {Ste-Marie, Diane M. and Carter, Michael J. and Yantha, Zachary D.},\n  year = {2020},\n  chapter = {7},\n  doi = {10.4324/9781351189750-7},\n  month = {11},\n  date = {2020},\n  booktitle = {Skill acquisition in sport: {Research}, theory, and practice},\n  editor = {{Hodges}, {Nicola J.} and {Williams}, {A. Mark}},\n  edition = {3}\n  publisher = {{Routledge}},\n  isbn = {978-1-351-18975-0},\n  pagetotal = {22}\n}"
+  },
+  {
+    "objectID": "papers/2020-25/2020_stemarie_chapter.html#citation",
+    "href": "papers/2020-25/2020_stemarie_chapter.html#citation",
+    "title": "Self-controlled learning: Current findings, theoretical perspectives, and future directions",
+    "section": "",
+    "text": "Ste-Marie, D. M., Carter, M. J., & Yantha, Z. D. (2020). Self-controlled learning: Current findings, theoretical perspectives, and future directions. In Skill Acquisition in Sport (3rd ed.). Routledge.\n\n\n\n\n@incollection{,\n  title = {Self-Controlled Learning: {{Current}} Findings, Theoretical Perspectives, and Future Directions},\n  shorttitle = {Self-Controlled Learning},\n  booktitle = {Skill {{Acquisition}} in {{Sport}}},\n  author = {Ste-Marie, Diane M. and Carter, Michael J. and Yantha, Zachary D.},\n  year = {2020},\n  chapter = {7},\n  doi = {10.4324/9781351189750-7},\n  month = {11},\n  date = {2020},\n  booktitle = {Skill acquisition in sport: {Research}, theory, and practice},\n  editor = {{Hodges}, {Nicola J.} and {Williams}, {A. Mark}},\n  edition = {3}\n  publisher = {{Routledge}},\n  isbn = {978-1-351-18975-0},\n  pagetotal = {22}\n}"
+  },
+  {
+    "objectID": "papers/2020-25/2020_stemarie_chapter.html#abstract",
+    "href": "papers/2020-25/2020_stemarie_chapter.html#abstract",
+    "title": "Self-controlled learning: Current findings, theoretical perspectives, and future directions",
+    "section": "Abstract",
+    "text": "Abstract\nThis chapter reviews the findings emanating from research that allows learners choice over: the variability of the practice schedule; the use of action observation; and the use of augmented feedback. It explores the idea that the practitioner may not need to plan everything down to the last detail, and that allowing learners to control aspects of their practice could be advantageous. The typical research protocol of self-controlled learning involves the comparison of learning outcomes for those who are provided choice over the provision of practice variable with those whom are not provided that choice, referred to as the yoked group. Variability in practice scheduling as a function of contextual interference involves granting control over the scheduling of multiple skills or tasks. Providing learners with demonstration, whether by instructor, another peer in the class, or video of someone showing the skill, is a common teaching technique and several researchers have shown advantages associated with such observational practice."
+  },
+  {
+    "objectID": "papers/2020-25/2023_stgermain_pbr.html",
+    "href": "papers/2020-25/2023_stgermain_pbr.html",
+    "title": "Exercising choice over feedback schedules during practice is not advantageous for motor learning",
+    "section": "",
+    "text": "St. Germain, L., McKay, B., Poskus, A., Williams, A., Leshchyshen, O., Feldman, S., Cashaback, J. G. A., & Carter, M. J. (2023). Exercising choice over feedback schedules during practice is not advantageous for motor learning. Psychonomic Bulletin & Review, 30(2), 621–633. https://doi.org/10.3758/s13423-022-02170-5\n\n\n\n\n@article{,\n  title = {Exercising Choice over Feedback Schedules during Practice Is Not Advantageous for Motor Learning},\n  author = {St. Germain, Laura and McKay, Brad and Poskus, Andrew and Williams, Allison and Leshchyshen, Olena and Feldman, Sherry and Cashaback, Joshua G. A. and Carter, Michael J.},\n  date = {2023-04-01},\n  journaltitle = {Psychonomic Bulletin \\& Review},\n  shortjournal = {Psychon Bull Rev},\n  volume = {30},\n  number = {2},\n  pages = {621--633},\n  issn = {1531-5320},\n  doi = {10.3758/s13423-022-02170-5},\n  url = {https://doi.org/10.3758/s13423-022-02170-5},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {Knowledge of results,OPTIMAL theory,Retention,Self-controlled}\n}"
+  },
+  {
+    "objectID": "papers/2020-25/2023_stgermain_pbr.html#citation",
+    "href": "papers/2020-25/2023_stgermain_pbr.html#citation",
+    "title": "Exercising choice over feedback schedules during practice is not advantageous for motor learning",
+    "section": "",
+    "text": "St. Germain, L., McKay, B., Poskus, A., Williams, A., Leshchyshen, O., Feldman, S., Cashaback, J. G. A., & Carter, M. J. (2023). Exercising choice over feedback schedules during practice is not advantageous for motor learning. Psychonomic Bulletin & Review, 30(2), 621–633. https://doi.org/10.3758/s13423-022-02170-5\n\n\n\n\n@article{,\n  title = {Exercising Choice over Feedback Schedules during Practice Is Not Advantageous for Motor Learning},\n  author = {St. Germain, Laura and McKay, Brad and Poskus, Andrew and Williams, Allison and Leshchyshen, Olena and Feldman, Sherry and Cashaback, Joshua G. A. and Carter, Michael J.},\n  date = {2023-04-01},\n  journaltitle = {Psychonomic Bulletin \\& Review},\n  shortjournal = {Psychon Bull Rev},\n  volume = {30},\n  number = {2},\n  pages = {621--633},\n  issn = {1531-5320},\n  doi = {10.3758/s13423-022-02170-5},\n  url = {https://doi.org/10.3758/s13423-022-02170-5},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {Knowledge of results,OPTIMAL theory,Retention,Self-controlled}\n}"
+  },
+  {
+    "objectID": "papers/2020-25/2023_stgermain_pbr.html#abstract",
+    "href": "papers/2020-25/2023_stgermain_pbr.html#abstract",
+    "title": "Exercising choice over feedback schedules during practice is not advantageous for motor learning",
+    "section": "Abstract",
+    "text": "Abstract\nhe idea that there is a self-controlled learning advantage, where individuals demonstrate improved motor learning after exercising choice over an aspect of practice compared to no-choice groups, has different causal explanations according to the OPTIMAL theory or an information-processing perspective. Within OPTIMAL theory, giving learners choice is considered an autonomy-supportive manipulation that enhances expectations for success and intrinsic motivation. In the information-processing view, choice allows learners to engage in performance-dependent strategies that reduce uncertainty about task outcomes. To disentangle these potential explanations, we provided participants in choice and yoked groups with error or graded feedback (Experiment 1) and binary feedback (Experiment 2) while learning a novel motor task with spatial and timing goals. Across both experiments (N = 228 participants), we did not find any evidence to support a self-controlled learning advantage. Exercising choice during practice did not increase perceptions of autonomy, competence, or intrinsic motivation, nor did it lead to more accurate error estimation skills. Both error and graded feedback facilitated skill acquisition and learning, whereas no improvements from pre-test performance were found with binary feedback. Finally, the impact of graded and binary feedback on perceived competence highlights a potential dissociation of motivational and informational roles of feedback. Although our results regarding self-controlled practice conditions are difficult to reconcile with either the OPTIMAL theory or the information-processing perspective, they are consistent with a growing body of evidence that strongly suggests self-controlled conditions are not an effective approach to enhance motor performance and learning."
+  },
+  {
+    "objectID": "papers/2020-25/2023b_mckay_jmld.html",
+    "href": "papers/2020-25/2023b_mckay_jmld.html",
+    "title": "On the reproducibility of power analyses in motor behavior research",
+    "section": "",
+    "text": "McKay, B., Bacelar, M. F. B., & Carter, M. J. (2023). On the reproducibility of power analyses in motor behavior research. Journal of Motor Learning and Development, 11(1), 29–44. https://doi.org/10.1123/jmld.2022-0061\n\n\n\n\n@article{,\n  title = {On the Reproducibility of Power Analyses in Motor Behavior Research},\n  author = {McKay, Brad and Bacelar, Mariane F. B. and Carter, Michael J.},\n  date = {2023-03-03},\n  journaltitle = {Journal of Motor Learning and Development},\n  volume = {11},\n  number = {1},\n  pages = {29--44},\n  publisher = {{Human Kinetics}},\n  issn = {2325-3193, 2325-3215},\n  doi = {10.1123/jmld.2022-0061},\n  url = {https://journals.humankinetics.com/view/journals/jmld/11/1/article-p29.xml},\n  urldate = {2023-07-13},\n  langid = {english}\n}"
+  },
+  {
+    "objectID": "papers/2020-25/2023b_mckay_jmld.html#citation",
+    "href": "papers/2020-25/2023b_mckay_jmld.html#citation",
+    "title": "On the reproducibility of power analyses in motor behavior research",
+    "section": "",
+    "text": "McKay, B., Bacelar, M. F. B., & Carter, M. J. (2023). On the reproducibility of power analyses in motor behavior research. Journal of Motor Learning and Development, 11(1), 29–44. https://doi.org/10.1123/jmld.2022-0061\n\n\n\n\n@article{,\n  title = {On the Reproducibility of Power Analyses in Motor Behavior Research},\n  author = {McKay, Brad and Bacelar, Mariane F. B. and Carter, Michael J.},\n  date = {2023-03-03},\n  journaltitle = {Journal of Motor Learning and Development},\n  volume = {11},\n  number = {1},\n  pages = {29--44},\n  publisher = {{Human Kinetics}},\n  issn = {2325-3193, 2325-3215},\n  doi = {10.1123/jmld.2022-0061},\n  url = {https://journals.humankinetics.com/view/journals/jmld/11/1/article-p29.xml},\n  urldate = {2023-07-13},\n  langid = {english}\n}"
+  },
+  {
+    "objectID": "papers/2020-25/2023b_mckay_jmld.html#abstract",
+    "href": "papers/2020-25/2023b_mckay_jmld.html#abstract",
+    "title": "On the reproducibility of power analyses in motor behavior research",
+    "section": "Abstract",
+    "text": "Abstract\nRecent metascience suggests that motor behavior research may be underpowered, on average. Researchers can perform a priori power analyses to ensure adequately powered studies. However, there are common pitfalls that can result in underestimating the required sample size for a given design and effect size of interest. Critical evaluation of power analyses requires successful analysis reproduction, which is conditional on the reporting of sufficient information. Here, we attempted to reproduce every power analysis reported in articles (k = 84/635) in three motor behavior journals between January 2019 and June 2021. We reproduced 7% of analyses using the reported information, which increased to 43% when we assumed plausible values for missing parameters. Among studies that reported sufficient information to evaluate, 63% reported using the same statistical test in the power analysis as in the study itself, and in 77%, the test addressed at least one of the identified hypotheses. Overall, power analyses were not commonly reported with sufficient information to ensure reproducibility. A nontrivial number of power analyses were also affected by common pitfalls. There is substantial opportunity to address the issue of underpowered research in motor behavior by increasing adoption of power analyses and ensuring reproducible reporting practices."
+  },
+  {
+    "objectID": "papers/2020-25/2022_lokesh_scirep.html",
+    "href": "papers/2020-25/2022_lokesh_scirep.html",
+    "title": "Humans utilize sensory evidence of others’ intended action to make online decisions",
+    "section": "",
+    "text": "Lokesh, R., Sullivan, S., Calalo, J. A., Roth, A., Swanik, B., Carter, M. J., & Cashaback, J. G. A. (2022). Humans utilize sensory evidence of others’ intended action to make online decisions. Scientific Reports, 12(1), Article 1. https://doi.org/10.1038/s41598-022-12662-y\n\n\n\n\n@article{,\n  title = {Humans Utilize Sensory Evidence of Others’ Intended Action to Make Online Decisions},\n  author = {Lokesh, Rakshith and Sullivan, Seth and Calalo, Jan A. and Roth, Adam and Swanik, Brenden and Carter, Michael J. and Cashaback, Joshua G. A.},\n  date = {2022-05-25},\n  journaltitle = {Scientific Reports},\n  shortjournal = {Sci Rep},\n  volume = {12},\n  number = {1},\n  pages = {8806},\n  publisher = {{Nature Publishing Group}},\n  issn = {2045-2322},\n  doi = {10.1038/s41598-022-12662-y},\n  url = {https://www.nature.com/articles/s41598-022-12662-y},\n  urldate = {2023-07-13},\n  issue = {1},\n  langid = {english},\n  keywords = {Decision,Dynamical systems,Human behaviour,Reward,Social behaviour}\n}"
+  },
+  {
+    "objectID": "papers/2020-25/2022_lokesh_scirep.html#citation",
+    "href": "papers/2020-25/2022_lokesh_scirep.html#citation",
+    "title": "Humans utilize sensory evidence of others’ intended action to make online decisions",
+    "section": "",
+    "text": "Lokesh, R., Sullivan, S., Calalo, J. A., Roth, A., Swanik, B., Carter, M. J., & Cashaback, J. G. A. (2022). Humans utilize sensory evidence of others’ intended action to make online decisions. Scientific Reports, 12(1), Article 1. https://doi.org/10.1038/s41598-022-12662-y\n\n\n\n\n@article{,\n  title = {Humans Utilize Sensory Evidence of Others’ Intended Action to Make Online Decisions},\n  author = {Lokesh, Rakshith and Sullivan, Seth and Calalo, Jan A. and Roth, Adam and Swanik, Brenden and Carter, Michael J. and Cashaback, Joshua G. A.},\n  date = {2022-05-25},\n  journaltitle = {Scientific Reports},\n  shortjournal = {Sci Rep},\n  volume = {12},\n  number = {1},\n  pages = {8806},\n  publisher = {{Nature Publishing Group}},\n  issn = {2045-2322},\n  doi = {10.1038/s41598-022-12662-y},\n  url = {https://www.nature.com/articles/s41598-022-12662-y},\n  urldate = {2023-07-13},\n  issue = {1},\n  langid = {english},\n  keywords = {Decision,Dynamical systems,Human behaviour,Reward,Social behaviour}\n}"
+  },
+  {
+    "objectID": "papers/2020-25/2022_lokesh_scirep.html#abstract",
+    "href": "papers/2020-25/2022_lokesh_scirep.html#abstract",
+    "title": "Humans utilize sensory evidence of others’ intended action to make online decisions",
+    "section": "Abstract",
+    "text": "Abstract\nWe often acquire sensory information from another person’s actions to make decisions on how to move, such as when walking through a crowded hallway. Past interactive decision-making research has focused on cognitive tasks that did not allow for sensory information exchange between humans prior to a decision. Here, we test the idea that humans accumulate sensory evidence of another person’s intended action to decide their own movement. In a competitive sensorimotor task, we show that humans exploit time to accumulate sensory evidence of another’s intended action and utilize this information to decide how to move. We captured this continuous interactive decision-making behaviour with a drift-diffusion model. Surprisingly, aligned with a ‘paralysis-by-analysis’ phenomenon, we found that humans often waited too long to accumulate sensory evidence and failed to make a decision. Understanding how humans engage in interactive and online decision-making has broad implications that spans sociology, athletics, interactive technology, and economics."
+  },
+  {
+    "objectID": "papers/2020-25/2023_mckay_metapsych.html",
+    "href": "papers/2020-25/2023_mckay_metapsych.html",
+    "title": "A critical re-analysis of six implicit learning papers",
+    "section": "",
+    "text": "McKay, B., & Carter, M. (2023). A critical re-analysis of six implicit learning papers. Meta-Psychology, 7. https://doi.org/10.15626/MP.2021.2938\n\n\n\n\n@article{,\n  title = {A Critical Re-Analysis of Six Implicit Learning Papers},\n  author = {McKay, Brad and Carter, Michael},\n  date = {2023-07-10},\n  journaltitle = {Meta-Psychology},\n  volume = {7},\n  issn = {2003-2714},\n  doi = {10.15626/MP.2021.2938},\n  url = {https://open.lnu.se/index.php/metapsychology/article/view/2938},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {Effect sizes,GRIMMER,Metascience,Perceptual motor learning}\n}"
+  },
+  {
+    "objectID": "papers/2020-25/2023_mckay_metapsych.html#citation",
+    "href": "papers/2020-25/2023_mckay_metapsych.html#citation",
+    "title": "A critical re-analysis of six implicit learning papers",
+    "section": "",
+    "text": "McKay, B., & Carter, M. (2023). A critical re-analysis of six implicit learning papers. Meta-Psychology, 7. https://doi.org/10.15626/MP.2021.2938\n\n\n\n\n@article{,\n  title = {A Critical Re-Analysis of Six Implicit Learning Papers},\n  author = {McKay, Brad and Carter, Michael},\n  date = {2023-07-10},\n  journaltitle = {Meta-Psychology},\n  volume = {7},\n  issn = {2003-2714},\n  doi = {10.15626/MP.2021.2938},\n  url = {https://open.lnu.se/index.php/metapsychology/article/view/2938},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {Effect sizes,GRIMMER,Metascience,Perceptual motor learning}\n}"
+  },
+  {
+    "objectID": "papers/2020-25/2023_mckay_metapsych.html#abstract",
+    "href": "papers/2020-25/2023_mckay_metapsych.html#abstract",
+    "title": "A critical re-analysis of six implicit learning papers",
+    "section": "Abstract",
+    "text": "Abstract\nWe present a critical re-analysis of six implicit learning papers published by the same authors between 2010 and 2021. We calculated effect sizes for each pairwise comparison reported in the papers using the data published in each article. We further identified mathematically impossible data reported in multiple papers, either with deductive logic or by conducting a GRIMMER analysis of reported means and standard deviations. We found the pairwise effect sizes were implausible in all six articles in question, with Cohen’s d values often exceeding 100 and sometimes exceeding 1000. In contrast, the largest effect size observed in a million simulated experiments with a true effect of d = 3 was d = 6.6. Impossible statistics were reported in four out of the six articles. Reported test statistics and \\(\\eta^{2}\\) values were also implausible, with several \\(\\eta^{2}\\) = .99 and even \\(\\eta^{2}\\) = 1.0 for between-subjects main effects. The results reported in the six articles in question are unreliable. Many of the problems we identified could be spotted without further analysis."
+  },
+  {
+    "objectID": "papers/2020-25/2022_mckay_metapsych.html",
+    "href": "papers/2020-25/2022_mckay_metapsych.html",
+    "title": "Meta-analytic findings of the self-controlled motor learning literature: Underpowered, biased, and lacking evidential value",
+    "section": "",
+    "text": "McKay, B., Yantha, Z., Hussien, J., Carter, M., & Ste-Marie, D. (2022). Meta-analytic findings of the self-controlled motor learning literature: Underpowered, biased, and lacking evidential value. Meta-Psychology, 6. https://doi.org/10.15626/MP.2021.2803\n\n\n\n\n@article{,\n  title = {Meta-Analytic Findings of the Self-Controlled Motor Learning Literature: {{Underpowered}}, Biased, and Lacking Evidential Value},\n  shorttitle = {Meta-{{Analytic Findings}} of the {{Self-Controlled Motor Learning Literature}}},\n  author = {McKay, Brad and Yantha, Zachary and Hussien, Julia and Carter, Michael and Ste-Marie, Diane},\n  date = {2022-11-08},\n  journaltitle = {Meta-Psychology},\n  volume = {6},\n  issn = {2003-2714},\n  doi = {10.15626/MP.2021.2803},\n  url = {https://open.lnu.se/index.php/metapsychology/article/view/2803},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {Choice,Meta-Analysis,Motor Learning,OPTIMAL Theory,p-curve,Publication Bias,Retention}\n}"
+  },
+  {
+    "objectID": "papers/2020-25/2022_mckay_metapsych.html#citation",
+    "href": "papers/2020-25/2022_mckay_metapsych.html#citation",
+    "title": "Meta-analytic findings of the self-controlled motor learning literature: Underpowered, biased, and lacking evidential value",
+    "section": "",
+    "text": "McKay, B., Yantha, Z., Hussien, J., Carter, M., & Ste-Marie, D. (2022). Meta-analytic findings of the self-controlled motor learning literature: Underpowered, biased, and lacking evidential value. Meta-Psychology, 6. https://doi.org/10.15626/MP.2021.2803\n\n\n\n\n@article{,\n  title = {Meta-Analytic Findings of the Self-Controlled Motor Learning Literature: {{Underpowered}}, Biased, and Lacking Evidential Value},\n  shorttitle = {Meta-{{Analytic Findings}} of the {{Self-Controlled Motor Learning Literature}}},\n  author = {McKay, Brad and Yantha, Zachary and Hussien, Julia and Carter, Michael and Ste-Marie, Diane},\n  date = {2022-11-08},\n  journaltitle = {Meta-Psychology},\n  volume = {6},\n  issn = {2003-2714},\n  doi = {10.15626/MP.2021.2803},\n  url = {https://open.lnu.se/index.php/metapsychology/article/view/2803},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {Choice,Meta-Analysis,Motor Learning,OPTIMAL Theory,p-curve,Publication Bias,Retention}\n}"
+  },
+  {
+    "objectID": "papers/2020-25/2022_mckay_metapsych.html#abstract",
+    "href": "papers/2020-25/2022_mckay_metapsych.html#abstract",
+    "title": "Meta-analytic findings of the self-controlled motor learning literature: Underpowered, biased, and lacking evidential value",
+    "section": "Abstract",
+    "text": "Abstract\nThe self-controlled motor learning literature consists of experiments that compare a group of learners who are provided with a choice over an aspect of their practice environment to a group who are yoked to those choices. A qualitative review of the literature suggests an unambiguous benefit from self-controlled practice. A meta-analysis was conducted on the effects of self-controlled practice on retention test performance measures with a focus on assessing and potentially correcting for selection bias in the literature, such as publication bias and p-hacking. First, a naïve random effects model was fit to the data and a moderate benefit of self-controlled practice, g = .44 (k = 52, N = 2061, 95% CI [.31, .56]), was found. Second, publication status was added to the model as a potential moderator, revealing a significant difference between published and unpublished findings, with only the former reporting a benefit of self-controlled practice. Third, to investigate and adjust for the impact of selectively reporting statistically significant results, a weight-function model was fit to the data with a one-tailed p-value cutpoint of .025. The weight-function model revealed substantial selection bias and estimated the true average effect of self- controlled practice as g = .107 (95% CI [.047, .18]). P-curve analyses were conducted on the statistically significant results published in the literature and the outcome suggested a lack of evidential value. Fourth, a suite of sensitivity analyses were conducted to evaluate the robustness of these results, all of which converged on trivially small effect estimates. Overall, our results suggest the benefit of self-controlled practice on motor learning is small and not currently distinguishable from zero."
+  },
+  {
+    "objectID": "papers/2020-25/2023_lokesh_jnp.html",
+    "href": "papers/2020-25/2023_lokesh_jnp.html",
+    "title": "Visual accuracy dominates over haptic speed for state estimation of a partner during collaborative sensorimotor interactions",
+    "section": "",
+    "text": "Lokesh, R., Sullivan, S. R., St. Germain, L., Roth, A. M., Calalo, J. A., Buggeln, J., Ngo, T., Marchhart, V. R. F., Carter, M. J., & Cashaback, J. G. A. (2023). Visual accuracy dominates over haptic speed for state estimation of a partner during collaborative sensorimotor interactions. Journal of Neurophysiology, 130(1), 23–42. https://doi.org/10.1152/jn.00053.2023\n\n\n\n\n@article{,\n  title = {Visual Accuracy Dominates over Haptic Speed for State Estimation of a Partner during Collaborative Sensorimotor Interactions},\n  author = {Lokesh, Rakshith and Sullivan, Seth R. and St. Germain, Laura and Roth, Adam M. and Calalo, Jan A. and Buggeln, John and Ngo, Truc and Marchhart, Vanessa R. F. and Carter, Michael J. and Cashaback, Joshua G. A.},\n  date = {2023-07},\n  journaltitle = {Journal of Neurophysiology},\n  volume = {130},\n  number = {1},\n  pages = {23--42},\n  publisher = {{American Physiological Society}},\n  issn = {0022-3077},\n  doi = {10.1152/jn.00053.2023},\n  url = {https://journals.physiology.org/doi/full/10.1152/jn.00053.2023},\n  urldate = {2023-07-13},\n  keywords = {collaboration,human-human interaction,optimal feedback control,sensorimotor,uncontrolled manifold}\n}"
+  },
+  {
+    "objectID": "papers/2020-25/2023_lokesh_jnp.html#citation",
+    "href": "papers/2020-25/2023_lokesh_jnp.html#citation",
+    "title": "Visual accuracy dominates over haptic speed for state estimation of a partner during collaborative sensorimotor interactions",
+    "section": "",
+    "text": "Lokesh, R., Sullivan, S. R., St. Germain, L., Roth, A. M., Calalo, J. A., Buggeln, J., Ngo, T., Marchhart, V. R. F., Carter, M. J., & Cashaback, J. G. A. (2023). Visual accuracy dominates over haptic speed for state estimation of a partner during collaborative sensorimotor interactions. Journal of Neurophysiology, 130(1), 23–42. https://doi.org/10.1152/jn.00053.2023\n\n\n\n\n@article{,\n  title = {Visual Accuracy Dominates over Haptic Speed for State Estimation of a Partner during Collaborative Sensorimotor Interactions},\n  author = {Lokesh, Rakshith and Sullivan, Seth R. and St. Germain, Laura and Roth, Adam M. and Calalo, Jan A. and Buggeln, John and Ngo, Truc and Marchhart, Vanessa R. F. and Carter, Michael J. and Cashaback, Joshua G. A.},\n  date = {2023-07},\n  journaltitle = {Journal of Neurophysiology},\n  volume = {130},\n  number = {1},\n  pages = {23--42},\n  publisher = {{American Physiological Society}},\n  issn = {0022-3077},\n  doi = {10.1152/jn.00053.2023},\n  url = {https://journals.physiology.org/doi/full/10.1152/jn.00053.2023},\n  urldate = {2023-07-13},\n  keywords = {collaboration,human-human interaction,optimal feedback control,sensorimotor,uncontrolled manifold}\n}"
+  },
+  {
+    "objectID": "papers/2020-25/2023_lokesh_jnp.html#abstract",
+    "href": "papers/2020-25/2023_lokesh_jnp.html#abstract",
+    "title": "Visual accuracy dominates over haptic speed for state estimation of a partner during collaborative sensorimotor interactions",
+    "section": "Abstract",
+    "text": "Abstract\nWe routinely have physical interactions with others, whether it be handing someone a glass of water or jointly moving a heavy object together. These sensorimotor interactions between humans typically rely on visual feedback and haptic feedback. Recent single-participant studies have highlighted that the unique noise and time delays of each sense must be considered to estimate the state, such as the position and velocity, of one’s own movement. However, we know little about how visual feedback and haptic feedback are used to estimate the state of another person. Here, we tested how humans utilize visual feedback and haptic feedback to estimate the state of their partner during a collaborative sensorimotor task. Across two experiments, we show that visual feedback dominated haptic feedback during collaboration. Specifically, we found that visual feedback led to comparatively lower task-relevant movement variability, smoother collaborative movements, and faster trial completion times. We also developed an optimal feedback controller that considered the noise and time delays of both visual feedback and haptic feedback to estimate the state of a partner. This model was able to capture both lower task-relevant movement variability and smoother collaborative movements. Taken together, our empirical and modeling results support the idea that visual accuracy is more important than haptic speed to perform state estimation of a partner during collaboration."
+  },
+  {
+    "objectID": "papers/2010-14/2014_carter_frontpsychol.html",
+    "href": "papers/2010-14/2014_carter_frontpsychol.html",
+    "title": "Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005)",
+    "section": "",
+    "text": "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: A replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5. https://doi.org/10.3389/fpsyg.2014.01325\n\n\n\n\n@article{,\n  title = {Self-Controlled Feedback Is Effective If It Is Based on the Learner’s Performance: {{A}} Replication and Extension of {{Chiviacowsky}} and {{Wulf}} (2005)},\n  shorttitle = {Self-Controlled Feedback Is Effective If It Is Based on the Learner’s Performance},\n  author = {Carter, Michael J. and Carlsen, Anthony N. and Ste-Marie, Diane M.},\n  date = {2014},\n  journaltitle = {Frontiers in Psychology},\n  volume = {5},\n  issn = {1664-1078},\n  doi = {10.3389/fpsyg.2014.01325},\n  url = {https://www.frontiersin.org/articles/10.3389/fpsyg.2014.01325},\n  urldate = {2023-07-13}\n}"
+  },
+  {
+    "objectID": "papers/2010-14/2014_carter_frontpsychol.html#citation",
+    "href": "papers/2010-14/2014_carter_frontpsychol.html#citation",
+    "title": "Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005)",
+    "section": "",
+    "text": "Carter, M. J., Carlsen, A. N., & Ste-Marie, D. M. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: A replication and extension of Chiviacowsky and Wulf (2005). Frontiers in Psychology, 5. https://doi.org/10.3389/fpsyg.2014.01325\n\n\n\n\n@article{,\n  title = {Self-Controlled Feedback Is Effective If It Is Based on the Learner’s Performance: {{A}} Replication and Extension of {{Chiviacowsky}} and {{Wulf}} (2005)},\n  shorttitle = {Self-Controlled Feedback Is Effective If It Is Based on the Learner’s Performance},\n  author = {Carter, Michael J. and Carlsen, Anthony N. and Ste-Marie, Diane M.},\n  date = {2014},\n  journaltitle = {Frontiers in Psychology},\n  volume = {5},\n  issn = {1664-1078},\n  doi = {10.3389/fpsyg.2014.01325},\n  url = {https://www.frontiersin.org/articles/10.3389/fpsyg.2014.01325},\n  urldate = {2023-07-13}\n}"
+  },
+  {
+    "objectID": "papers/2010-14/2014_carter_frontpsychol.html#abstract",
+    "href": "papers/2010-14/2014_carter_frontpsychol.html#abstract",
+    "title": "Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005)",
+    "section": "Abstract",
+    "text": "Abstract\nThe learning advantages of self-controlled feedback schedules compared to yoked schedules have been attributed to motivational influences and/or information processing activities with many researchers adopting the motivational perspective in recent years. Chiviacowsky and Wulf (2005) found that feedback decisions made before (Self-Before) or after a trial (Self-After) resulted in similar retention performance, but superior transfer performance resulted when the decision to receive feedback occurred after a trial. They suggested that the superior skill transfer of the Self-After group likely emerged from information processing activities such as error estimation. However, the lack of yoked groups and a measure of error estimation in their experimental design prevents conclusions being made regarding the underlying mechanisms of why self-controlled feedback schedules optimize learning. Here, we revisited Chiviacowsky and Wulf’s (2005) design to investigate the learning benefits of self-controlled feedback schedules. We replicated their Self-Before and Self-After groups, but added a Self-Both group that was able to request feedback before a trial, but could then change or stay with their original choice after the trial. Importantly, yoked groups were included for the three self-controlled groups to address the previously stated methodological limitation and error estimations were included to examine whether self-controlling feedback facilitates a more accurate error detection and correction mechanism. The Self-After and Self-Before groups demonstrated similar accuracy in physical performance and error estimation scores in retention and transfer, and both groups were significantly more accurate than the Self-Before group and their respective Yoked groups (p’s &lt; 0.05). Further, the Self-Before group was not significantly different from their yoked counterparts (p’s &gt; 0.05). We suggest these findings further indicate that informational factors associated with the processing of feedback for the development of one’s error detection and correction mechanism, rather than motivational processes are more critical for why self-controlled feedback schedules optimize motor learning."
+  },
+  {
+    "objectID": "papers/2010-14/2012_carter_hms.html",
+    "href": "papers/2010-14/2012_carter_hms.html",
+    "title": "Self-controlled knowledge of results: Age-related differences in motor learning, strategies, and error detection",
+    "section": "",
+    "text": "Carter, M. J., & Patterson, J. T. (2012). Self-controlled knowledge of results: Age-related differences in motor learning, strategies, and error detection. Human Movement Science, 31(6), 1459–1472. https://doi.org/10.1016/j.humov.2012.07.008\n\n\n\n\n@article{,\n  title = {Self-Controlled Knowledge of Results: {{Age-related}} Differences in Motor Learning, Strategies, and Error Detection},\n  shorttitle = {Self-Controlled Knowledge of Results},\n  author = {Carter, Michael J. and Patterson, Jae T.},\n  date = {2012-12-01},\n  journaltitle = {Human Movement Science},\n  shortjournal = {Human Movement Science},\n  volume = {31},\n  number = {6},\n  pages = {1459--1472},\n  issn = {0167-9457},\n  doi = {10.1016/j.humov.2012.07.008},\n  url = {https://www.sciencedirect.com/science/article/pii/S0167945712001017},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {Error detection,Feedback,Older adults,Performance estimation,Practice}\n}"
+  },
+  {
+    "objectID": "papers/2010-14/2012_carter_hms.html#citation",
+    "href": "papers/2010-14/2012_carter_hms.html#citation",
+    "title": "Self-controlled knowledge of results: Age-related differences in motor learning, strategies, and error detection",
+    "section": "",
+    "text": "Carter, M. J., & Patterson, J. T. (2012). Self-controlled knowledge of results: Age-related differences in motor learning, strategies, and error detection. Human Movement Science, 31(6), 1459–1472. https://doi.org/10.1016/j.humov.2012.07.008\n\n\n\n\n@article{,\n  title = {Self-Controlled Knowledge of Results: {{Age-related}} Differences in Motor Learning, Strategies, and Error Detection},\n  shorttitle = {Self-Controlled Knowledge of Results},\n  author = {Carter, Michael J. and Patterson, Jae T.},\n  date = {2012-12-01},\n  journaltitle = {Human Movement Science},\n  shortjournal = {Human Movement Science},\n  volume = {31},\n  number = {6},\n  pages = {1459--1472},\n  issn = {0167-9457},\n  doi = {10.1016/j.humov.2012.07.008},\n  url = {https://www.sciencedirect.com/science/article/pii/S0167945712001017},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {Error detection,Feedback,Older adults,Performance estimation,Practice}\n}"
+  },
+  {
+    "objectID": "papers/2010-14/2012_carter_hms.html#abstract",
+    "href": "papers/2010-14/2012_carter_hms.html#abstract",
+    "title": "Self-controlled knowledge of results: Age-related differences in motor learning, strategies, and error detection",
+    "section": "Abstract",
+    "text": "Abstract\nResearch has demonstrated that a self-controlled KR schedule is advantageous for motor learning; however, the usefulness of a self-controlled KR context in older adults remains unknown. To address this gap in knowledge, we examined whether (1) the learning benefits of a self-controlled KR schedule are modulated by the age of the learner; (2) practicing in a self-controlled KR context concurrently strengthens the learner’s error detection mechanism, and (3) the KR strategy during acquisition changes as a function of practice trials completed and age. As a function of age, participants were quasirandomly assigned to either the self-control or yoked group resulting in four experimental groups (Self-Young, Yoked-Young, Self-Old, and Yoked-Old). The results revealed the Self-Young group: (1) demonstrated superior retention performance than all other groups (p &lt; .05); (2) was more accurate in estimating motor performance than all other groups during retention (p &lt; .05), and (3) self-reported a switch in their strategy for requesting KR during acquisition based on the number of practice trials completed. Collectively, our findings suggest that older adults do not demonstrate the same learning benefits of a self-controlled KR context as younger adults which may be attributed to differences in KR strategies."
+  },
+  {
+    "objectID": "papers/2010-14/2013_bajema_ebr.html",
+    "href": "papers/2010-14/2013_bajema_ebr.html",
+    "title": "Pause time alters the preparation of two-component movements",
+    "section": "",
+    "text": "Bajema, M. C., MacKinnon, C. D., Carter, M. J., Kennefick, M., Perlmutter, S., & Carlsen, A. N. (2013). Pause time alters the preparation of two-component movements. Experimental Brain Research, 231(1), 85–96. https://doi.org/10.1007/s00221-013-3670-6\n\n\n\n\n@article{,\n  title = {Pause Time Alters the Preparation of Two-Component Movements},\n  author = {Bajema, Michael C. and MacKinnon, Colum D. and Carter, Michael J. and Kennefick, Michael and Perlmutter, Sam and Carlsen, Anthony N.},\n  date = {2013-11-01},\n  journaltitle = {Experimental Brain Research},\n  shortjournal = {Exp Brain Res},\n  volume = {231},\n  number = {1},\n  pages = {85--96},\n  issn = {1432-1106},\n  doi = {10.1007/s00221-013-3670-6},\n  url = {https://doi.org/10.1007/s00221-013-3670-6},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {Aiming,Complexity,Movement planning,Pause time,Startle}\n}"
+  },
+  {
+    "objectID": "papers/2010-14/2013_bajema_ebr.html#citation",
+    "href": "papers/2010-14/2013_bajema_ebr.html#citation",
+    "title": "Pause time alters the preparation of two-component movements",
+    "section": "",
+    "text": "Bajema, M. C., MacKinnon, C. D., Carter, M. J., Kennefick, M., Perlmutter, S., & Carlsen, A. N. (2013). Pause time alters the preparation of two-component movements. Experimental Brain Research, 231(1), 85–96. https://doi.org/10.1007/s00221-013-3670-6\n\n\n\n\n@article{,\n  title = {Pause Time Alters the Preparation of Two-Component Movements},\n  author = {Bajema, Michael C. and MacKinnon, Colum D. and Carter, Michael J. and Kennefick, Michael and Perlmutter, Sam and Carlsen, Anthony N.},\n  date = {2013-11-01},\n  journaltitle = {Experimental Brain Research},\n  shortjournal = {Exp Brain Res},\n  volume = {231},\n  number = {1},\n  pages = {85--96},\n  issn = {1432-1106},\n  doi = {10.1007/s00221-013-3670-6},\n  url = {https://doi.org/10.1007/s00221-013-3670-6},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {Aiming,Complexity,Movement planning,Pause time,Startle}\n}"
+  },
+  {
+    "objectID": "papers/2010-14/2013_bajema_ebr.html#abstract",
+    "href": "papers/2010-14/2013_bajema_ebr.html#abstract",
+    "title": "Pause time alters the preparation of two-component movements",
+    "section": "Abstract",
+    "text": "Abstract\nTargeted reciprocal aiming movements are pervasive in everyday life, but it is unclear how the timing parameters between task elements affect the preparation of these movements. This study used a loud (124 dB) startling acoustic stimulus (SAS) to probe how changes in the pause time between the outward and return components of a reciprocal aiming task affected the preparatory state of the motor system. Participants performed a visually guided wrist extension–flexion task to a target located at 20° from the start position and were instructed to pause the movement within the wrist extension target zone for either 50, 200, or 500 ms. A SAS was presented during 25 % of trials before either the onset of the wrist extension (out) or flexion (return) components of the task to determine how motor preparation was affected by task requirements. Results showed that the presentation of a SAS prior to the initial outward movement led to significantly earlier onsets of both the outward and return components (p &lt; .05), indicating that the pause time in the planned action was pre-planned. For the longer (200, 500 ms) pause-time conditions, a SAS delivered prior to returning from the target region triggered the return portion of the movement early. These findings suggest that the shortest pause-time movement (50 ms) was preplanned as a single action, whereas for reciprocal movements with longer pause times at least the initial part of the movement and the timing of the pause were preplanned and integrated, while the return portion was more independent."
+  },
+  {
+    "objectID": "papers/2010-14/2014_maslovat_neurolet.html",
+    "href": "papers/2010-14/2014_maslovat_neurolet.html",
+    "title": "Startle neural activity is additive with normal cortical initiation-related activation",
+    "section": "",
+    "text": "Maslovat, D., Carter, M. J., Kennefick, M., & Carlsen, A. N. (2014). Startle neural activity is additive with normal cortical initiation-related activation. Neuroscience Letters, 558, 164–168. https://doi.org/10.1016/j.neulet.2013.11.009\n\n\n\n\n@article{,\n  title = {Startle Neural Activity Is Additive with Normal Cortical Initiation-Related Activation},\n  author = {Maslovat, Dana and Carter, Michael J. and Kennefick, Michael and Carlsen, Anthony N.},\n  date = {2014-01-13},\n  journaltitle = {Neuroscience Letters},\n  shortjournal = {Neuroscience Letters},\n  volume = {558},\n  pages = {164--168},\n  issn = {0304-3940},\n  doi = {10.1016/j.neulet.2013.11.009},\n  url = {https://www.sciencedirect.com/science/article/pii/S0304394013010094},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {Additive model,Initiation,Motor preparation,Neural activation,Startle}\n}"
+  },
+  {
+    "objectID": "papers/2010-14/2014_maslovat_neurolet.html#citation",
+    "href": "papers/2010-14/2014_maslovat_neurolet.html#citation",
+    "title": "Startle neural activity is additive with normal cortical initiation-related activation",
+    "section": "",
+    "text": "Maslovat, D., Carter, M. J., Kennefick, M., & Carlsen, A. N. (2014). Startle neural activity is additive with normal cortical initiation-related activation. Neuroscience Letters, 558, 164–168. https://doi.org/10.1016/j.neulet.2013.11.009\n\n\n\n\n@article{,\n  title = {Startle Neural Activity Is Additive with Normal Cortical Initiation-Related Activation},\n  author = {Maslovat, Dana and Carter, Michael J. and Kennefick, Michael and Carlsen, Anthony N.},\n  date = {2014-01-13},\n  journaltitle = {Neuroscience Letters},\n  shortjournal = {Neuroscience Letters},\n  volume = {558},\n  pages = {164--168},\n  issn = {0304-3940},\n  doi = {10.1016/j.neulet.2013.11.009},\n  url = {https://www.sciencedirect.com/science/article/pii/S0304394013010094},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {Additive model,Initiation,Motor preparation,Neural activation,Startle}\n}"
+  },
+  {
+    "objectID": "papers/2010-14/2014_maslovat_neurolet.html#abstract",
+    "href": "papers/2010-14/2014_maslovat_neurolet.html#abstract",
+    "title": "Startle neural activity is additive with normal cortical initiation-related activation",
+    "section": "Abstract",
+    "text": "Abstract\nThe current study examined the process of response initiation in a simple reaction time (RT) task using a startling acoustic stimulus (SAS), which has been shown to trigger a prepared movement through an involuntary initiation pathway. The SAS was presented within the RT interval (concurrent with, and 25, 50, 75, 100, and 125 ms following the “go” signal), with the observed response latency used to examine the relative contributions of voluntary and involuntary activation to response initiation. Our results clearly indicate that both voluntary and startle-related initiation activation jointly contribute to the observed RT. The data support a model in which startle-related neural activity is additive with voluntary cortical initiation-related activation. This result also provides indirect support for the hypothesis that both voluntary and SAS-related involuntary activation involve a similar process of response output."
+  },
+  {
+    "objectID": "papers/2010-14/2011_patterson_rqes.html",
+    "href": "papers/2010-14/2011_patterson_rqes.html",
+    "title": "Decreasing the proportion of self-control trials during the acquisition period does not compromise the learning advantages in a self-controlled context",
+    "section": "",
+    "text": "Patterson, J. T., Carter, M. J., & Sanli, E. (2011). Decreasing the proportion of self-control trials during the acquisition period does not compromise the learning advantages in a self-controlled context. Research Quarterly for Exercise and Sport, 82(4), 624–633. https://doi.org/10.1080/02701367.2011.10599799\n\n\n\n\n@article{,\n  title = {Decreasing the Proportion of Self-Control Trials during the Acquisition Period Does Not Compromise the Learning Advantages in a Self-Controlled Context},\n  author = {Patterson, Jae T. and Carter, Michael J. and Sanli, Elizabeth},\n  date = {2011-12-01},\n  journaltitle = {Research Quarterly for Exercise and Sport},\n  volume = {82},\n  number = {4},\n  eprint = {22276404},\n  eprinttype = {pmid},\n  pages = {624--633},\n  publisher = {{Routledge}},\n  issn = {0270-1367},\n  doi = {10.1080/02701367.2011.10599799},\n  url = {https://doi.org/10.1080/02701367.2011.10599799},\n  urldate = {2023-07-13},\n  keywords = {knowledge of results,perceptuomotor processes,sequence learning}\n}"
+  },
+  {
+    "objectID": "papers/2010-14/2011_patterson_rqes.html#citation",
+    "href": "papers/2010-14/2011_patterson_rqes.html#citation",
+    "title": "Decreasing the proportion of self-control trials during the acquisition period does not compromise the learning advantages in a self-controlled context",
+    "section": "",
+    "text": "Patterson, J. T., Carter, M. J., & Sanli, E. (2011). Decreasing the proportion of self-control trials during the acquisition period does not compromise the learning advantages in a self-controlled context. Research Quarterly for Exercise and Sport, 82(4), 624–633. https://doi.org/10.1080/02701367.2011.10599799\n\n\n\n\n@article{,\n  title = {Decreasing the Proportion of Self-Control Trials during the Acquisition Period Does Not Compromise the Learning Advantages in a Self-Controlled Context},\n  author = {Patterson, Jae T. and Carter, Michael J. and Sanli, Elizabeth},\n  date = {2011-12-01},\n  journaltitle = {Research Quarterly for Exercise and Sport},\n  volume = {82},\n  number = {4},\n  eprint = {22276404},\n  eprinttype = {pmid},\n  pages = {624--633},\n  publisher = {{Routledge}},\n  issn = {0270-1367},\n  doi = {10.1080/02701367.2011.10599799},\n  url = {https://doi.org/10.1080/02701367.2011.10599799},\n  urldate = {2023-07-13},\n  keywords = {knowledge of results,perceptuomotor processes,sequence learning}\n}"
+  },
+  {
+    "objectID": "papers/2010-14/2011_patterson_rqes.html#abstract",
+    "href": "papers/2010-14/2011_patterson_rqes.html#abstract",
+    "title": "Decreasing the proportion of self-control trials during the acquisition period does not compromise the learning advantages in a self-controlled context",
+    "section": "Abstract",
+    "text": "Abstract\nThe present experiment examined the learning effects of participants self-controlling their receipt of knowledge of results (KR) on all or half of their acquisition trials (50%). For participants who were provided 50% self-control, the first half of their acquisition period consisted of receiving KR on all trials, or according to a faded-KR schedule. Participants practiced a sequential timing task. The results showed that independent of practice condition, participants who self-controlled their KR during the acquisition period demonstrated superior performance compared to the respective yoked conditions in the retention and transfer portion of the experiment. These results extend previous research by suggesting that decreasing the proportion of self-control trials does not compromise learning in a self-controlled context."
+  },
+  {
+    "objectID": "papers/2010-14/2010_patterson_hms.html",
+    "href": "papers/2010-14/2010_patterson_hms.html",
+    "title": "Learner regulated knowledge of results during the acquisition of multiple timing goals",
+    "section": "",
+    "text": "Patterson, J. T., & Carter, M. J. (2010). Learner regulated knowledge of results during the acquisition of multiple timing goals. Human Movement Science, 29(2), 214–227. https://doi.org/10.1016/j.humov.2009.12.003\n\n\n\n\n@article{,\n  title = {Learner Regulated Knowledge of Results during the Acquisition of Multiple Timing Goals},\n  author = {Patterson, Jae T. and Carter, Michael J.},\n  date = {2010-04-01},\n  journaltitle = {Human Movement Science},\n  shortjournal = {Human Movement Science},\n  volume = {29},\n  number = {2},\n  pages = {214--227},\n  issn = {0167-9457},\n  doi = {10.1016/j.humov.2009.12.003},\n  url = {https://www.sciencedirect.com/science/article/pii/S0167945710000035},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {Knowledge of results,Motor learning,Motor skills,Practice,Self-control}\n}"
+  },
+  {
+    "objectID": "papers/2010-14/2010_patterson_hms.html#citation",
+    "href": "papers/2010-14/2010_patterson_hms.html#citation",
+    "title": "Learner regulated knowledge of results during the acquisition of multiple timing goals",
+    "section": "",
+    "text": "Patterson, J. T., & Carter, M. J. (2010). Learner regulated knowledge of results during the acquisition of multiple timing goals. Human Movement Science, 29(2), 214–227. https://doi.org/10.1016/j.humov.2009.12.003\n\n\n\n\n@article{,\n  title = {Learner Regulated Knowledge of Results during the Acquisition of Multiple Timing Goals},\n  author = {Patterson, Jae T. and Carter, Michael J.},\n  date = {2010-04-01},\n  journaltitle = {Human Movement Science},\n  shortjournal = {Human Movement Science},\n  volume = {29},\n  number = {2},\n  pages = {214--227},\n  issn = {0167-9457},\n  doi = {10.1016/j.humov.2009.12.003},\n  url = {https://www.sciencedirect.com/science/article/pii/S0167945710000035},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {Knowledge of results,Motor learning,Motor skills,Practice,Self-control}\n}"
+  },
+  {
+    "objectID": "papers/2010-14/2010_patterson_hms.html#abstract",
+    "href": "papers/2010-14/2010_patterson_hms.html#abstract",
+    "title": "Learner regulated knowledge of results during the acquisition of multiple timing goals",
+    "section": "Abstract",
+    "text": "Abstract\nThe purpose of the present experiment was to examine the advantages of a learner controlled KR schedule during the acquisition of three novel sequential timing tasks. The self-regulated group requested KR when necessary during the acquisition period while participants in the yoked condition replicated the KR schedule of a self-regulated counterpart, without the choice. The self-regulated condition demonstrated superior performance in retention and transfer, with a relative KR frequency similar for all three sequences. Similar to Chiviacowsky and Wulf (2002), learners also demonstrated a preference for KR after perceived good trials, independent of defined task difficulty. Thus, the results extend previous research by suggesting a generalized learning strategy by performers acquiring multiple motor task goals."
+  },
+  {
+    "objectID": "papers/2010-14/2013_patterson_hms.html",
+    "href": "papers/2010-14/2013_patterson_hms.html",
+    "title": "Self-controlled KR schedules: Does repetition order matter?",
+    "section": "",
+    "text": "Patterson, J. T., Carter, M. J., & Hansen, S. (2013). Self-controlled KR schedules: Does repetition order matter? Human Movement Science, 32(4), 567–579. https://doi.org/10.1016/j.humov.2013.03.005\n\n\n\n\n@article{,\n  title = {Self-Controlled {{KR}} Schedules: {{Does}} Repetition Order Matter?},\n  shorttitle = {Self-Controlled {{KR}} Schedules},\n  author = {Patterson, Jae T. and Carter, Michael J. and Hansen, Steve},\n  date = {2013-08-01},\n  journaltitle = {Human Movement Science},\n  shortjournal = {Human Movement Science},\n  volume = {32},\n  number = {4},\n  pages = {567--579},\n  issn = {0167-9457},\n  doi = {10.1016/j.humov.2013.03.005},\n  url = {https://www.sciencedirect.com/science/article/pii/S0167945713000456},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {2330,2340,2343,Feedback,Knowledge of results,Learning,Practice schedule,Self-control}\n}"
+  },
+  {
+    "objectID": "papers/2010-14/2013_patterson_hms.html#citation",
+    "href": "papers/2010-14/2013_patterson_hms.html#citation",
+    "title": "Self-controlled KR schedules: Does repetition order matter?",
+    "section": "",
+    "text": "Patterson, J. T., Carter, M. J., & Hansen, S. (2013). Self-controlled KR schedules: Does repetition order matter? Human Movement Science, 32(4), 567–579. https://doi.org/10.1016/j.humov.2013.03.005\n\n\n\n\n@article{,\n  title = {Self-Controlled {{KR}} Schedules: {{Does}} Repetition Order Matter?},\n  shorttitle = {Self-Controlled {{KR}} Schedules},\n  author = {Patterson, Jae T. and Carter, Michael J. and Hansen, Steve},\n  date = {2013-08-01},\n  journaltitle = {Human Movement Science},\n  shortjournal = {Human Movement Science},\n  volume = {32},\n  number = {4},\n  pages = {567--579},\n  issn = {0167-9457},\n  doi = {10.1016/j.humov.2013.03.005},\n  url = {https://www.sciencedirect.com/science/article/pii/S0167945713000456},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {2330,2340,2343,Feedback,Knowledge of results,Learning,Practice schedule,Self-control}\n}"
+  },
+  {
+    "objectID": "papers/2010-14/2013_patterson_hms.html#abstract",
+    "href": "papers/2010-14/2013_patterson_hms.html#abstract",
+    "title": "Self-controlled KR schedules: Does repetition order matter?",
+    "section": "Abstract",
+    "text": "Abstract\nThe impact of an experimenter-defined repetition schedule on the utility of a self-controlled KR context during motor skill acquisition was examined. Participants were required to learn three novel spatial-temporal tasks in either a random or blocked repetition schedule with or without the opportunity to control their KR. Results from the retention period showed that participants provided control over their KR schedule in a random repetition schedule demonstrated superior learning. However, performance measures from the transfer test showed that, independent of repetition schedule, learners provided the opportunity to control their KR schedule demonstrated superior transfer performance compared to their yoked counterparts. The dissociated impact of repetition schedule and self-controlled KR schedules on retention and transfer is discussed."
+  },
+  {
+    "objectID": "papers/template.html",
+    "href": "papers/template.html",
+    "title": "carterlab",
+    "section": "",
+    "text": "blah"
+  },
+  {
+    "objectID": "papers/template.html#citation",
+    "href": "papers/template.html#citation",
+    "title": "carterlab",
+    "section": "",
+    "text": "blah"
+  },
+  {
+    "objectID": "papers/template.html#abstract",
+    "href": "papers/template.html#abstract",
+    "title": "carterlab",
+    "section": "Abstract",
+    "text": "Abstract"
+  },
+  {
+    "objectID": "papers/preprints/mckay_foa-meta.html",
+    "href": "papers/preprints/mckay_foa-meta.html",
+    "title": "Reporting bias, not external focus: A robust Bayesian meta-analysis of the attentional focus literature",
+    "section": "",
+    "text": "McKay, B., Corson, A., Seedu, J., Faveri, C. D., Hasan, H., Arnold, K., Adams, F., & Carter, M. (2023). Reporting bias, not external focus: A robust Bayesian meta-analysis of the attentional focus literature. SportRxiv. https://doi.org/10.51224/SRXIV.304\n\n\n\n\n@article{,\n  title = {Reporting Bias, Not External Focus: {{A}} Robust {{Bayesian}} Meta-Analysis of the Attentional Focus Literature},\n  shorttitle = {Reporting Bias, Not External Focus},\n  author = {McKay, Brad and Corson, Abbey and Seedu, Jeswende and Faveri, Celeste De and Hasan, Hibaa and Arnold, Kristen and Adams, Faith and Carter, Michael},\n  date = {2023-06-20},\n  eprinttype = {SportRxiv},\n  doi = {10.51224/SRXIV.304},\n  url = {https://sportrxiv.org/index.php/server/preprint/view/304},\n  urldate = {2023-07-13},\n  langid = {english},\n  pubstate = {preprint},\n  keywords = {Heterogeneity,Metascience,OPTIMAL theory,Skill acquisition,Sport science}\n}"
+  },
+  {
+    "objectID": "papers/preprints/mckay_foa-meta.html#citation",
+    "href": "papers/preprints/mckay_foa-meta.html#citation",
+    "title": "Reporting bias, not external focus: A robust Bayesian meta-analysis of the attentional focus literature",
+    "section": "",
+    "text": "McKay, B., Corson, A., Seedu, J., Faveri, C. D., Hasan, H., Arnold, K., Adams, F., & Carter, M. (2023). Reporting bias, not external focus: A robust Bayesian meta-analysis of the attentional focus literature. SportRxiv. https://doi.org/10.51224/SRXIV.304\n\n\n\n\n@article{,\n  title = {Reporting Bias, Not External Focus: {{A}} Robust {{Bayesian}} Meta-Analysis of the Attentional Focus Literature},\n  shorttitle = {Reporting Bias, Not External Focus},\n  author = {McKay, Brad and Corson, Abbey and Seedu, Jeswende and Faveri, Celeste De and Hasan, Hibaa and Arnold, Kristen and Adams, Faith and Carter, Michael},\n  date = {2023-06-20},\n  eprinttype = {SportRxiv},\n  doi = {10.51224/SRXIV.304},\n  url = {https://sportrxiv.org/index.php/server/preprint/view/304},\n  urldate = {2023-07-13},\n  langid = {english},\n  pubstate = {preprint},\n  keywords = {Heterogeneity,Metascience,OPTIMAL theory,Skill acquisition,Sport science}\n}"
+  },
+  {
+    "objectID": "papers/preprints/mckay_foa-meta.html#abstract",
+    "href": "papers/preprints/mckay_foa-meta.html#abstract",
+    "title": "Reporting bias, not external focus: A robust Bayesian meta-analysis of the attentional focus literature",
+    "section": "Abstract",
+    "text": "Abstract\nEvidence has ostensibly been accumulating over the past two decades suggesting that an external focus of attention is superior to an internal focus for the performance and learning of motor skills. Seven previous meta-studies have all reported evidence of external focus superiority—the most comprehensive of which concluded the benefits apply to motor skill (a) retention, (b) transfer, and (c) performance; results in (d) reduced electromyographic activity during performance, and that (e) more distal external foci are superior to proximal external foci for performance. Here, we re-analyzed these data using robust Bayesian meta-analysis methods that included several plausible models of publication bias. We found moderate to strong evidence of publication bias for all five analyses. After correcting for publication bias, estimated mean effects were negligible: g = .01 (performance), g = .15 (retention), g = .09 (transfer), g = .06 (electromyography), and g = -.01 (distance effect). Bayes factors indicated data favored the null for each analysis, ranging from BF01 = 1.3 (retention) to 5.74 (performance). Further, we found clear evidence of heterogeneity in each analysis, suggesting the impact of attentional focus depends on yet unknown contextual factors. Our results contradict the existing consensus that an external focus is always more effective than an internal focus. Instead, focus of attention appears to have a variety of effects that we cannot account for, and on average those effects are small to nil. These results parallel previous metascience suggesting publication bias has obfuscated the motor learning literature."
+  },
+  {
+    "objectID": "papers/preprints/stgermain_phd3.html",
+    "href": "papers/preprints/stgermain_phd3.html",
+    "title": "Autonomy-supportive instructional language does not enhance skill acquisition compared to controlling instructional language",
+    "section": "",
+    "text": "St. Germain, L., McKay, B., Tandon, C., Seedu, J., Barbera, L., Carrillo, C., Brown, D., & Carter, M. (2023). Autonomy-supportive instructional language does not enhance skill acquisition compared to controlling instructional language. SportRxiv. https://doi.org/10.51224/SRXIV.298\n\n\n\n\n@article{,\n  title = {Autonomy-Supportive Instructional Language Does Not Enhance Skill Acquisition Compared to Controlling Instructional Language},\n  author = {St. Germain, Laura and McKay, Brad and Tandon, Chitrini and Seedu, Jeswende and Barbera, Lidia and Carrillo, Chantal and Brown, Denver and Carter, Michael},\n  date = {2023-05-19},\n  eprinttype = {SportRxiv},\n  doi = {10.51224/SRXIV.298},\n  url = {https://sportrxiv.org/index.php/server/preprint/view/298},\n  urldate = {2023-07-13},\n  langid = {english},\n  pubstate = {preprint},\n  keywords = {Motor learning,OPTIMAL theory,Pre-registered,Retention}\n}"
+  },
+  {
+    "objectID": "papers/preprints/stgermain_phd3.html#citation",
+    "href": "papers/preprints/stgermain_phd3.html#citation",
+    "title": "Autonomy-supportive instructional language does not enhance skill acquisition compared to controlling instructional language",
+    "section": "",
+    "text": "St. Germain, L., McKay, B., Tandon, C., Seedu, J., Barbera, L., Carrillo, C., Brown, D., & Carter, M. (2023). Autonomy-supportive instructional language does not enhance skill acquisition compared to controlling instructional language. SportRxiv. https://doi.org/10.51224/SRXIV.298\n\n\n\n\n@article{,\n  title = {Autonomy-Supportive Instructional Language Does Not Enhance Skill Acquisition Compared to Controlling Instructional Language},\n  author = {St. Germain, Laura and McKay, Brad and Tandon, Chitrini and Seedu, Jeswende and Barbera, Lidia and Carrillo, Chantal and Brown, Denver and Carter, Michael},\n  date = {2023-05-19},\n  eprinttype = {SportRxiv},\n  doi = {10.51224/SRXIV.298},\n  url = {https://sportrxiv.org/index.php/server/preprint/view/298},\n  urldate = {2023-07-13},\n  langid = {english},\n  pubstate = {preprint},\n  keywords = {Motor learning,OPTIMAL theory,Pre-registered,Retention}\n}"
+  },
+  {
+    "objectID": "papers/preprints/stgermain_phd3.html#abstract",
+    "href": "papers/preprints/stgermain_phd3.html#abstract",
+    "title": "Autonomy-supportive instructional language does not enhance skill acquisition compared to controlling instructional language",
+    "section": "Abstract",
+    "text": "Abstract\nInstructional language is one of three possible techniques in OPTIMAL theory that can be manipulated to foster an autonomy-supportive practice environment to enhance motor performance and learning. While autonomy-supportive language has been shown to be beneficial in educational psychology, coaching, and health settings, the wording of task instructions has received minimal attention in the motor learning literature to date. Here, we investigated the influence of different instructional language styles on skill acquisition in a pre-registered experiment. Participants (N = 156) learned a speed cup stacking task and received instructions throughout practice that used either autonomy-supportive or controlling language. Although the autonomy-supportive instructions resulted in higher perceptions of autonomy, we did not find any group differences for motor performance in acquisition or in a delayed retention test. Perceptions of competence were higher at the end of acquisition following autonomy-supportive instructions, but this effect was transient as it disappeared before the delayed retention test. Interestingly, intrinsic motivation was lower before retention than after acquisition for the participants that received autonomy-supportive instructions. These data are difficult to reconcile with key predictions in OPTIMAL theory regarding a direct and causal influence of motivational factors on performance and learning. However, our equivalence test suggests these effects on skill acquisition may be smaller than what we were powered to detect. Nevertheless, this is consistent with a growing body of evidence highlighting the need for much larger N experiments in motor learning research."
+  },
+  {
+    "objectID": "papers/preprints/roth_reinforcement.html",
+    "href": "papers/preprints/roth_reinforcement.html",
+    "title": "Reinforcement-based processes actively regulate motor exploration along redundant solution manifolds",
+    "section": "",
+    "text": "Roth, A. M., Calalo, J. A., Lokesh, R., Sullivan, S. R., Grill, S., Jeka, J. J., Kooij, K. van der, Carter, M. J., & Cashaback, J. G. A. (2023). Reinforcement-based processes actively regulate motor exploration along redundant solution manifolds. bioRxiv. https://doi.org/10.1101/2023.02.08.527668\n\n\n\n\n@preprint{roth2023,\n  title = {Reinforcement-Based Processes Actively Regulate Motor Exploration along Redundant Solution Manifolds},\n  author = {Roth, Adam M. and Calalo, Jan A. and Lokesh, Rakshith and Sullivan, Seth R. and Grill, Stephen and Jeka, John J. and family=Kooij, given=Katinka, prefix=van der, useprefix=false and Carter, Michael J. and Cashaback, Joshua G. A.},\n  date = {2023-02-22},\n  eprinttype = {bioRxiv},\n  eprintclass = {New Results},\n  pages = {2023.02.08.527668},\n  doi = {10.1101/2023.02.08.527668},\n  url = {https://www.biorxiv.org/content/10.1101/2023.02.08.527668v2},\n  urldate = {2023-07-13},\n  langid = {english},\n  pubstate = {preprint}\n}"
+  },
+  {
+    "objectID": "papers/preprints/roth_reinforcement.html#citation",
+    "href": "papers/preprints/roth_reinforcement.html#citation",
+    "title": "Reinforcement-based processes actively regulate motor exploration along redundant solution manifolds",
+    "section": "",
+    "text": "Roth, A. M., Calalo, J. A., Lokesh, R., Sullivan, S. R., Grill, S., Jeka, J. J., Kooij, K. van der, Carter, M. J., & Cashaback, J. G. A. (2023). Reinforcement-based processes actively regulate motor exploration along redundant solution manifolds. bioRxiv. https://doi.org/10.1101/2023.02.08.527668\n\n\n\n\n@preprint{roth2023,\n  title = {Reinforcement-Based Processes Actively Regulate Motor Exploration along Redundant Solution Manifolds},\n  author = {Roth, Adam M. and Calalo, Jan A. and Lokesh, Rakshith and Sullivan, Seth R. and Grill, Stephen and Jeka, John J. and family=Kooij, given=Katinka, prefix=van der, useprefix=false and Carter, Michael J. and Cashaback, Joshua G. A.},\n  date = {2023-02-22},\n  eprinttype = {bioRxiv},\n  eprintclass = {New Results},\n  pages = {2023.02.08.527668},\n  doi = {10.1101/2023.02.08.527668},\n  url = {https://www.biorxiv.org/content/10.1101/2023.02.08.527668v2},\n  urldate = {2023-07-13},\n  langid = {english},\n  pubstate = {preprint}\n}"
+  },
+  {
+    "objectID": "papers/preprints/roth_reinforcement.html#abstract",
+    "href": "papers/preprints/roth_reinforcement.html#abstract",
+    "title": "Reinforcement-based processes actively regulate motor exploration along redundant solution manifolds",
+    "section": "Abstract",
+    "text": "Abstract\nFrom a baby’s babbling to a songbird practicing a new tune, exploration is critical to motor learning. A hallmark of exploration is the emergence of random walk behaviour along solution manifolds, where successive motor actions are not independent but rather become serially dependent. Such exploratory random walk behaviour is ubiquitous across species, neural firing, gait patterns, and reaching behaviour. Past work has suggested that exploratory random walk behaviour arises from an accumulation of movement variability and a lack of error-based corrections. Here we test a fundamentally different idea—that reinforcement-based processes regulate random walk behaviour to promote continual motor exploration to maximize success. Across three human reaching experiments we manipulated the size of both the visually displayed target and an unseen reward zone, as well as the probability of reinforcement feedback. Our empirical and modelling results parsimoniously support the notion that exploratory random walk behaviour emerges by utilizing knowledge of movement variability to update intended reach aim towards recently reinforced motor actions. This mechanism leads to active and continuous exploration of the solution manifold, currently thought by prominent theories to arise passively. The ability to continually explore muscle, joint, and task redundant solution manifolds is beneficial while acting in uncertain environments, during motor development, or when recovering from a neurological disorder to discover and learn new motor actions."
+  },
+  {
+    "objectID": "papers/preprints/debrouwer_pdf.html",
+    "href": "papers/preprints/debrouwer_pdf.html",
+    "title": "Gaze behaviour reveals flexible encoding of competing reach goals under conditions of target uncertainty",
+    "section": "",
+    "text": "Brouwer, A. J. de, Carter, M. J., Smail, L. C., Wolpert, D. M., Gallivan, J. P., & Flanagan, J. R. (2020). Gaze behaviour reveals flexible encoding of competing reach goals under conditions of target uncertainty. bioRxiv. https://doi.org/10.1101/2020.09.02.279414\n\n\n\n\n@article{,\n  title = {Gaze Behaviour Reveals Flexible Encoding of Competing Reach Goals under Conditions of Target Uncertainty},\n  author = {{de Brouwer}, Anouk J., and Carter, Michael J. and Smail, Lauren C. and Wolpert, Daniel M. and Gallivan, Jason P. and Flanagan, J. Randall},\n  date = {2020-09-03},\n  eprinttype = {bioRxiv},\n  eprintclass = {New Results},\n  pages = {2020.09.02.279414},\n  doi = {10.1101/2020.09.02.279414},\n  url = {https://www.biorxiv.org/content/10.1101/2020.09.02.279414v1},\n  urldate = {2023-07-13},\n  langid = {english},\n  pubstate = {preprint}\n}"
+  },
+  {
+    "objectID": "papers/preprints/debrouwer_pdf.html#citation",
+    "href": "papers/preprints/debrouwer_pdf.html#citation",
+    "title": "Gaze behaviour reveals flexible encoding of competing reach goals under conditions of target uncertainty",
+    "section": "",
+    "text": "Brouwer, A. J. de, Carter, M. J., Smail, L. C., Wolpert, D. M., Gallivan, J. P., & Flanagan, J. R. (2020). Gaze behaviour reveals flexible encoding of competing reach goals under conditions of target uncertainty. bioRxiv. https://doi.org/10.1101/2020.09.02.279414\n\n\n\n\n@article{,\n  title = {Gaze Behaviour Reveals Flexible Encoding of Competing Reach Goals under Conditions of Target Uncertainty},\n  author = {{de Brouwer}, Anouk J., and Carter, Michael J. and Smail, Lauren C. and Wolpert, Daniel M. and Gallivan, Jason P. and Flanagan, J. Randall},\n  date = {2020-09-03},\n  eprinttype = {bioRxiv},\n  eprintclass = {New Results},\n  pages = {2020.09.02.279414},\n  doi = {10.1101/2020.09.02.279414},\n  url = {https://www.biorxiv.org/content/10.1101/2020.09.02.279414v1},\n  urldate = {2023-07-13},\n  langid = {english},\n  pubstate = {preprint}\n}"
+  },
+  {
+    "objectID": "papers/preprints/debrouwer_pdf.html#abstract",
+    "href": "papers/preprints/debrouwer_pdf.html#abstract",
+    "title": "Gaze behaviour reveals flexible encoding of competing reach goals under conditions of target uncertainty",
+    "section": "Abstract",
+    "text": "Abstract\nIn daily tasks, we are often confronted with competing potential targets and must select one to act on. It has been suggested that, prior to target selection, the human brain encodes the motor goals of multiple, potential targets. However, this view remains controversial and it has been argued that only a single motor goal is encoded, or that motor goals are only specified after target selection. To investigate this issue, we measured participants’ gaze behaviour while viewing two potential reach targets, one of which was cued after a preview period. We applied visuomotor rotations to dissociate each visual target location from its corresponding motor goal location; i.e., the location participants needed to aim their hand toward to bring the rotated cursor to the target. During the preview period, participants most often fixated both motor goals but also frequently fixated one, or neither, motor goal location. Further gaze analysis revealed that on trials in which both motor goals were fixated, both locations were held in memory simultaneously. These findings show that, at the level of single trials, the brain most often encodes multiple motor goals prior to target selection, but may also encode either one or no motor goals. This result may help reconcile a key debate concerning the specification of motor goals in cases of target uncertainty."
+  },
+  {
+    "objectID": "papers/2015-19/2017_carter_psycholres.html",
+    "href": "papers/2015-19/2017_carter_psycholres.html",
+    "title": "An interpolated activity during the knowledge-of-results delay interval eliminates the learning advantages of self-controlled feedback schedules",
+    "section": "",
+    "text": "Carter, M. J., & Ste-Marie, D. M. (2017). An interpolated activity during the knowledge-of-results delay interval eliminates the learning advantages of self-controlled feedback schedules. Psychological Research, 81(2), 399–406. https://doi.org/10.1007/s00426-016-0757-2\n\n\n\n\n@article{,\n  title = {An Interpolated Activity during the Knowledge-of-Results Delay Interval Eliminates the Learning Advantages of Self-Controlled Feedback Schedules},\n  author = {Carter, Michael J. and Ste-Marie, Diane M.},\n  date = {2017-03-01},\n  journaltitle = {Psychological Research},\n  shortjournal = {Psychological Research},\n  volume = {81},\n  number = {2},\n  pages = {399--406},\n  issn = {1430-2772},\n  doi = {10.1007/s00426-016-0757-2},\n  url = {https://doi.org/10.1007/s00426-016-0757-2},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {Interpolate Activity,Learning Benefit,Movement Completion,Performance Appraisal,Root Mean Square Error}\n}"
+  },
+  {
+    "objectID": "papers/2015-19/2017_carter_psycholres.html#citation",
+    "href": "papers/2015-19/2017_carter_psycholres.html#citation",
+    "title": "An interpolated activity during the knowledge-of-results delay interval eliminates the learning advantages of self-controlled feedback schedules",
+    "section": "",
+    "text": "Carter, M. J., & Ste-Marie, D. M. (2017). An interpolated activity during the knowledge-of-results delay interval eliminates the learning advantages of self-controlled feedback schedules. Psychological Research, 81(2), 399–406. https://doi.org/10.1007/s00426-016-0757-2\n\n\n\n\n@article{,\n  title = {An Interpolated Activity during the Knowledge-of-Results Delay Interval Eliminates the Learning Advantages of Self-Controlled Feedback Schedules},\n  author = {Carter, Michael J. and Ste-Marie, Diane M.},\n  date = {2017-03-01},\n  journaltitle = {Psychological Research},\n  shortjournal = {Psychological Research},\n  volume = {81},\n  number = {2},\n  pages = {399--406},\n  issn = {1430-2772},\n  doi = {10.1007/s00426-016-0757-2},\n  url = {https://doi.org/10.1007/s00426-016-0757-2},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {Interpolate Activity,Learning Benefit,Movement Completion,Performance Appraisal,Root Mean Square Error}\n}"
+  },
+  {
+    "objectID": "papers/2015-19/2017_carter_psycholres.html#abstract",
+    "href": "papers/2015-19/2017_carter_psycholres.html#abstract",
+    "title": "An interpolated activity during the knowledge-of-results delay interval eliminates the learning advantages of self-controlled feedback schedules",
+    "section": "Abstract",
+    "text": "Abstract\nThe learning advantages of self-controlled knowledge-of-results (KR) schedules compared to yoked schedules have been linked to the optimization of the informational value of the KR received for the enhancement of one’s error-detection capabilities. This suggests that information-processing activities that occur after motor execution, but prior to receiving KR (i.e., the KR-delay interval) may underlie self-controlled KR learning advantages. The present experiment investigated whether self-controlled KR learning benefits would be eliminated if an interpolated activity was performed during the KR-delay interval. Participants practiced a waveform matching task that required two rapid elbow extension-flexion reversals in one of four groups using a factorial combination of choice (self-controlled, yoked) and KR-delay interval (empty, interpolated). The waveform had specific spatial and temporal constraints, and an overall movement time goal. The results indicated that the self-controlled + empty group had superior retention and transfer scores compared to all other groups. Moreover, the self-controlled + interpolated and yoked + interpolated groups did not differ significantly in retention and transfer; thus, the interpolated activity eliminated the typically found learning benefits of self-controlled KR. No significant differences were found between the two yoked groups. We suggest the interpolated activity interfered with information-processing activities specific to self-controlled KR conditions that occur during the KR-delay interval and that these activities are vital for reaping the associated learning benefits. These findings add to the growing evidence that challenge the motivational account of self-controlled KR learning advantages and instead highlights informational factors associated with the KR-delay interval as an important variable for motor learning under self-controlled KR schedules."
+  },
+  {
+    "objectID": "papers/2015-19/2016_martini_pse.html",
+    "href": "papers/2015-19/2016_martini_pse.html",
+    "title": "Development and validation of the Movement Imagery Questionnaire for Children (MIQ-C)",
+    "section": "",
+    "text": "Martini, R., Carter, M. J., Yoxon, E., Cumming, J., & Ste-Marie, D. M. (2016). Development and validation of the Movement Imagery Questionnaire for Children (MIQ-C). Psychology of Sport and Exercise, 22, 190–201. https://doi.org/10.1016/j.psychsport.2015.08.008\n\n\n\n\n@article{,\n  title = {Development and Validation of the {{Movement Imagery Questionnaire}} for {{Children}} ({{MIQ-C}})},\n  author = {Martini, Rose and Carter, Michael J. and Yoxon, Emma and Cumming, Jennifer and Ste-Marie, Diane M.},\n  date = {2016-01-01},\n  journaltitle = {Psychology of Sport and Exercise},\n  shortjournal = {Psychology of Sport and Exercise},\n  volume = {22},\n  pages = {190--201},\n  issn = {1469-0292},\n  doi = {10.1016/j.psychsport.2015.08.008},\n  url = {https://www.sciencedirect.com/science/article/pii/S1469029215300054},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {Ease of imaging,Imagery ability,Scale development}\n}"
+  },
+  {
+    "objectID": "papers/2015-19/2016_martini_pse.html#citation",
+    "href": "papers/2015-19/2016_martini_pse.html#citation",
+    "title": "Development and validation of the Movement Imagery Questionnaire for Children (MIQ-C)",
+    "section": "",
+    "text": "Martini, R., Carter, M. J., Yoxon, E., Cumming, J., & Ste-Marie, D. M. (2016). Development and validation of the Movement Imagery Questionnaire for Children (MIQ-C). Psychology of Sport and Exercise, 22, 190–201. https://doi.org/10.1016/j.psychsport.2015.08.008\n\n\n\n\n@article{,\n  title = {Development and Validation of the {{Movement Imagery Questionnaire}} for {{Children}} ({{MIQ-C}})},\n  author = {Martini, Rose and Carter, Michael J. and Yoxon, Emma and Cumming, Jennifer and Ste-Marie, Diane M.},\n  date = {2016-01-01},\n  journaltitle = {Psychology of Sport and Exercise},\n  shortjournal = {Psychology of Sport and Exercise},\n  volume = {22},\n  pages = {190--201},\n  issn = {1469-0292},\n  doi = {10.1016/j.psychsport.2015.08.008},\n  url = {https://www.sciencedirect.com/science/article/pii/S1469029215300054},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {Ease of imaging,Imagery ability,Scale development}\n}"
+  },
+  {
+    "objectID": "papers/2015-19/2016_martini_pse.html#abstract",
+    "href": "papers/2015-19/2016_martini_pse.html#abstract",
+    "title": "Development and validation of the Movement Imagery Questionnaire for Children (MIQ-C)",
+    "section": "Abstract",
+    "text": "Abstract\nThe ability to perform movement imagery has been shown to influence motor performance and learning in sports and rehabilitation. Self-report questionnaires have been developed to assess movement imagery ability in adults, such as the Movement Imagery Questionnaire 3 (MIQ-3); however, there is a dearth of developmentally appropriate measures for use with children. To address this gap, the focus of this research was to develop an imagery ability questionnaire for children. This process involved adaptation of the MIQ-3 via: i) cognitive interviewing with twenty children, ii) validation with 206 children by examining its factor structure via multitrait-multi method confirmatory factor analysis, and iii) examination of test-retest reliability with 23 children. The findings of Study 1 led to changes to the wording of the questionnaire and modifications of the instructions to successfully adapt the MIQ-3 for children aged 7–12 years. The validation undertaken in Study 2 found that a correlated-traits correlated-uniqueness model provided the best fit to the data. Finally, test-retest reliabilities varied from fair (for external visual imagery) to substantial (for kinesthetic imagery). With respect to ease of imaging, no significant gender or age-group differences were noted. However, significant difference were found among the three imagery modalities (p &lt; .001), with external visual imagery rated as easiest to image and kinesthetic imagery rated as the most difficult. Taken together, findings support the use of the MIQ-C for examining movement imagery ability with children."
+  },
+  {
+    "objectID": "papers/2015-19/2016_carter_hms.html",
+    "href": "papers/2015-19/2016_carter_hms.html",
+    "title": "Judgments of learning are significantly higher following feedback on relatively good versus relatively poor trials despite no actual learning differences",
+    "section": "",
+    "text": "Carter, M. J., Smith, V., & Ste-Marie, D. M. (2016). Judgments of learning are significantly higher following feedback on relatively good versus relatively poor trials despite no actual learning differences. Human Movement Science, 45, 63–70. https://doi.org/10.1016/j.humov.2015.11.006\n\n\n\n\n@article{,\n  title = {Judgments of Learning Are Significantly Higher Following Feedback on Relatively Good versus Relatively Poor Trials despite No Actual Learning Differences},\n  author = {Carter, Michael J. and Smith, Victoria and Ste-Marie, Diane M.},\n  date = {2016-02-01},\n  journaltitle = {Human Movement Science},\n  shortjournal = {Human Movement Science},\n  volume = {45},\n  pages = {63--70},\n  issn = {0167-9457},\n  doi = {10.1016/j.humov.2015.11.006},\n  url = {https://www.sciencedirect.com/science/article/pii/S0167945715300567},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {Knowledge of results,Metacognition,Motor learning,Skill acquisition}\n}"
+  },
+  {
+    "objectID": "papers/2015-19/2016_carter_hms.html#citation",
+    "href": "papers/2015-19/2016_carter_hms.html#citation",
+    "title": "Judgments of learning are significantly higher following feedback on relatively good versus relatively poor trials despite no actual learning differences",
+    "section": "",
+    "text": "Carter, M. J., Smith, V., & Ste-Marie, D. M. (2016). Judgments of learning are significantly higher following feedback on relatively good versus relatively poor trials despite no actual learning differences. Human Movement Science, 45, 63–70. https://doi.org/10.1016/j.humov.2015.11.006\n\n\n\n\n@article{,\n  title = {Judgments of Learning Are Significantly Higher Following Feedback on Relatively Good versus Relatively Poor Trials despite No Actual Learning Differences},\n  author = {Carter, Michael J. and Smith, Victoria and Ste-Marie, Diane M.},\n  date = {2016-02-01},\n  journaltitle = {Human Movement Science},\n  shortjournal = {Human Movement Science},\n  volume = {45},\n  pages = {63--70},\n  issn = {0167-9457},\n  doi = {10.1016/j.humov.2015.11.006},\n  url = {https://www.sciencedirect.com/science/article/pii/S0167945715300567},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {Knowledge of results,Metacognition,Motor learning,Skill acquisition}\n}"
+  },
+  {
+    "objectID": "papers/2015-19/2016_carter_hms.html#abstract",
+    "href": "papers/2015-19/2016_carter_hms.html#abstract",
+    "title": "Judgments of learning are significantly higher following feedback on relatively good versus relatively poor trials despite no actual learning differences",
+    "section": "Abstract",
+    "text": "Abstract\nStudies have consistently shown that prospective metacognitive judgments of learning are often inaccurate because humans mistakenly interpret current performance levels as valid indices of learning. These metacognitive discrepancies are strongly related to conditions of practice. Here, we examined how the type of feedback (after good versus poor trials) received during practice and awareness (aware versus unaware) of this manipulation affected judgments of learning and actual learning. After each six-trial block, participants received feedback on their three best trials or three worst trials and half of the participants were made explicitly aware of the type of feedback they received while the other half were unaware. Judgments of learning were made at the end of each six-trial block and before the 24-h retention test. Results indicated no motor performance differences between groups in practice or retention; however, receiving feedback on relatively good compared to relatively poor trials resulted in significantly higher judgments of learning in practice and retention, irrespective of awareness. These results suggest that KR on relatively good versus relatively poor trials can have dissociable effects on judgments of learning in the absence of actual learning differences, even when participants are made aware of their feedback manipulation."
+  },
+  {
+    "objectID": "papers/2015-19/2019_barros_hms.html",
+    "href": "papers/2015-19/2019_barros_hms.html",
+    "title": "Examining the impact of error estimation on the effects of self-controlled feedback",
+    "section": "",
+    "text": "Barros, J. A. C., Yantha, Z. D., Carter, M. J., Hussien, J., & Ste-Marie, D. M. (2019). Examining the impact of error estimation on the effects of self-controlled feedback. Human Movement Science, 63, 182–198. https://doi.org/10.1016/j.humov.2018.12.002\n\n\n\n\n@article{,\n  title = {Examining the Impact of Error Estimation on the Effects of Self-Controlled Feedback},\n  author = {Barros, Joao A. C. and Yantha, Zachary D. and Carter, Michael J. and Hussien, Julia and Ste-Marie, Diane M.},\n  date = {2019-02-01},\n  journaltitle = {Human Movement Science},\n  shortjournal = {Human Movement Science},\n  volume = {63},\n  pages = {182--198},\n  issn = {0167-9457},\n  doi = {10.1016/j.humov.2018.12.002},\n  url = {https://www.sciencedirect.com/science/article/pii/S0167945718304640},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {Autonomy,Competence,Information-processing,Motivation,Motor learning,Yoked feedback}\n}"
+  },
+  {
+    "objectID": "papers/2015-19/2019_barros_hms.html#citation",
+    "href": "papers/2015-19/2019_barros_hms.html#citation",
+    "title": "Examining the impact of error estimation on the effects of self-controlled feedback",
+    "section": "",
+    "text": "Barros, J. A. C., Yantha, Z. D., Carter, M. J., Hussien, J., & Ste-Marie, D. M. (2019). Examining the impact of error estimation on the effects of self-controlled feedback. Human Movement Science, 63, 182–198. https://doi.org/10.1016/j.humov.2018.12.002\n\n\n\n\n@article{,\n  title = {Examining the Impact of Error Estimation on the Effects of Self-Controlled Feedback},\n  author = {Barros, Joao A. C. and Yantha, Zachary D. and Carter, Michael J. and Hussien, Julia and Ste-Marie, Diane M.},\n  date = {2019-02-01},\n  journaltitle = {Human Movement Science},\n  shortjournal = {Human Movement Science},\n  volume = {63},\n  pages = {182--198},\n  issn = {0167-9457},\n  doi = {10.1016/j.humov.2018.12.002},\n  url = {https://www.sciencedirect.com/science/article/pii/S0167945718304640},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {Autonomy,Competence,Information-processing,Motivation,Motor learning,Yoked feedback}\n}"
+  },
+  {
+    "objectID": "papers/2015-19/2019_barros_hms.html#abstract",
+    "href": "papers/2015-19/2019_barros_hms.html#abstract",
+    "title": "Examining the impact of error estimation on the effects of self-controlled feedback",
+    "section": "Abstract",
+    "text": "Abstract\nTwo experiments were conducted that examined the motivational and informational perspectives concerning learning advantages from self-controlled practice. Three groups were tasked with learning a novel skill; self-controlled (SC), yoked traditional (YT), and yoked with error estimation required during the acquisition phase (YE). Results from the delayed learning measures showed the YE group performed better than the SC and YT groups, for Expt. 1. A similar pattern emerged for Expt. 2, albeit, this was not significant. While there were no motivation differences across the groups in either experiment, a strong correlation in Expt. 2 was shown between error estimation capabilities, which were best for the YE group, and learning. These combined results suggest that informational processes contribute more to the self-controlled feedback learning advantage, relative to motivational contributions."
+  },
+  {
+    "objectID": "papers/2015-19/2017_maslovat_jnp.html",
+    "href": "papers/2015-19/2017_maslovat_jnp.html",
+    "title": "Response preparation and execution during intentional bimanual pattern switching",
+    "section": "",
+    "text": "Maslovat, D., Carter, M. J., & Carlsen, A. N. (2017). Response preparation and execution during intentional bimanual pattern switching. Journal of Neurophysiology, 118(3), 1720–1731. https://doi.org/10.1152/jn.00323.2017\n\n\n\n\n@article{,\n  title = {Response Preparation and Execution during Intentional Bimanual Pattern Switching},\n  author = {Maslovat, Dana and Carter, Michael J. and Carlsen, Anthony N.},\n  date = {2017-09},\n  journaltitle = {Journal of Neurophysiology},\n  volume = {118},\n  number = {3},\n  pages = {1720--1731},\n  publisher = {{American Physiological Society}},\n  issn = {0022-3077},\n  doi = {10.1152/jn.00323.2017},\n  url = {https://journals.physiology.org/doi/full/10.1152/jn.00323.2017},\n  urldate = {2023-07-13},\n  keywords = {coordination dynamics,intentional switching,preparation,startle,transitions}\n}"
+  },
+  {
+    "objectID": "papers/2015-19/2017_maslovat_jnp.html#citation",
+    "href": "papers/2015-19/2017_maslovat_jnp.html#citation",
+    "title": "Response preparation and execution during intentional bimanual pattern switching",
+    "section": "",
+    "text": "Maslovat, D., Carter, M. J., & Carlsen, A. N. (2017). Response preparation and execution during intentional bimanual pattern switching. Journal of Neurophysiology, 118(3), 1720–1731. https://doi.org/10.1152/jn.00323.2017\n\n\n\n\n@article{,\n  title = {Response Preparation and Execution during Intentional Bimanual Pattern Switching},\n  author = {Maslovat, Dana and Carter, Michael J. and Carlsen, Anthony N.},\n  date = {2017-09},\n  journaltitle = {Journal of Neurophysiology},\n  volume = {118},\n  number = {3},\n  pages = {1720--1731},\n  publisher = {{American Physiological Society}},\n  issn = {0022-3077},\n  doi = {10.1152/jn.00323.2017},\n  url = {https://journals.physiology.org/doi/full/10.1152/jn.00323.2017},\n  urldate = {2023-07-13},\n  keywords = {coordination dynamics,intentional switching,preparation,startle,transitions}\n}"
+  },
+  {
+    "objectID": "papers/2015-19/2017_maslovat_jnp.html#abstract",
+    "href": "papers/2015-19/2017_maslovat_jnp.html#abstract",
+    "title": "Response preparation and execution during intentional bimanual pattern switching",
+    "section": "Abstract",
+    "text": "Abstract\nDuring continuous bimanual coordination, in-phase (IP; 0° relative phase) and anti-phase (AP; 180° relative phase) patterns can be stably performed without practice. Paradigms in which participants are required to intentionally switch between these coordination patterns have been used to investigate the interaction between the performer’s intentions and intrinsic dynamics of the body’s preferred patterns. The current study examined the processes associated with switching preparation and execution through the use of a startling acoustic stimulus (SAS) as the switch stimulus. A SAS is known to involuntarily trigger preprogrammed responses at a shortened latency and, thus, can be used to probe advance preparation. Participants performed cyclical IP and AP bimanual elbow extension-flexion movements in which they were required to switch patterns in response to an auditory switch cue, which was either nonstartling (80 dB) or a SAS (120 dB). Results indicated that reaction time to the switch stimulus (i.e., switch onset) was significantly reduced on startle trials, indicative of advance preparation of the switch response. Similarly, switching time was reduced on startle trials, which was attributed to increased neural activation caused by the SAS. Switching time was also shorter for AP to IP trials, but only when the switching stimulus occurred at either the midpoint or reversal locations within the movement cycle, suggesting that the switch location may affect the intrinsic dynamics of the system."
+  },
+  {
+    "objectID": "papers/2015-19/2017_carter_brainstim.html",
+    "href": "papers/2015-19/2017_carter_brainstim.html",
+    "title": "Intentional switches between coordination patterns are faster following anodal-tDCS applied over the supplementary motor area",
+    "section": "",
+    "text": "Carter, M. J., Maslovat, D., & Carlsen, A. N. (2017). Intentional switches between coordination patterns are faster following anodal-tDCS applied over the supplementary motor area. Brain Stimulation, 10(1), 162–164. https://doi.org/10.1016/j.brs.2016.11.002\n\n\n\n\n@article{,\n  title = {Intentional Switches between Coordination Patterns Are Faster Following Anodal-{{tDCS}} Applied over the Supplementary Motor Area},\n  author = {Carter, Michael J. and Maslovat, Dana and Carlsen, Anthony N.},\n  date = {2017-01-01},\n  journaltitle = {Brain Stimulation},\n  shortjournal = {Brain Stimulation},\n  volume = {10},\n  number = {1},\n  pages = {162--164},\n  issn = {1935-861X},\n  doi = {10.1016/j.brs.2016.11.002},\n  url = {https://www.sciencedirect.com/science/article/pii/S1935861X1630300X},\n  urldate = {2023-07-13},\n  langid = {english}\n}"
+  },
+  {
+    "objectID": "papers/2015-19/2017_carter_brainstim.html#citation",
+    "href": "papers/2015-19/2017_carter_brainstim.html#citation",
+    "title": "Intentional switches between coordination patterns are faster following anodal-tDCS applied over the supplementary motor area",
+    "section": "",
+    "text": "Carter, M. J., Maslovat, D., & Carlsen, A. N. (2017). Intentional switches between coordination patterns are faster following anodal-tDCS applied over the supplementary motor area. Brain Stimulation, 10(1), 162–164. https://doi.org/10.1016/j.brs.2016.11.002\n\n\n\n\n@article{,\n  title = {Intentional Switches between Coordination Patterns Are Faster Following Anodal-{{tDCS}} Applied over the Supplementary Motor Area},\n  author = {Carter, Michael J. and Maslovat, Dana and Carlsen, Anthony N.},\n  date = {2017-01-01},\n  journaltitle = {Brain Stimulation},\n  shortjournal = {Brain Stimulation},\n  volume = {10},\n  number = {1},\n  pages = {162--164},\n  issn = {1935-861X},\n  doi = {10.1016/j.brs.2016.11.002},\n  url = {https://www.sciencedirect.com/science/article/pii/S1935861X1630300X},\n  urldate = {2023-07-13},\n  langid = {english}\n}"
+  },
+  {
+    "objectID": "papers/2015-19/2016_patterson_pms.html",
+    "href": "papers/2015-19/2016_patterson_pms.html",
+    "title": "Measuring investment in learning: Can electrocardiogram provide an indication of cognitive effort during learning?",
+    "section": "",
+    "text": "Patterson, J. T., Hart, A., Hansen, S., Carter, M. J., & Ditor, D. (2016). Measuring investment in learning: Can electrocardiogram provide an indication of cognitive effort during learning? Perceptual and Motor Skills, 122(2), 375–394. https://doi.org/10.1177/0031512516633348\n\n\n\n\n@article{,\n  title = {Measuring Investment in Learning: {{Can}} Electrocardiogram Provide an Indication of Cognitive Effort during Learning?},\n  shorttitle = {Measuring {{Investment}} in {{Learning}}},\n  author = {Patterson, Jae T. and Hart, Amanda and Hansen, Steve and Carter, Michael J. and Ditor, David},\n  date = {2016-04-01},\n  journaltitle = {Perceptual and Motor Skills},\n  shortjournal = {Percept Mot Skills},\n  volume = {122},\n  number = {2},\n  pages = {375--394},\n  publisher = {{SAGE Publications Inc}},\n  issn = {0031-5125},\n  doi = {10.1177/0031512516633348},\n  url = {https://doi.org/10.1177/0031512516633348},\n  urldate = {2023-07-13},\n  langid = {english}\n}"
+  },
+  {
+    "objectID": "papers/2015-19/2016_patterson_pms.html#citation",
+    "href": "papers/2015-19/2016_patterson_pms.html#citation",
+    "title": "Measuring investment in learning: Can electrocardiogram provide an indication of cognitive effort during learning?",
+    "section": "",
+    "text": "Patterson, J. T., Hart, A., Hansen, S., Carter, M. J., & Ditor, D. (2016). Measuring investment in learning: Can electrocardiogram provide an indication of cognitive effort during learning? Perceptual and Motor Skills, 122(2), 375–394. https://doi.org/10.1177/0031512516633348\n\n\n\n\n@article{,\n  title = {Measuring Investment in Learning: {{Can}} Electrocardiogram Provide an Indication of Cognitive Effort during Learning?},\n  shorttitle = {Measuring {{Investment}} in {{Learning}}},\n  author = {Patterson, Jae T. and Hart, Amanda and Hansen, Steve and Carter, Michael J. and Ditor, David},\n  date = {2016-04-01},\n  journaltitle = {Perceptual and Motor Skills},\n  shortjournal = {Percept Mot Skills},\n  volume = {122},\n  number = {2},\n  pages = {375--394},\n  publisher = {{SAGE Publications Inc}},\n  issn = {0031-5125},\n  doi = {10.1177/0031512516633348},\n  url = {https://doi.org/10.1177/0031512516633348},\n  urldate = {2023-07-13},\n  langid = {english}\n}"
+  },
+  {
+    "objectID": "papers/2015-19/2016_patterson_pms.html#abstract",
+    "href": "papers/2015-19/2016_patterson_pms.html#abstract",
+    "title": "Measuring investment in learning: Can electrocardiogram provide an indication of cognitive effort during learning?",
+    "section": "Abstract",
+    "text": "Abstract\nHeart rate variability (i.e., low frequency:high frequency ratio) was measured to differentiate invested cognitive effort during the acquisition and retention of a novel task. Participants (12 male, M = 25.1 year, SD = 3.6; 12 female, M = 22.8 year, SD = 1.1) were required to produce Braille equivalents of English letter primes on a standardized keyboard in proactive or retroactive conditions (groups, each n = 12). The correct Braille response was either provided before (i.e., proactively) or after (i.e., retroactively) the participant’s response. During acquisition, participants in the proactive group demonstrated shorter study time, greater recall success, and reported lower cognitive investment. Participants in the proactive and retroactive groups did not statistically differ in heart rate variability. For retention, the retroactive group showed greater recall success, lower perceived cognitive effort investment, and lower heart rate variability. The results highlight the usefulness of heart rate variability in discriminating the cognitive effort invested for a recently acquired skill."
+  },
+  {
+    "objectID": "papers/2015-19/2015_maslovat_ebr.html",
+    "href": "papers/2015-19/2015_maslovat_ebr.html",
+    "title": "Reduced motor preparation during dual-task performance: Evidence from startle",
+    "section": "",
+    "text": "Maslovat, D., Drummond, N. M., Carter, M. J., & Carlsen, A. N. (2015). Reduced motor preparation during dual-task performance: Evidence from startle. Experimental Brain Research, 233(9), 2673–2683. https://doi.org/10.1007/s00221-015-4340-7\n\n\n\n\n@article{,\n  title = {Reduced Motor Preparation during Dual-Task Performance: {{Evidence}} from Startle},\n  shorttitle = {Reduced Motor Preparation during Dual-Task Performance},\n  author = {Maslovat, Dana and Drummond, Neil M. and Carter, Michael J. and Carlsen, Anthony N.},\n  date = {2015-09-01},\n  journaltitle = {Experimental Brain Research},\n  shortjournal = {Exp Brain Res},\n  volume = {233},\n  number = {9},\n  pages = {2673--2683},\n  issn = {1432-1106},\n  doi = {10.1007/s00221-015-4340-7},\n  url = {https://doi.org/10.1007/s00221-015-4340-7},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {Activation,Attention,Dual-task,Preparation,Probe reaction time,Startle}\n}"
+  },
+  {
+    "objectID": "papers/2015-19/2015_maslovat_ebr.html#citation",
+    "href": "papers/2015-19/2015_maslovat_ebr.html#citation",
+    "title": "Reduced motor preparation during dual-task performance: Evidence from startle",
+    "section": "",
+    "text": "Maslovat, D., Drummond, N. M., Carter, M. J., & Carlsen, A. N. (2015). Reduced motor preparation during dual-task performance: Evidence from startle. Experimental Brain Research, 233(9), 2673–2683. https://doi.org/10.1007/s00221-015-4340-7\n\n\n\n\n@article{,\n  title = {Reduced Motor Preparation during Dual-Task Performance: {{Evidence}} from Startle},\n  shorttitle = {Reduced Motor Preparation during Dual-Task Performance},\n  author = {Maslovat, Dana and Drummond, Neil M. and Carter, Michael J. and Carlsen, Anthony N.},\n  date = {2015-09-01},\n  journaltitle = {Experimental Brain Research},\n  shortjournal = {Exp Brain Res},\n  volume = {233},\n  number = {9},\n  pages = {2673--2683},\n  issn = {1432-1106},\n  doi = {10.1007/s00221-015-4340-7},\n  url = {https://doi.org/10.1007/s00221-015-4340-7},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {Activation,Attention,Dual-task,Preparation,Probe reaction time,Startle}\n}"
+  },
+  {
+    "objectID": "papers/2015-19/2015_maslovat_ebr.html#abstract",
+    "href": "papers/2015-19/2015_maslovat_ebr.html#abstract",
+    "title": "Reduced motor preparation during dual-task performance: Evidence from startle",
+    "section": "Abstract",
+    "text": "Abstract\nPrevious studies have used a secondary probe reaction time (RT) task to assess attentional demands of a primary task. The current study used a startling acoustic stimulus (SAS) in a probe RT paradigm to test the hypothesis that attentional resources would be directly related to limitations in response preparation. Participants performed an easy or difficult version of a continuous primary task that was either primarily motor in nature (pursuit tracking) or cognitive (counting backward). Concurrently, participants responded to an auditory cue as fast as possible by performing a wrist extension secondary movement. On selected trials, the auditory cue was replaced with a SAS (120 dB), which is thought to involuntarily trigger a prepared response and thus bypass any response initiation bottleneck that may be present when trying to perform two movements. Although startle trials were performed at a shorter latency, both non-startle and startle probe trials resulted in a delayed RT, as compared to single-task trials, consistent with reduced preparation of the secondary task. In addition, analysis of SAS trial RT when a startle indicator was present versus absent provided evidence that the secondary task was at a lowered state of preparation when engaged in the cognitive primary task as compared to a motor primary task, suggesting a facilitative effect on preparatory activation when both the primary and secondary tasks are motoric in nature."
+  },
+  {
+    "objectID": "papers/2015-19/2016_carter_jmld.html",
+    "href": "papers/2015-19/2016_carter_jmld.html",
+    "title": "Motor skill retention is modulated by strategy choice during self-controlled knowledge of results schedules",
+    "section": "",
+    "text": "Carter, M., Rathwell, S., & Ste-Marie, D. (2016). Motor skill retention is modulated by strategy choice during self-controlled knowledge of results schedules. Journal of Motor Learning and Development, 4(1), 100–115. https://doi.org/10.1123/jmld.2015-0023\n\n\n\n\n@article{,\n  title = {Motor Skill Retention Is Modulated by Strategy Choice during Self-Controlled Knowledge of Results Schedules},\n  author = {Carter, Michael and Rathwell, Scott and Ste-Marie, Diane},\n  date = {2016-06-01},\n  journaltitle = {Journal of Motor Learning and Development},\n  volume = {4},\n  number = {1},\n  pages = {100--115},\n  publisher = {{Human Kinetics, Inc.}},\n  issn = {2325-3193, 2325-3215},\n  doi = {10.1123/jmld.2015-0023},\n  url = {https://journals.humankinetics.com/view/journals/jmld/4/1/article-p100.xml},\n  urldate = {2023-07-13},\n  langid = {american}\n}"
+  },
+  {
+    "objectID": "papers/2015-19/2016_carter_jmld.html#citation",
+    "href": "papers/2015-19/2016_carter_jmld.html#citation",
+    "title": "Motor skill retention is modulated by strategy choice during self-controlled knowledge of results schedules",
+    "section": "",
+    "text": "Carter, M., Rathwell, S., & Ste-Marie, D. (2016). Motor skill retention is modulated by strategy choice during self-controlled knowledge of results schedules. Journal of Motor Learning and Development, 4(1), 100–115. https://doi.org/10.1123/jmld.2015-0023\n\n\n\n\n@article{,\n  title = {Motor Skill Retention Is Modulated by Strategy Choice during Self-Controlled Knowledge of Results Schedules},\n  author = {Carter, Michael and Rathwell, Scott and Ste-Marie, Diane},\n  date = {2016-06-01},\n  journaltitle = {Journal of Motor Learning and Development},\n  volume = {4},\n  number = {1},\n  pages = {100--115},\n  publisher = {{Human Kinetics, Inc.}},\n  issn = {2325-3193, 2325-3215},\n  doi = {10.1123/jmld.2015-0023},\n  url = {https://journals.humankinetics.com/view/journals/jmld/4/1/article-p100.xml},\n  urldate = {2023-07-13},\n  langid = {american}\n}"
+  },
+  {
+    "objectID": "papers/2015-19/2016_carter_jmld.html#abstract",
+    "href": "papers/2015-19/2016_carter_jmld.html#abstract",
+    "title": "Motor skill retention is modulated by strategy choice during self-controlled knowledge of results schedules",
+    "section": "Abstract",
+    "text": "Abstract\nInvestigations into the strategies that are used by participants when they control their knowledge of results (KR) schedule during practice have predominantly relied on multiple-choice questionnaires. More recently, open-ended questions have been used to allow participants to produce their own descriptions rather than selecting a strategy from a predetermined list. This approach has in fact generated new information about the cognitive strategies used by learners to request KR during practice (e.g., Laughlin et al., 2015). Consequently, we examined strategy use in self-controlled KR learning situations using open-ended questions at two different time points during practice. An inductive thematic content analysis revealed five themes that represented participants’ unique strategies for requesting KR. This analysis identified two dominant KR strategies: “establish a baseline understanding” in the first half of practice and “confirm a perceived good trial” in the second half of practice. Both strategies were associated with superior retention compared with a yoked group, a group that was unable to engage in KR request strategies because KR was imposed rather than chosen. Our results indicate that the learning advantages of self-controlled KR schedules over yoked schedules may not only depend on what strategy is used, but also when it is used."
+  },
+  {
+    "objectID": "papers/2015-19/2017_carter_pbr.html",
+    "href": "papers/2015-19/2017_carter_pbr.html",
+    "title": "Not all choices are created equal: Task-relevant choices enhance motor learning compared to task-irrelevant choices",
+    "section": "",
+    "text": "Carter, M. J., & Ste-Marie, D. M. (2017). Not all choices are created equal: Task-relevant choices enhance motor learning compared to task-irrelevant choices. Psychonomic Bulletin & Review, 24(6), 1879–1888. https://doi.org/10.3758/s13423-017-1250-7\n\n\n\n\n@article{,\n  title = {Not All Choices Are Created Equal: {{Task-relevant}} Choices Enhance Motor Learning Compared to Task-Irrelevant Choices},\n  shorttitle = {Not All Choices Are Created Equal},\n  author = {Carter, Michael J. and Ste-Marie, Diane M.},\n  date = {2017-12-01},\n  journaltitle = {Psychonomic Bulletin \\& Review},\n  shortjournal = {Psychon Bull Rev},\n  volume = {24},\n  number = {6},\n  pages = {1879--1888},\n  issn = {1531-5320},\n  doi = {10.3758/s13423-017-1250-7},\n  url = {https://doi.org/10.3758/s13423-017-1250-7},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {Autonomy,Competence,Error estimation,Information processing,Motor learning}\n}"
+  },
+  {
+    "objectID": "papers/2015-19/2017_carter_pbr.html#citation",
+    "href": "papers/2015-19/2017_carter_pbr.html#citation",
+    "title": "Not all choices are created equal: Task-relevant choices enhance motor learning compared to task-irrelevant choices",
+    "section": "",
+    "text": "Carter, M. J., & Ste-Marie, D. M. (2017). Not all choices are created equal: Task-relevant choices enhance motor learning compared to task-irrelevant choices. Psychonomic Bulletin & Review, 24(6), 1879–1888. https://doi.org/10.3758/s13423-017-1250-7\n\n\n\n\n@article{,\n  title = {Not All Choices Are Created Equal: {{Task-relevant}} Choices Enhance Motor Learning Compared to Task-Irrelevant Choices},\n  shorttitle = {Not All Choices Are Created Equal},\n  author = {Carter, Michael J. and Ste-Marie, Diane M.},\n  date = {2017-12-01},\n  journaltitle = {Psychonomic Bulletin \\& Review},\n  shortjournal = {Psychon Bull Rev},\n  volume = {24},\n  number = {6},\n  pages = {1879--1888},\n  issn = {1531-5320},\n  doi = {10.3758/s13423-017-1250-7},\n  url = {https://doi.org/10.3758/s13423-017-1250-7},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {Autonomy,Competence,Error estimation,Information processing,Motor learning}\n}"
+  },
+  {
+    "objectID": "papers/2015-19/2017_carter_pbr.html#abstract",
+    "href": "papers/2015-19/2017_carter_pbr.html#abstract",
+    "title": "Not all choices are created equal: Task-relevant choices enhance motor learning compared to task-irrelevant choices",
+    "section": "Abstract",
+    "text": "Abstract\nLewthwaite et al. (2015) reported that the learning benefits of exercising choice (i.e., their self-controlled condition) are not restricted to task-relevant features (e.g., feedback). They found that choosing one’s golf ball color (Exp. 1) or choosing which of two tasks to perform at a later time plus which of two artworks to hang (Exp. 2) resulted in better retention than did being denied these same choices (i.e., yoked condition). The researchers concluded that the learning benefits derived from choice, whether irrelevant or relevant to the to-be-learned task, are predominantly motivational because choice is intrinsically rewarding and satisfies basic psychological needs. However, the absence of a group that made task-relevant choices and the lack of psychological measures significantly weakened their conclusions. Here, we investigated how task-relevant and task-irrelevant choices affect motor-skill learning. Participants practiced a spatiotemporal motor task in either a task-relevant group (choice over feedback schedule), a task-irrelevant group (choice over the color of an arm-wrap plus game selection), or a no-choice group. The results showed significantly greater learning in the task-relevant group than in both the task-irrelevant and no-choice groups, who did not differ significantly. Critically, these learning differences were not attributed to differences in perceptions of competence or autonomy, but instead to superior error-estimation abilities. These results challenge the perspective that motivational influences are the root cause of self-controlled learning advantages. Instead, the findings add to the growing evidence highlighting that the informational value gained from task-relevant choices makes a greater relative contribution to these advantages than motivational influences."
+  },
+  {
+    "objectID": "papers/2015-19/2015_maslovat_neurolet.html",
+    "href": "papers/2015-19/2015_maslovat_neurolet.html",
+    "title": "Startle activation is additive with voluntary cortical activation irrespective of stimulus modality",
+    "section": "",
+    "text": "Maslovat, D., Drummond, N. M., Carter, M. J., & Carlsen, A. N. (2015). Startle activation is additive with voluntary cortical activation irrespective of stimulus modality. Neuroscience Letters, 606, 151–155. https://doi.org/10.1016/j.neulet.2015.08.053\n\n\n\n\n@article{,\n  title = {Startle Activation Is Additive with Voluntary Cortical Activation Irrespective of Stimulus Modality},\n  author = {Maslovat, Dana and Drummond, Neil M. and Carter, Michael J. and Carlsen, Anthony N.},\n  date = {2015-10-08},\n  journaltitle = {Neuroscience Letters},\n  shortjournal = {Neuroscience Letters},\n  volume = {606},\n  pages = {151--155},\n  issn = {0304-3940},\n  doi = {10.1016/j.neulet.2015.08.053},\n  url = {https://www.sciencedirect.com/science/article/pii/S0304394015301233},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {Additive model,ECR,FCR,Initiation,IS,Motor preparation,Neural activation,SAS,SCM,Startle}\n}"
+  },
+  {
+    "objectID": "papers/2015-19/2015_maslovat_neurolet.html#citation",
+    "href": "papers/2015-19/2015_maslovat_neurolet.html#citation",
+    "title": "Startle activation is additive with voluntary cortical activation irrespective of stimulus modality",
+    "section": "",
+    "text": "Maslovat, D., Drummond, N. M., Carter, M. J., & Carlsen, A. N. (2015). Startle activation is additive with voluntary cortical activation irrespective of stimulus modality. Neuroscience Letters, 606, 151–155. https://doi.org/10.1016/j.neulet.2015.08.053\n\n\n\n\n@article{,\n  title = {Startle Activation Is Additive with Voluntary Cortical Activation Irrespective of Stimulus Modality},\n  author = {Maslovat, Dana and Drummond, Neil M. and Carter, Michael J. and Carlsen, Anthony N.},\n  date = {2015-10-08},\n  journaltitle = {Neuroscience Letters},\n  shortjournal = {Neuroscience Letters},\n  volume = {606},\n  pages = {151--155},\n  issn = {0304-3940},\n  doi = {10.1016/j.neulet.2015.08.053},\n  url = {https://www.sciencedirect.com/science/article/pii/S0304394015301233},\n  urldate = {2023-07-13},\n  langid = {english},\n  keywords = {Additive model,ECR,FCR,Initiation,IS,Motor preparation,Neural activation,SAS,SCM,Startle}\n}"
+  },
+  {
+    "objectID": "papers/2015-19/2015_maslovat_neurolet.html#abstract",
+    "href": "papers/2015-19/2015_maslovat_neurolet.html#abstract",
+    "title": "Startle activation is additive with voluntary cortical activation irrespective of stimulus modality",
+    "section": "Abstract",
+    "text": "Abstract\nWhen a startling acoustic stimulus (SAS) is presented during a simple reaction time (RT) task, it can trigger the prepared response through an involuntary initiation pathway. Previous research modelling the effects of presenting a SAS at various intervals following a non-startling auditory imperative signal (IS) suggested that involuntary initiation-related neural activation is additive with the voluntary initiation processes. The current study tested the predictions of this additive model when the SAS and IS are of different modalities by using a visual rather than auditory go-signal. Because voluntary RT latencies are delayed for visual stimuli compared to acoustic stimuli, it was hypothesised that the time course of additive activation would be similarly delayed. Participants performed 150 RT trials requiring a targeted 20° wrist extension task with a SAS presented 0–125 ms following a visual go-signal. Results were not different to those predicted by an additive model (p = 0.979), yet were significantly different to those predicted by a horse-race model (p = 0.037), indicating a joint contribution of voluntary and involuntary activation, even when the IS and SAS are of different modalities. Furthermore, the results indicated that voluntary RT differences due to stimulus modality are attributable to processes that occur prior to the increase in initiation-related activation."
+  },
+  {
+    "objectID": "papers/2015-19/2018_carter_psycholres.html",
+    "href": "papers/2015-19/2018_carter_psycholres.html",
+    "title": "Anodal transcranial direct current stimulation over the primary motor cortex does not enhance the learning benefits of self-controlled feedback schedules",
+    "section": "",
+    "text": "Carter, M. J., Smith, V., Carlsen, A. N., & Ste-Marie, D. M. (2018). Anodal transcranial direct current stimulation over the primary motor cortex does not enhance the learning benefits of self-controlled feedback schedules. Psychological Research, 82(3), 496–506. https://doi.org/10.1007/s00426-017-0846-x\n\n\n\n\n@article{,\n  title = {Anodal Transcranial Direct Current Stimulation over the Primary Motor Cortex Does Not Enhance the Learning Benefits of Self-Controlled Feedback Schedules},\n  author = {Carter, Michael J. and Smith, Victoria and Carlsen, Anthony N. and Ste-Marie, Diane M.},\n  date = {2018-05-01},\n  journaltitle = {Psychological Research},\n  shortjournal = {Psychological Research},\n  volume = {82},\n  number = {3},\n  pages = {496--506},\n  issn = {1430-2772},\n  doi = {10.1007/s00426-017-0846-x},\n  url = {https://doi.org/10.1007/s00426-017-0846-x},\n  urldate = {2023-07-13},\n  langid = {english}\n}"
+  },
+  {
+    "objectID": "papers/2015-19/2018_carter_psycholres.html#citation",
+    "href": "papers/2015-19/2018_carter_psycholres.html#citation",
+    "title": "Anodal transcranial direct current stimulation over the primary motor cortex does not enhance the learning benefits of self-controlled feedback schedules",
+    "section": "",
+    "text": "Carter, M. J., Smith, V., Carlsen, A. N., & Ste-Marie, D. M. (2018). Anodal transcranial direct current stimulation over the primary motor cortex does not enhance the learning benefits of self-controlled feedback schedules. Psychological Research, 82(3), 496–506. https://doi.org/10.1007/s00426-017-0846-x\n\n\n\n\n@article{,\n  title = {Anodal Transcranial Direct Current Stimulation over the Primary Motor Cortex Does Not Enhance the Learning Benefits of Self-Controlled Feedback Schedules},\n  author = {Carter, Michael J. and Smith, Victoria and Carlsen, Anthony N. and Ste-Marie, Diane M.},\n  date = {2018-05-01},\n  journaltitle = {Psychological Research},\n  shortjournal = {Psychological Research},\n  volume = {82},\n  number = {3},\n  pages = {496--506},\n  issn = {1430-2772},\n  doi = {10.1007/s00426-017-0846-x},\n  url = {https://doi.org/10.1007/s00426-017-0846-x},\n  urldate = {2023-07-13},\n  langid = {english}\n}"
+  },
+  {
+    "objectID": "papers/2015-19/2018_carter_psycholres.html#abstract",
+    "href": "papers/2015-19/2018_carter_psycholres.html#abstract",
+    "title": "Anodal transcranial direct current stimulation over the primary motor cortex does not enhance the learning benefits of self-controlled feedback schedules",
+    "section": "Abstract",
+    "text": "Abstract\nA distinct learning advantage has been shown when participants control their knowledge of results (KR) scheduling during practice compared to when the same KR schedule is imposed on the learner without choice (i.e., yoked schedules). Although the learning advantages of self-controlled KR schedules are well-documented, the brain regions contributing to these advantages remain unknown. Identifying key brain regions would not only advance our theoretical understanding of the mechanisms underlying self-controlled learning advantages, but would also highlight regions that could be targeted in more applied settings to boost the already beneficial effects of self-controlled KR schedules. Here, we investigated whether applying anodal transcranial direct current stimulation (tDCS) to the primary motor cortex (M1) would enhance the typically found benefits of learning a novel motor skill with a self-controlled KR schedule. Participants practiced a spatiotemporal task in one of four groups using a factorial combination of KR schedule (self-controlled vs. yoked) and tDCS (anodal vs. sham). Testing occurred on two consecutive days with spatial and temporal accuracy measured on both days and learning was assessed using 24-h retention and transfer tests without KR. All groups improved their performance in practice and a significant effect for practicing with a self-controlled KR schedule compared to a yoked schedule was found for temporal accuracy in transfer, but a similar advantage was not evident in retention. There were no significant differences as a function of KR schedule or tDCS for spatial accuracy in retention or transfer. The lack of a significant tDCS effect suggests that M1 may not strongly contribute to self-controlled KR learning advantages; however, caution is advised with this interpretation as typical self-controlled learning benefits were not strongly replicated in the present experiment."
+  },
+  {
+    "objectID": "papers/2015-19/2016_stemarie_jss.html",
+    "href": "papers/2015-19/2016_stemarie_jss.html",
+    "title": "Self-controlled learning benefits: exploring contributions of self-efficacy and intrinsic motivation via path analysis",
+    "section": "",
+    "text": "Ste-Marie, D. M., Carter, M. J., Law, B., Vertes, K., & Smith, V. (2016). Self-controlled learning benefits: Exploring contributions of self-efficacy and intrinsic motivation via path analysis. Journal of Sports Sciences, 34(17), 1650–1656. https://doi.org/10.1080/02640414.2015.1130236\n\n\n\n\n@article{,\n  title = {Self-Controlled Learning Benefits: {{Exploring}} Contributions of Self-Efficacy and Intrinsic Motivation via Path Analysis},\n  shorttitle = {Self-Controlled Learning Benefits},\n  author = {Ste-Marie, Diane M. and Carter, Michael J. and Law, Barbi and Vertes, Kelly and Smith, Victoria},\n  date = {2016-09-01},\n  journaltitle = {Journal of Sports Sciences},\n  volume = {34},\n  number = {17},\n  eprint = {26707002},\n  eprinttype = {pmid},\n  pages = {1650--1656},\n  publisher = {{Routledge}},\n  issn = {0264-0414},\n  doi = {10.1080/02640414.2015.1130236},\n  url = {https://doi.org/10.1080/02640414.2015.1130236},\n  urldate = {2023-07-13},\n  keywords = {knowledge of performance,learner-controlled,Motor skill learning,video feedback}\n}"
+  },
+  {
+    "objectID": "papers/2015-19/2016_stemarie_jss.html#citation",
+    "href": "papers/2015-19/2016_stemarie_jss.html#citation",
+    "title": "Self-controlled learning benefits: exploring contributions of self-efficacy and intrinsic motivation via path analysis",
+    "section": "",
+    "text": "Ste-Marie, D. M., Carter, M. J., Law, B., Vertes, K., & Smith, V. (2016). Self-controlled learning benefits: Exploring contributions of self-efficacy and intrinsic motivation via path analysis. Journal of Sports Sciences, 34(17), 1650–1656. https://doi.org/10.1080/02640414.2015.1130236\n\n\n\n\n@article{,\n  title = {Self-Controlled Learning Benefits: {{Exploring}} Contributions of Self-Efficacy and Intrinsic Motivation via Path Analysis},\n  shorttitle = {Self-Controlled Learning Benefits},\n  author = {Ste-Marie, Diane M. and Carter, Michael J. and Law, Barbi and Vertes, Kelly and Smith, Victoria},\n  date = {2016-09-01},\n  journaltitle = {Journal of Sports Sciences},\n  volume = {34},\n  number = {17},\n  eprint = {26707002},\n  eprinttype = {pmid},\n  pages = {1650--1656},\n  publisher = {{Routledge}},\n  issn = {0264-0414},\n  doi = {10.1080/02640414.2015.1130236},\n  url = {https://doi.org/10.1080/02640414.2015.1130236},\n  urldate = {2023-07-13},\n  keywords = {knowledge of performance,learner-controlled,Motor skill learning,video feedback}\n}"
+  },
+  {
+    "objectID": "papers/2015-19/2016_stemarie_jss.html#abstract",
+    "href": "papers/2015-19/2016_stemarie_jss.html#abstract",
+    "title": "Self-controlled learning benefits: exploring contributions of self-efficacy and intrinsic motivation via path analysis",
+    "section": "Abstract",
+    "text": "Abstract\nResearch has shown learning advantages for self-controlled practice contexts relative to yoked (i.e., experimenter-imposed) contexts; yet, explanations for this phenomenon remain relatively untested. We examined, via path analysis, whether self-efficacy and intrinsic motivation are important constructs for explaining self-controlled learning benefits. The path model was created using theory-based and empirically supported relationships to examine causal links between these psychological constructs and physical performance. We hypothesised that self-efficacy and intrinsic motivation would have greater predictive power for learning under self-controlled compared to yoked conditions. Participants learned double-mini trampoline progressions, and measures of physical performance, self-efficacy and intrinsic motivation were collected over two practice days and a delayed retention day. The self-controlled group (M = 2.04, SD = .98) completed significantly more skill progressions in retention than their yoked counterparts (M = 1.3, SD = .65). The path model displayed adequate fit, and similar significant path coefficients were found for both groups wherein each variable was predominantly predicted by its preceding time point (e.g., self-efficacy time 1 predicts self-efficacy time 2). Interestingly, the model was not moderated by group; thus, failing to support the hypothesis that self-efficacy and intrinsic motivation have greater predictive power for learning under self-controlled relative to yoked conditions."
+  },
+  {
+    "objectID": "papers/2015-19/2015_carter_jnp.html",
+    "href": "papers/2015-19/2015_carter_jnp.html",
+    "title": "Anodal transcranial direct current stimulation applied over the supplementary motor area delays spontaneous antiphase-to-in-phase transitions",
+    "section": "",
+    "text": "Carter, M. J., Maslovat, D., & Carlsen, A. N. (2015). Anodal transcranial direct current stimulation applied over the supplementary motor area delays spontaneous antiphase-to-in-phase transitions. Journal of Neurophysiology, 113(3), 780–785. https://doi.org/10.1152/jn.00662.2014\n\n\n\n\n@article{,\n  title = {Anodal Transcranial Direct Current Stimulation Applied over the Supplementary Motor Area Delays Spontaneous Antiphase-to-in-Phase Transitions},\n  author = {Carter, Michael J. and Maslovat, Dana and Carlsen, Anthony N.},\n  date = {2015-02},\n  journaltitle = {Journal of Neurophysiology},\n  volume = {113},\n  number = {3},\n  pages = {780--785},\n  publisher = {{American Physiological Society}},\n  issn = {0022-3077},\n  doi = {10.1152/jn.00662.2014},\n  url = {https://journals.physiology.org/doi/full/10.1152/jn.00662.2014},\n  urldate = {2023-07-13},\n  keywords = {bimanual coordination,motor control,neurostimulation,phase transition}\n}"
+  },
+  {
+    "objectID": "papers/2015-19/2015_carter_jnp.html#citation",
+    "href": "papers/2015-19/2015_carter_jnp.html#citation",
+    "title": "Anodal transcranial direct current stimulation applied over the supplementary motor area delays spontaneous antiphase-to-in-phase transitions",
+    "section": "",
+    "text": "Carter, M. J., Maslovat, D., & Carlsen, A. N. (2015). Anodal transcranial direct current stimulation applied over the supplementary motor area delays spontaneous antiphase-to-in-phase transitions. Journal of Neurophysiology, 113(3), 780–785. https://doi.org/10.1152/jn.00662.2014\n\n\n\n\n@article{,\n  title = {Anodal Transcranial Direct Current Stimulation Applied over the Supplementary Motor Area Delays Spontaneous Antiphase-to-in-Phase Transitions},\n  author = {Carter, Michael J. and Maslovat, Dana and Carlsen, Anthony N.},\n  date = {2015-02},\n  journaltitle = {Journal of Neurophysiology},\n  volume = {113},\n  number = {3},\n  pages = {780--785},\n  publisher = {{American Physiological Society}},\n  issn = {0022-3077},\n  doi = {10.1152/jn.00662.2014},\n  url = {https://journals.physiology.org/doi/full/10.1152/jn.00662.2014},\n  urldate = {2023-07-13},\n  keywords = {bimanual coordination,motor control,neurostimulation,phase transition}\n}"
+  },
+  {
+    "objectID": "papers/2015-19/2015_carter_jnp.html#abstract",
+    "href": "papers/2015-19/2015_carter_jnp.html#abstract",
+    "title": "Anodal transcranial direct current stimulation applied over the supplementary motor area delays spontaneous antiphase-to-in-phase transitions",
+    "section": "Abstract",
+    "text": "Abstract\nCoordinated bimanual oscillatory movements often involve one of two intrinsically stable phasing relationships characterized as in-phase (symmetrical) or antiphase (asymmetrical). The in-phase mode is typically more stable than antiphase, and if movement frequency is increasing during antiphase movements, a spontaneous transition to the in-phase pattern occurs. There is converging neurophysiological evidence that the supplementary motor area (SMA) plays a critical role in the successful performance of these patterns, especially during antiphase movements. We investigated whether modulating the excitability of the SMA via offline transcranial direct current stimulation (tDCS) would delay the onset of anti-to-in-phase transitions. Participants completed two sessions (separated by ∼48 h), each consisting of a pre- and post-tDCS block in which they performed metronome-paced trials of rhythmic in- and antiphase bimanual supination-pronation movements as target oscillation frequency was systematically increased. Anodal or cathodal tDCS was applied over the SMA between the pre- and post-tDCS blocks in each session. Following anodal tDCS, participants performed the antiphase pattern with increased accuracy and stability and were able to maintain the coordination pattern at a higher oscillation frequency. Antiphase performance was unchanged following cathodal tDCS, and neither tDCS polarity affected the in-phase mode. Our findings suggest increased SMA excitability induced by anodal tDCS can improve antiphase performance and adds to the accumulating evidence of the pivotal role of the SMA in interlimb coordination."
+  },
+  {
+    "objectID": "papers.html",
+    "href": "papers.html",
+    "title": "Papers",
+    "section": "",
+    "text": "McKay B., Corson AE., Seedu J., De Faveri, CS., Hasan, H., Arnold, K., Adams, FC., & Carter, MJ.\n    (2023).\n    Reporting bias, not external focus: A robust Bayesian meta-analysis of the attentional focus literature.\n    \n    SportRꭓiv\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n    \n       Repository\n    \n  \n  \n    Roth AM., Calalo JA., Lokesh R., Sullivan SR., Grill S., Jeka JJ., van der Kooij K., Carter MJ., & Cashaback JGA.\n    (2023).\n    Reinforcement-based processes actively regulate motor exploration along redundant solution manifolds.\n    \n    bioRꭓiv\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n  \n  \n    St. Germain L., McKay B., Tandon C., Seedu J., Barbera L., Carrillo C., Brown D.M.Y., & Carter, MJ.\n    (2023).\n    Autonomy-supportive instructional language does not enhance skill acquisition compared to controlling instructional language.\n    \n    SportRꭓiv\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n    \n       Repository\n    \n  \n  \n    de Brouwer AJ., Carter MJ., Smail LC., Wolpert DM., Gallivan JP., & Flanagan JR.\n    (2020).\n    Gaze behaviour reveals flexible encoding of competing reach goals under conditions of target uncertainty.\n    \n    bioRꭓiv\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n  \n\n\nNo matching items"
+  },
+  {
+    "objectID": "papers.html#preprints",
+    "href": "papers.html#preprints",
+    "title": "Papers",
+    "section": "",
+    "text": "McKay B., Corson AE., Seedu J., De Faveri, CS., Hasan, H., Arnold, K., Adams, FC., & Carter, MJ.\n    (2023).\n    Reporting bias, not external focus: A robust Bayesian meta-analysis of the attentional focus literature.\n    \n    SportRꭓiv\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n    \n       Repository\n    \n  \n  \n    Roth AM., Calalo JA., Lokesh R., Sullivan SR., Grill S., Jeka JJ., van der Kooij K., Carter MJ., & Cashaback JGA.\n    (2023).\n    Reinforcement-based processes actively regulate motor exploration along redundant solution manifolds.\n    \n    bioRꭓiv\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n  \n  \n    St. Germain L., McKay B., Tandon C., Seedu J., Barbera L., Carrillo C., Brown D.M.Y., & Carter, MJ.\n    (2023).\n    Autonomy-supportive instructional language does not enhance skill acquisition compared to controlling instructional language.\n    \n    SportRꭓiv\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n    \n       Repository\n    \n  \n  \n    de Brouwer AJ., Carter MJ., Smail LC., Wolpert DM., Gallivan JP., & Flanagan JR.\n    (2020).\n    Gaze behaviour reveals flexible encoding of competing reach goals under conditions of target uncertainty.\n    \n    bioRꭓiv\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n  \n\n\nNo matching items"
+  },
+  {
+    "objectID": "papers.html#section",
+    "href": "papers.html#section",
+    "title": "Papers",
+    "section": "2020–23",
+    "text": "2020–23\n\n\n  \n    Lokesh R., Sullivan SR., St. Germain L., Roth AM., Calalo JA., Buggeln J., Ngo T., Marchhart VRF., Carter MJ., & Cashaback JGA.\n    (2023).\n    Visual accuracy dominates over haptic speed for state estimation of a partner during collaborative sensorimotor interactions.\n    \n    Journal of Neurophysiology\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n  \n  \n    McKay B. & Carter MJ.\n    (2023).\n    A critical re-analysis of six implicit learning papers.\n    \n    Meta-Psychology\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n    \n       Repository\n    \n    \n       Repository\n    \n    \n       Preprint\n    \n  \n  \n    McKay B., Bacelar MFB., & Carter MJ.\n    (2023).\n    On the reproducibility of power analyses in motor behavior research.\n    \n    Journal of Motor Learning and Development\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n    \n       Repository\n    \n    \n       Repository\n    \n    \n       Preprint\n    \n  \n  \n    McKay B., Bacelar MFB., Parma JO., Miller MW., & Carter, MJ.\n    (2023).\n    The combination of reporting bias and underpowered study designs has substantially exaggerated the motor learning benefits of self-controlled practice and enhanced expectancies: A meta-analysis.\n    \n    International Review of Sport and Exercise Psychology\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n    \n       Repository\n    \n    \n       Repository\n    \n    \n       Preprint\n    \n  \n  \n    McKay B., Corson A., Vinh M., Jeyarajan G., Tandon C., Brooks H., Hubley J., & Carter MJ.\n    (2023).\n    Low prevalence of a priori power analyses in motor behavior research.\n    \n    Journal of Motor Learning and Development\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n    \n       Repository\n    \n    \n       Repository\n    \n    \n       Preprint\n    \n  \n  \n    St. Germain L., McKay B., Poskus A., Williams A., Leshchyshen O., Feldman S., Cashaback JGA., & Carter MJ.\n    (2023).\n    Exercising choice over feedback schedules during practice is not advantageous for motor learning.\n    \n    Psychonomic Bulletin & Review\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n    \n       Repository\n    \n    \n       Preprint\n    \n  \n  \n    Lokesh R., Sullivan S., Calalo JA., Roth A., Swanik B., Carter MJ., & Cashaback JGA.\n    (2022).\n    Humans utilize sensory evidence of others’ intended action to make online decisions.\n    \n    Scientific Reports\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n    \n       Repository\n    \n  \n  \n    McKay B., Yantha ZD., Hussein J., Carter MJ., Ste-Marie DM.\n    (2022).\n    Meta-analytic findings of the self-controlled motor learning literature: Underpowered, biased, and lacking evidential value.\n    \n    Meta-Psychology\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n    \n       Repository\n    \n    \n       Repository\n    \n    \n       Preprint\n    \n  \n  \n    St. Germain L., Williams A., Balbaa N., Poskus A., Leshchyshen O., Lohse KR., & Carter MJ.\n    (2022).\n    Increased perceptions of autonomy through choice fail to enhance motor skill retention.\n    \n    Journal of Experimental Psychology: Human Perception and Performance\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n    \n       Repository\n    \n    \n       Preprint\n    \n  \n  \n    McKay B., Hussien J., Carter MJ., Yantha ZD., & Ste-Marie DM.\n    (2021).\n    Expecting to teach a novel golf putting task did not enhance retention performance: A replication attempt of Daou and colleagues.\n    \n    Communications in Kinesiology\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n    \n       Repository\n    \n    \n       Repository\n    \n    \n       Preprint\n    \n  \n  \n    Ste-Marie DM., Carter MJ., & Yantha ZD.\n    (2020).\n    Self-controlled learning: Current findings, theoretical perspectives, and future directions.\n    In N.J. Hodges & A.M. Williams (Eds.),\n    Skill Acquisition in Sport: Research, theory, and practice\n    (3rd ed.).\n    Routledge.\n    \n       Details\n    \n    \n       DOI\n    \n  \n\n\nNo matching items"
+  },
+  {
+    "objectID": "papers.html#section-1",
+    "href": "papers.html#section-1",
+    "title": "Papers",
+    "section": "2015–19",
+    "text": "2015–19\n\n\n  \n    Barros JAC., Yantha ZD., Carter MJ., Hussien J., & Ste-Marie DM.\n    (2019).\n    Examining the impact of error estimation on the effects of self-controlled feedback.\n    \n    Human Movement Science\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n  \n  \n    Carter MJ., Smith V., Carlsen AN., & Ste-Marie DM.\n    (2018).\n    Anodal transcranial direct current stimulation over the primary motor cortex does not enhance the learning benefits of self-controlled feedback schedules.\n    \n    Psychological Research\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n  \n  \n    Carter MJ. & Ste-Marie DM.\n    (2017).\n    Not all choices are created equal: Task-relevant choices enhance motor learning compared to task-irrelevant choices.\n    \n    Psychonomic Bulletin & Review\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n  \n  \n    Carter MJ. & Ste-Marie DM.\n    (2017).\n    An interpolated activity during the knowledge-of-results delay interval eliminates the learning advantages of self-controlled feedback schedules.\n    \n    Psychological Research\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n  \n  \n    Carter MJ., & Maslovat D., & Carlsen AN.\n    (2017).\n    Intentional switches between coordination patterns are faster following anodal-tDCS applied over the supplementary motor area.\n    \n    Brain Stimulation\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n  \n  \n    Maslovat D., Carter MJ., & Carlsen AN.\n    (2017).\n    Response preparation and execution during intentional bimanual pattern switching.\n    \n    Journal of Neurophysiology\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n  \n  \n    Carter MJ.\n    (2016).\n    Judgments of learning are significantly higher following feedback on relatively good versus relatively poor trials despite no actual learning differences.\n    \n    Human Movement Science\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n  \n  \n    Carter MJ., Rathwell S., & Ste-Marie DM.\n    (2016).\n    Motor skill retention is modulated by strategy choice during self-controlled knowledge of results schedules.\n    \n    Journal of Motor Learning and Development\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n  \n  \n    Martini R., Carter MJ., Yoxon E., Cumming J., & Ste-Marie DM.\n    (2016).\n    Development and validation of the Movement Imagery Questionnaire for Children (MIQ-C).\n    \n    Psychology of Sport and Exercise\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n  \n  \n    Patterson JT., Hart A., Hansen S., Carter MJ., & Ditor D.\n    (2016).\n    Measuring investment in learning: Can electrocardiogram provide an indication of cognitive effort during learning?.\n    \n    Perceptual and Motor Skills\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n  \n  \n    Ste-Marie DM., Carter MJ., Law B., Vertes K., & Smith V.\n    (2016).\n    Self-controlled learning benefits: exploring contributions of self-efficacy and intrinsic motivation via path analysis.\n    \n    Journal of Sports Sciences\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n  \n  \n    Carter MJ., Maslovat D., & Carlsen AN.\n    (2015).\n    Anodal transcranial direct current stimulation applied over the supplementary motor area delays spontaneous antiphase-to-in-phase transitions.\n    \n    Journal of Neurophysiology\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n  \n  \n    Maslovat D., Drummond NM., Carter MJ., & Carlsen AN.\n    (2015).\n    Reduced motor preparation during dual-task performance: Evidence from startle.\n    \n    Experimental Brain Research\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n  \n  \n    Maslovat D., Drummond NM., Carter MJ., & Carlsen AN.\n    (2015).\n    Startle activation is additive with voluntary cortical activation irrespective of stimulus modality.\n    \n    Neuroscience Letters\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n  \n\n\nNo matching items"
+  },
+  {
+    "objectID": "papers.html#section-2",
+    "href": "papers.html#section-2",
+    "title": "Papers",
+    "section": "2010–14",
+    "text": "2010–14\n\n\n  \n    Carter MJ., Carlsen AN., & Ste-Marie DM.\n    (2014).\n    Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005).\n    \n    Frontiers in Psychology\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n  \n  \n    Maslovat D., Carter MJ., Kennefick M., & Carlsen AN.\n    (2014).\n    Startle neural activity is additive with normal cortical initiation-related activation.\n    \n    Neuroscience Letters\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n  \n  \n    Bajema MC., MacKinnon CD., Carter MJ., Kennefick M., Perlmutter S., & Carlsen AN.\n    (2013).\n    Pause time alters the preparation of two-component movements.\n    \n    Experimental Brain Research\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n  \n  \n    Patterson JT., Carter MJ., & Hansen S.\n    (2013).\n    Self-controlled KR schedules: Does repetition order matter?.\n    \n    Human Movement Science\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n  \n  \n    Carter MJ. & Patterson JT.\n    (2012).\n    Self-controlled knowledge of results: Age-related differences in motor learning, strategies, and error detection.\n    \n    Human Movement Science\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n  \n  \n    Patterson JT., Carter MJ., & Sanli E.\n    (2011).\n    Decreasing the proportion of self-control trials during the acquisition period does not compromise the learning advantages in a self-controlled context.\n    \n    Research Quarterly for Exercise and Sport\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n  \n  \n    Patterson JT. & Carter MJ.\n    (2010).\n    Learner regulated knowledge of results during the acquisition of multiple timing goals.\n    \n    Human Movement Science\n    \n    \n    \n       Details\n    \n    \n       DOI\n    \n  \n\n\nNo matching items"
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Meet the team",
+    "section": "",
+    "text": "Principal Investigator\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nM.Sc. Candidate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nM.Sc. Candidate\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "team.html#senior-members",
+    "href": "team.html#senior-members",
+    "title": "Meet the team",
+    "section": "",
+    "text": "Principal Investigator\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nM.Sc. Candidate\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nM.Sc. Candidate\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "team.html#junior-members",
+    "href": "team.html#junior-members",
+    "title": "Meet the team",
+    "section": "Junior members",
+    "text": "Junior members\nHibaa Hasan, Undergraduate thesis student (Psychology, Neuroscience, and Behaviour)\nLidia Barbera, Undergraduate thesis student (Life Sciences)\nOla Schwarzenberg, Undergraduate thesis student (Life Sciences - Sensory Motor Systems specialization)\nEnuri Dissanayake, Undergraduate practicum student (Life Sciences - Sensory Motor Systems specialization)"
+  },
+  {
+    "objectID": "team.html#collaborators",
+    "href": "team.html#collaborators",
+    "title": "Meet the team",
+    "section": "Collaborators",
+    "text": "Collaborators\nThe lab maintains active and extensive research collaborations with:\nJoshua Cashaback | Department of Biomedical Engineering, University of Delaware\nBrad Mckay | Milwaukee Brewers\nSome of our other collaborators include:\nKeith Lohse | Department of Neurology, Washington University School of Medicine in Saint Louis\nMatthew Miller | School of Kinesiology, Auburn University\nMariane Bacelar | Department of Kinesiology, Boise State University"
+  },
+  {
+    "objectID": "team.html#alumni",
+    "href": "team.html#alumni",
+    "title": "Meet the team",
+    "section": "Alumni",
+    "text": "Alumni\nFormer lab members and what they did after leaving the lab or what they are currently doing (if known).\n\nPost-doctoral fellows\nBrad McKay (2021-23); Senior Strategist of Training Design, Milwaukee Brewers\n\n\nGraduate students\nLaura St. Germain, Ph.D. Kinesiology (2018-23); Research and Data Specialist at Sheridan College\nMirette Mounir, M.Sc. Kinesiology (2019-21); Dentistry at Western University\nRajbir Sihu, M.Sc. Kinesiology (2019-21); Dentistry at the University of Toronto\n\n\nUndergraduate students\n\nHonours thesis\nChitrini Tandon (2021-23); Alyssa Skouros (2022-23); Kiana Masoudi (2022-23); Raika Bourmand (2021-22); Armin Sariaslani (2021-22); Katharine (Katie) Douglas (2021-22); Thinzar Soe (2021-22); Julianna Marfisi (2020-21); Matthew Tobis (2020-21); Andrew Poskus (2020-21); Sherry Feldman (2019-20); Olena Leshchyshen (2019-20); Noura Balbaa (2019-20)\n\n\nResearch practicum / project\nJeswende Seedu (2022-23); Vivian Li (2022); Caroline Jarvi (2022); Gurlal Gill (2021); Anita Chaseendran (2021); Gianna Jeyarajan (2021); Mackenzie (Kenzie) Bell (2021); Ashton Yuen (2021); Charlie Violin (2021); Ammaar Jan (2020); Faran Chaudhry (2020); Yu (Sarah) Fu (2020); Andrew Poskus (2019); Maya El-Zahed (2019); Grant Yang (2019); Olena Leshchyshen (2019); Rita Waseem (2019); Christian Kleiser (2018); Christopher Li (2018); Faryal Zahir (2018)\n\n\nResearch assistants\nElizabeth Mitchell (2020-23); Celeste de Faveri (2021-23); Lidia Barbera (2022-23); Hibaa Hasan (2022-23); Faith Adams (2022); Chitrini Tandon (2021-22); Kristen Arnold (2021-22); Alison Williams (2018-20); Andrew Poskus (2019); Kevin Gilotra (2019); Ashton Yuen (2019); Mackenzie (Kenzie) Bell (2019-21); Olena Leshchyshen (2018-19); Yu (Sarah) Fu (2018-19)"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "Lab News",
+    "section": "",
+    "text": "[June 28 2023]. New award. Congratulations Dr. Laura St. Germain on a successfully defending your doctoral work.\n[June 20 2023]. New award. Congratulations to Laura St. Germain (Ph.D. Candidate) on winning the 2023 Franklin Henry Young Scientist Award in Motor Control and Learning from the Canadian Society for Psychomotor Learning and Sport Psychology.\n[June 16 2023]. New preprint. McKay, B., Corson, A.E., Seedu, J., De Faveri, C.S., Hasan, H., Arnold, K., Adams, F.C., & Carter, M.J. Reporting bias, not external focus: A robust Bayesian meta-analysis of the attentional focus literature. SportR\\(\\chi\\)iv. doi: https://doi.org/10.51224/SRXIV.304\n[May 26 2023]. Paper accepted. Lokesh, R., Sullivan, S.R., St. Germain, L., Roth, A.M., Calalo, J.A., Buggeln, J., Ngo, T., Marchhart, V.R.F., Carter, M.J, & Cashaback, J.G.A. Visual accuracy dominates over haptic speed for state estimation of a partner during collaborative sensorimotor interactions. Journal of Neurophysiology.\n[May 19 2023]. New preprint. St. Germain, L., McKay, B., Tandon, C., Seedu, J., Barbera, L., Carrillo, C., Brown, D.M.Y., & Carter, M.J. Autonomy-supportive instructional language does not enhance skill acquisition compared to controlling instructional language. SportR\\(\\chi\\)iv. doi: https://doi.org/10.51224/SRXIV.298\n[April 13 2023]. Paper accepted. McKay, B., Bacelar, M.F.B., Parma, J.O., Miller, M.W., & Carter, M.J. The combination of reporting bias and underpowered study designs has substantially exaggerated the motor learning benefits of self-controlled practice and enhanced expectancies: A meta-analysis. International Review of Sport and Exercise Psychology."
+  },
+  {
+    "objectID": "team/senior/nour-alafif.html",
+    "href": "team/senior/nour-alafif.html",
+    "title": "Nour Al Afif",
+    "section": "",
+    "text": "github\n  \n\n      \nI joined the lab in September 2022 after completing my undergraduate studies at McMaster University in the Department of Psychology, Neuroscience, and Behaviour. My research interests include sensorimotor interactions (e.g., human-agent and human-human) and how different partners and forms of interaction influence motor learning. Other things I contribute to the lab include attempting to help with code and also making everyone feel better about themselves by being impressively bad at bowling.\n\n\nMcMaster University | Hamilton, ON, Canada\nM.Sc in Kinesiology, Department of Kinesiology\n2022–Present\nMcMaster University | Hamilton, ON, Canada\nB.Sc. (Honours) in Psychology, Neuroscience, & Behaviour (Minor in Biology), Department of Psychology, Neuroscience, & Behaviour\n2018–22"
+  },
+  {
+    "objectID": "team/senior/nour-alafif.html#education",
+    "href": "team/senior/nour-alafif.html#education",
+    "title": "Nour Al Afif",
+    "section": "",
+    "text": "McMaster University | Hamilton, ON, Canada\nM.Sc in Kinesiology, Department of Kinesiology\n2022–Present\nMcMaster University | Hamilton, ON, Canada\nB.Sc. (Honours) in Psychology, Neuroscience, & Behaviour (Minor in Biology), Department of Psychology, Neuroscience, & Behaviour\n2018–22"
+  },
+  {
+    "objectID": "team/senior/mike-carter.html",
+    "href": "team/senior/mike-carter.html",
+    "title": "Michael Carter",
+    "section": "",
+    "text": "scholar\n  \n  \n    \n     github\n  \n  \n    \n     twitter\n  \n\n      \nI am broadly interested in how the brain controls and learns skilled actions, as well as how we can improve the replicability and reproducibility of kinesiology and sport science research. This work relies on an interdisciplinary blend of theory, behaviour experimentation, and computational approaches from psychology, neuroscience, engineering, computer science, and statistics.\nI completed my doctoral training under the supervision of Dr. Diane Ste-Marie (Emeritus Professor) at the University of Ottawa where I studied the cognitive processes underlying self-controlled practice. During this time, I also worked closely with Dr. Tony Carlsen on projects related to bimanual coordination and motor preparation. I then completed a one-year postdoctoral fellowship in the Centre for Neuroscience Studies at Queen’s University under the mentorship of Dr. Randy Flanagan and Dr. Jason Gallivan.\nI am currently an Assistant Professor in the Department of Kinesiology (joined in 2017) at McMaster University, where I direct the Action, Cognition, and Metascience Lab. I teach undergraduate and graduate courses in the areas of motor control and learning, neurorehabilitation and robotics, statistics, and scientific computing. I currently serve as a Section Editor (Sensorimotor Control) for the journal Communications in Kinesiology, which is the flagship journal for the Society of Transparency, Openness, and Replication in Kinesiology (STORK). I also currently serve as the Chair of STORK.\n\n\nQueen’s University | Kingston, ON, Canada\nPostdoctoral Fellow, Centre for Neuroscience Studies\n2016–17\nUniversity of Ottawa | Ottawa, ON, Canada\nPh.D. in Human Kinetics, School of Human Kinetics\n2011–16\nBrock University | St. Catharines, ON, Canada\nM.Sc. in Kinesiology, Department of Kinesiology 2008–10\nBrock University | St. Catharines, ON, Canada\nBachelor of Physical Education (Honours), Department of Kinesiology 2004–08"
+  },
+  {
+    "objectID": "team/senior/mike-carter.html#education",
+    "href": "team/senior/mike-carter.html#education",
+    "title": "Michael Carter",
+    "section": "",
+    "text": "Queen’s University | Kingston, ON, Canada\nPostdoctoral Fellow, Centre for Neuroscience Studies\n2016–17\nUniversity of Ottawa | Ottawa, ON, Canada\nPh.D. in Human Kinetics, School of Human Kinetics\n2011–16\nBrock University | St. Catharines, ON, Canada\nM.Sc. in Kinesiology, Department of Kinesiology 2008–10\nBrock University | St. Catharines, ON, Canada\nBachelor of Physical Education (Honours), Department of Kinesiology 2004–08"
+  },
+  {
+    "objectID": "team/senior/mikayla-lalli.html",
+    "href": "team/senior/mikayla-lalli.html",
+    "title": "Mikayla Lalli",
+    "section": "",
+    "text": "github\n  \n\n      \nI joined the lab in September 2022 after completing my undergraduate studies at McMaster University in the School of Interdisciplinary Science. I am interested in motor cognition, specifically understanding the underlying cognitive mechanisms of motor interactions between multiple agents. My research focuses on decision making in collaborative human-human interactions. In my free time I enjoy playing the drums and teaching the lab about Harry Styles.\n\n\nMcMaster University | Hamilton, ON, Canada\nM.Sc in Kinesiology, Department of Kinesiology\n2022–Present\nMcMaster University | Hamilton, ON, Canada\nB.Sc. (Honours) in Life Sciences (Minor in Psychology), School of Interdisciplinary Science\n2018–22"
+  },
+  {
+    "objectID": "team/senior/mikayla-lalli.html#education",
+    "href": "team/senior/mikayla-lalli.html#education",
+    "title": "Mikayla Lalli",
+    "section": "",
+    "text": "McMaster University | Hamilton, ON, Canada\nM.Sc in Kinesiology, Department of Kinesiology\n2022–Present\nMcMaster University | Hamilton, ON, Canada\nB.Sc. (Honours) in Life Sciences (Minor in Psychology), School of Interdisciplinary Science\n2018–22"
+  },
+  {
+    "objectID": "join.html",
+    "href": "join.html",
+    "title": "Interested in joining the team",
+    "section": "",
+    "text": "We are always seeking curious, creative, and self-motivated students to enhance our research team and learning environment. The Action, Cognition, & Metascience lab at McMaster University is committed to the training and development of all its team members by promoting a highly collaborative research and training environment, and fostering a passion for lifelong learning and discovery. We are committed to supporting and promoting diversity and equity in our lab. Everyone—regardless of race, nationality, sex, gender, sexual orientation, age, disability, or religion—is welcome in our lab.\nUpdates in progress…"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Coming soon…"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Updates in progress…"
+  }
+]

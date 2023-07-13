@@ -1,0 +1,40 @@
+---
+title: "Intentional switches between coordination patterns are faster following anodal-tDCS applied over the supplementary motor area"
+type: "article"
+author: "Carter MJ., & Maslovat D., & Carlsen AN."
+year: "2017"
+publication: "Brain Stimulation"
+pdf: ""
+doi: "https://doi.org/10.1016/j.brs.2016.11.002"
+github: ""
+materials: ""
+#supplementary: ""
+preprint: ""
+toc: false
+---
+
+## Citation
+
+### APA 7th
+
+> Carter, M. J., Maslovat, D., & Carlsen, A. N. (2017). Intentional switches between coordination patterns are faster following anodal-tDCS applied over the supplementary motor area. *Brain Stimulation*, 10(1), 162–164. https://doi.org/10.1016/j.brs.2016.11.002
+
+### Bibtex
+
+<pre>
+@article{,
+  title = {Intentional Switches between Coordination Patterns Are Faster Following Anodal-{{tDCS}} Applied over the Supplementary Motor Area},
+  author = {Carter, Michael J. and Maslovat, Dana and Carlsen, Anthony N.},
+  date = {2017-01-01},
+  journaltitle = {Brain Stimulation},
+  shortjournal = {Brain Stimulation},
+  volume = {10},
+  number = {1},
+  pages = {162--164},
+  issn = {1935-861X},
+  doi = {10.1016/j.brs.2016.11.002},
+  url = {https://www.sciencedirect.com/science/article/pii/S1935861X1630300X},
+  urldate = {2023-07-13},
+  langid = {english}
+}
+</pre>

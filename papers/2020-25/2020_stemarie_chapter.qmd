@@ -1,0 +1,49 @@
+---
+title: "Self-controlled learning: Current findings, theoretical perspectives, and future directions"
+type: "chapter"
+author: "Ste-Marie DM., Carter MJ., & Yantha ZD."
+year: "2020"
+publication: "Skill Acquisition in Sport: Research, theory, and practice"
+editors: "In N.J. Hodges & A.M. Williams (Eds.),"
+edition: "(3rd ed.)."
+publisher: "Routledge."
+pdf: ""
+doi: "https://doi.org/10.4324/9781351189750-7"
+github: ""
+materials: ""
+#supplementary: ""
+preprint: ""
+toc: false
+---
+
+## Citation
+
+### APA 7th
+
+> Ste-Marie, D. M., Carter, M. J., & Yantha, Z. D. (2020). Self-controlled learning: Current findings, theoretical perspectives, and future directions. In *Skill Acquisition in Sport* (3rd ed.). Routledge.
+
+### Bibtex
+
+<pre>
+@incollection{,
+  title = {Self-Controlled Learning: {{Current}} Findings, Theoretical Perspectives, and Future Directions},
+  shorttitle = {Self-Controlled Learning},
+  booktitle = {Skill {{Acquisition}} in {{Sport}}},
+  author = {Ste-Marie, Diane M. and Carter, Michael J. and Yantha, Zachary D.},
+  year = {2020},
+  chapter = {7},
+  doi = {10.4324/9781351189750-7},
+  month = {11},
+  date = {2020},
+  booktitle = {Skill acquisition in sport: {Research}, theory, and practice},
+  editor = {{Hodges}, {Nicola J.} and {Williams}, {A. Mark}},
+  edition = {3}
+  publisher = {{Routledge}},
+  isbn = {978-1-351-18975-0},
+  pagetotal = {22}
+}
+</pre>
+
+## Abstract
+
+This chapter reviews the findings emanating from research that allows learners choice over: the variability of the practice schedule; the use of action observation; and the use of augmented feedback. It explores the idea that the practitioner may not need to plan everything down to the last detail, and that allowing learners to control aspects of their practice could be advantageous. The typical research protocol of self-controlled learning involves the comparison of learning outcomes for those who are provided choice over the provision of practice variable with those whom are not provided that choice, referred to as the yoked group. Variability in practice scheduling as a function of contextual interference involves granting control over the scheduling of multiple skills or tasks. Providing learners with demonstration, whether by instructor, another peer in the class, or video of someone showing the skill, is a common teaching technique and several researchers have shown advantages associated with such observational practice.

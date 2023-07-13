@@ -1,0 +1,44 @@
+---
+title: "Examining the impact of error estimation on the effects of self-controlled feedback"
+type: "article"
+author: "Barros JAC., Yantha ZD., Carter MJ., Hussien J., & Ste-Marie DM."
+year: "2019"
+publication: "Human Movement Science"
+pdf: ""
+doi: "https://doi.org/10.1016/j.humov.2018.12.002"
+github: ""
+materials: ""
+#supplementary: ""
+preprint: ""
+toc: false
+---
+
+## Citation
+
+### APA 7th
+
+> Barros, J. A. C., Yantha, Z. D., Carter, M. J., Hussien, J., & Ste-Marie, D. M. (2019). Examining the impact of error estimation on the effects of self-controlled feedback. *Human Movement Science*, 63, 182–198. https://doi.org/10.1016/j.humov.2018.12.002
+
+### Bibtex
+
+<pre>
+@article{,
+  title = {Examining the Impact of Error Estimation on the Effects of Self-Controlled Feedback},
+  author = {Barros, Joao A. C. and Yantha, Zachary D. and Carter, Michael J. and Hussien, Julia and Ste-Marie, Diane M.},
+  date = {2019-02-01},
+  journaltitle = {Human Movement Science},
+  shortjournal = {Human Movement Science},
+  volume = {63},
+  pages = {182--198},
+  issn = {0167-9457},
+  doi = {10.1016/j.humov.2018.12.002},
+  url = {https://www.sciencedirect.com/science/article/pii/S0167945718304640},
+  urldate = {2023-07-13},
+  langid = {english},
+  keywords = {Autonomy,Competence,Information-processing,Motivation,Motor learning,Yoked feedback}
+}
+</pre>
+
+## Abstract
+
+Two experiments were conducted that examined the motivational and informational perspectives concerning learning advantages from self-controlled practice. Three groups were tasked with learning a novel skill; self-controlled (SC), yoked traditional (YT), and yoked with error estimation required during the acquisition phase (YE). Results from the delayed learning measures showed the YE group performed better than the SC and YT groups, for Expt. 1. A similar pattern emerged for Expt. 2, albeit, this was not significant. While there were no motivation differences across the groups in either experiment, a strong correlation in Expt. 2 was shown between error estimation capabilities, which were best for the YE group, and learning. These combined results suggest that informational processes contribute more to the self-controlled feedback learning advantage, relative to motivational contributions.

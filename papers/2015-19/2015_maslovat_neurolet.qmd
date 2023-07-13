@@ -1,0 +1,44 @@
+---
+title: "Startle activation is additive with voluntary cortical activation irrespective of stimulus modality"
+type: "article"
+author: "Maslovat D., Drummond NM., Carter MJ., & Carlsen AN."
+year: "2015"
+publication: "Neuroscience Letters"
+pdf: ""
+doi: "https://doi.org/10.1016/j.neulet.2015.08.053"
+github: ""
+materials: ""
+#supplementary: ""
+preprint: ""
+toc: false
+---
+
+## Citation
+
+### APA 7th
+
+> Maslovat, D., Drummond, N. M., Carter, M. J., & Carlsen, A. N. (2015). Startle activation is additive with voluntary cortical activation irrespective of stimulus modality. *Neuroscience Letters*, 606, 151–155. https://doi.org/10.1016/j.neulet.2015.08.053
+
+### Bibtex
+
+<pre>
+@article{,
+  title = {Startle Activation Is Additive with Voluntary Cortical Activation Irrespective of Stimulus Modality},
+  author = {Maslovat, Dana and Drummond, Neil M. and Carter, Michael J. and Carlsen, Anthony N.},
+  date = {2015-10-08},
+  journaltitle = {Neuroscience Letters},
+  shortjournal = {Neuroscience Letters},
+  volume = {606},
+  pages = {151--155},
+  issn = {0304-3940},
+  doi = {10.1016/j.neulet.2015.08.053},
+  url = {https://www.sciencedirect.com/science/article/pii/S0304394015301233},
+  urldate = {2023-07-13},
+  langid = {english},
+  keywords = {Additive model,ECR,FCR,Initiation,IS,Motor preparation,Neural activation,SAS,SCM,Startle}
+}
+</pre>
+
+## Abstract
+
+When a startling acoustic stimulus (SAS) is presented during a simple reaction time (RT) task, it can trigger the prepared response through an involuntary initiation pathway. Previous research modelling the effects of presenting a SAS at various intervals following a non-startling auditory imperative signal (IS) suggested that involuntary initiation-related neural activation is additive with the voluntary initiation processes. The current study tested the predictions of this additive model when the SAS and IS are of different modalities by using a visual rather than auditory go-signal. Because voluntary RT latencies are delayed for visual stimuli compared to acoustic stimuli, it was hypothesised that the time course of additive activation would be similarly delayed. Participants performed 150 RT trials requiring a targeted 20° wrist extension task with a SAS presented 0–125 ms following a visual go-signal. Results were not different to those predicted by an additive model (*p* = 0.979), yet were significantly different to those predicted by a horse-race model (*p* = 0.037), indicating a joint contribution of voluntary and involuntary activation, even when the IS and SAS are of different modalities. Furthermore, the results indicated that voluntary RT differences due to stimulus modality are attributable to processes that occur prior to the increase in initiation-related activation.

@@ -1,0 +1,47 @@
+---
+title: "Pause time alters the preparation of two-component movements"
+type: "article"
+author: "Bajema MC., MacKinnon CD., Carter MJ., Kennefick M., Perlmutter S., & Carlsen AN."
+year: "2013"
+publication: "Experimental Brain Research"
+pdf: ""
+doi: "https://doi.org/10.1007/s00221-013-3670-6"
+github: ""
+materials: ""
+#supplementary: ""
+preprint: ""
+toc: false
+---
+
+## Citation
+
+### APA 7th
+
+> Bajema, M. C., MacKinnon, C. D., Carter, M. J., Kennefick, M., Perlmutter, S., & Carlsen, A. N. (2013). Pause time alters the preparation of two-component movements. *Experimental Brain Research*, 231(1), 85–96. https://doi.org/10.1007/s00221-013-3670-6
+
+### Bibtex
+
+<pre>
+@article{,
+  title = {Pause Time Alters the Preparation of Two-Component Movements},
+  author = {Bajema, Michael C. and MacKinnon, Colum D. and Carter, Michael J. and Kennefick, Michael and Perlmutter, Sam and Carlsen, Anthony N.},
+  date = {2013-11-01},
+  journaltitle = {Experimental Brain Research},
+  shortjournal = {Exp Brain Res},
+  volume = {231},
+  number = {1},
+  pages = {85--96},
+  issn = {1432-1106},
+  doi = {10.1007/s00221-013-3670-6},
+  url = {https://doi.org/10.1007/s00221-013-3670-6},
+  urldate = {2023-07-13},
+  langid = {english},
+  keywords = {Aiming,Complexity,Movement planning,Pause time,Startle}
+}
+</pre>
+
+
+
+## Abstract
+
+Targeted reciprocal aiming movements are pervasive in everyday life, but it is unclear how the timing parameters between task elements affect the preparation of these movements. This study used a loud (124 dB) startling acoustic stimulus (SAS) to probe how changes in the pause time between the outward and return components of a reciprocal aiming task affected the preparatory state of the motor system. Participants performed a visually guided wrist extension–flexion task to a target located at 20° from the start position and were instructed to pause the movement within the wrist extension target zone for either 50, 200, or 500 ms. A SAS was presented during 25 % of trials before either the onset of the wrist extension (out) or flexion (return) components of the task to determine how motor preparation was affected by task requirements. Results showed that the presentation of a SAS prior to the initial outward movement led to significantly earlier onsets of both the outward and return components (*p* < .05), indicating that the pause time in the planned action was pre-planned. For the longer (200, 500 ms) pause-time conditions, a SAS delivered prior to returning from the target region triggered the return portion of the movement early. These findings suggest that the shortest pause-time movement (50 ms) was preplanned as a single action, whereas for reciprocal movements with longer pause times at least the initial part of the movement and the timing of the pause were preplanned and integrated, while the return portion was more independent.

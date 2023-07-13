@@ -1,0 +1,52 @@
+project:
+  type: website
+  #output-dir: _site
+
+website:
+  title: "carterlab"
+  site-url: https://cartermaclab.org
+  #reader-mode: true
+  search: false
+  page-footer:
+    border: false
+    left: "This site is permantly under construction."
+    right: "Copyright 2023 &copy; Michael J. Carter"
+  navbar:
+    logo: images/lab-logo_right-black-text.png
+    title: false
+    right:
+      - text: Home
+        href: index.qmd
+      - text: News
+        href: news.qmd
+      - text: People
+        href: team.qmd
+      - text: Research
+        href: research.qmd
+      - text: Papers
+        href: papers.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Join
+        href: join.qmd
+      - text: Resources
+        href: resources.qmd
+      - icon: github
+        href: https://github.com/cartermaclab
+        aria-label: cartermaclab github
+      - icon: twitter
+        href: https://twitter.com/cartermaclab
+        aria-label: cartermaclab twitter
+      - icon: instagram
+        href: https://instagram.com/cartermaclab
+        aria-label: cartermaclab instagram
+
+format:
+  html:
+    theme: [spacelab, theme.scss]
+    fontsize: 1.15em
+    css: styles.css
+    toc: true
+
+
+

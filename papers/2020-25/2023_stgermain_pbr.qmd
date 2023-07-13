@@ -1,0 +1,45 @@
+---
+title: "Exercising choice over feedback schedules during practice is not advantageous for motor learning"
+type: "article"
+author: "St. Germain L., McKay B., Poskus A., Williams A., Leshchyshen O., Feldman S., Cashaback JGA., & Carter MJ."
+year: "2023"
+publication: "Psychonomic Bulletin & Review"
+pdf: ""
+doi: "https://doi.org/10.3758/s13423-022-02170-5"
+github: "https://github.com/cartermaclab/expt_sc-feedback-characteristics"
+materials: ""
+#supplementary: "https://static-content.springer.com/esm/art%3A10.3758%2Fs13423-022-02170-5/MediaObjects/13423_2022_2170_MOESM1_ESM.pdf"
+preprint: "https://psyarxiv.com/n52pq/"
+toc: false
+---
+
+## Citation
+
+### APA 7th
+
+> St. Germain, L., McKay, B., Poskus, A., Williams, A., Leshchyshen, O., Feldman, S., Cashaback, J. G. A., & Carter, M. J. (2023). Exercising choice over feedback schedules during practice is not advantageous for motor learning. *Psychonomic Bulletin & Review*, 30(2), 621–633. https://doi.org/10.3758/s13423-022-02170-5
+
+### Bibtex
+
+<pre>
+@article{,
+  title = {Exercising Choice over Feedback Schedules during Practice Is Not Advantageous for Motor Learning},
+  author = {St. Germain, Laura and McKay, Brad and Poskus, Andrew and Williams, Allison and Leshchyshen, Olena and Feldman, Sherry and Cashaback, Joshua G. A. and Carter, Michael J.},
+  date = {2023-04-01},
+  journaltitle = {Psychonomic Bulletin \& Review},
+  shortjournal = {Psychon Bull Rev},
+  volume = {30},
+  number = {2},
+  pages = {621--633},
+  issn = {1531-5320},
+  doi = {10.3758/s13423-022-02170-5},
+  url = {https://doi.org/10.3758/s13423-022-02170-5},
+  urldate = {2023-07-13},
+  langid = {english},
+  keywords = {Knowledge of results,OPTIMAL theory,Retention,Self-controlled}
+}
+</pre>
+
+## Abstract
+
+he idea that there is a self-controlled learning advantage, where individuals demonstrate improved motor learning after exercising choice over an aspect of practice compared to no-choice groups, has different causal explanations according to the OPTIMAL theory or an information-processing perspective. Within OPTIMAL theory, giving learners choice is considered an autonomy-supportive manipulation that enhances expectations for success and intrinsic motivation. In the information-processing view, choice allows learners to engage in performance-dependent strategies that reduce uncertainty about task outcomes. To disentangle these potential explanations, we provided participants in choice and yoked groups with error or graded feedback (Experiment 1) and binary feedback (Experiment 2) while learning a novel motor task with spatial and timing goals. Across both experiments (N = 228 participants), we did not find any evidence to support a self-controlled learning advantage. Exercising choice during practice did not increase perceptions of autonomy, competence, or intrinsic motivation, nor did it lead to more accurate error estimation skills. Both error and graded feedback facilitated skill acquisition and learning, whereas no improvements from pre-test performance were found with binary feedback. Finally, the impact of graded and binary feedback on perceived competence highlights a potential dissociation of motivational and informational roles of feedback. Although our results regarding self-controlled practice conditions are difficult to reconcile with either the OPTIMAL theory or the information-processing perspective, they are consistent with a growing body of evidence that strongly suggests self-controlled conditions are not an effective approach to enhance motor performance and learning.

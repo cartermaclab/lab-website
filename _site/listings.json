@@ -1,0 +1,51 @@
+[
+  {
+    "listing": "/papers.html",
+    "items": [
+      "/papers/preprints/mckay_foa-meta.html",
+      "/papers/preprints/roth_reinforcement.html",
+      "/papers/preprints/stgermain_phd3.html",
+      "/papers/preprints/debrouwer_pdf.html",
+      "/papers/2020-25/2023_lokesh_jnp.html",
+      "/papers/2020-25/2023_mckay_metapsych.html",
+      "/papers/2020-25/2023b_mckay_jmld.html",
+      "/papers/2020-25/2023_mckay_irsep.html",
+      "/papers/2020-25/2023a_mckay_jmld.html",
+      "/papers/2020-25/2023_stgermain_pbr.html",
+      "/papers/2020-25/2022_lokesh_scirep.html",
+      "/papers/2020-25/2022_mckay_metapsych.html",
+      "/papers/2020-25/2022_stgermain_jephpp.html",
+      "/papers/2020-25/2021_mckay_cik.html",
+      "/papers/2020-25/2020_stemarie_chapter.html",
+      "/papers/2015-19/2019_barros_hms.html",
+      "/papers/2015-19/2018_carter_psycholres.html",
+      "/papers/2015-19/2017_carter_pbr.html",
+      "/papers/2015-19/2017_carter_psycholres.html",
+      "/papers/2015-19/2017_carter_brainstim.html",
+      "/papers/2015-19/2017_maslovat_jnp.html",
+      "/papers/2015-19/2016_carter_hms.html",
+      "/papers/2015-19/2016_carter_jmld.html",
+      "/papers/2015-19/2016_martini_pse.html",
+      "/papers/2015-19/2016_patterson_pms.html",
+      "/papers/2015-19/2016_stemarie_jss.html",
+      "/papers/2015-19/2015_carter_jnp.html",
+      "/papers/2015-19/2015_maslovat_ebr.html",
+      "/papers/2015-19/2015_maslovat_neurolet.html",
+      "/papers/2010-14/2014_carter_frontpsychol.html",
+      "/papers/2010-14/2014_maslovat_neurolet.html",
+      "/papers/2010-14/2013_bajema_ebr.html",
+      "/papers/2010-14/2013_patterson_hms.html",
+      "/papers/2010-14/2012_carter_hms.html",
+      "/papers/2010-14/2011_patterson_rqes.html",
+      "/papers/2010-14/2010_patterson_hms.html"
+    ]
+  },
+  {
+    "listing": "/team.html",
+    "items": [
+      "/team/senior/mike-carter.html",
+      "/team/senior/mikayla-lalli.html",
+      "/team/senior/nour-alafif.html"
+    ]
+  }
+]

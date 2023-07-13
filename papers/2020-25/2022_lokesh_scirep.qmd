@@ -1,0 +1,47 @@
+---
+title: "Humans utilize sensory evidence of others’ intended action to make online decisions"
+type: "article"
+author: "Lokesh R., Sullivan S., Calalo JA., Roth A., Swanik B., Carter MJ., & Cashaback JGA."
+year: "2022"
+publication: "Scientific Reports"
+pdf: ""
+doi: "https://doi.org/10.1038/s41598-022-12662-y"
+github: ""
+materials: "https://osf.io/bgf7t/"
+#supplementary: "https://static-content.springer.com/esm/art%3A10.1038%2Fs41598-022-12662-y/MediaObjects/41598_2022_12662_MOESM1_ESM.pdf"
+preprint: ""
+toc: false
+---
+
+## Citation
+
+### APA 7th
+
+> Lokesh, R., Sullivan, S., Calalo, J. A., Roth, A., Swanik, B., Carter, M. J., & Cashaback, J. G. A. (2022). Humans utilize sensory evidence of others’ intended action to make online decisions. *Scientific Reports*, 12(1), Article 1. https://doi.org/10.1038/s41598-022-12662-y
+
+### Bibtex
+
+<pre>
+@article{,
+  title = {Humans Utilize Sensory Evidence of Others’ Intended Action to Make Online Decisions},
+  author = {Lokesh, Rakshith and Sullivan, Seth and Calalo, Jan A. and Roth, Adam and Swanik, Brenden and Carter, Michael J. and Cashaback, Joshua G. A.},
+  date = {2022-05-25},
+  journaltitle = {Scientific Reports},
+  shortjournal = {Sci Rep},
+  volume = {12},
+  number = {1},
+  pages = {8806},
+  publisher = {{Nature Publishing Group}},
+  issn = {2045-2322},
+  doi = {10.1038/s41598-022-12662-y},
+  url = {https://www.nature.com/articles/s41598-022-12662-y},
+  urldate = {2023-07-13},
+  issue = {1},
+  langid = {english},
+  keywords = {Decision,Dynamical systems,Human behaviour,Reward,Social behaviour}
+}
+</pre>
+
+## Abstract
+
+We often acquire sensory information from another person’s actions to make decisions on how to move, such as when walking through a crowded hallway. Past interactive decision-making research has focused on cognitive tasks that did not allow for sensory information exchange between humans prior to a decision. Here, we test the idea that humans accumulate sensory evidence of another person’s intended action to decide their own movement. In a competitive sensorimotor task, we show that humans exploit time to accumulate sensory evidence of another’s intended action and utilize this information to decide how to move. We captured this continuous interactive decision-making behaviour with a drift-diffusion model. Surprisingly, aligned with a ‘paralysis-by-analysis’ phenomenon, we found that humans often waited too long to accumulate sensory evidence and failed to make a decision. Understanding how humans engage in interactive and online decision-making has broad implications that spans sociology, athletics, interactive technology, and economics.

@@ -1,0 +1,17 @@
+---
+title: "Lab News"
+pagetitle: "CarterLab | News"
+toc: false
+---
+
+<font color="#d08770">[June 28 2023].</font> **New award**. Congratulations Dr. Laura St. Germain on a successfully defending your doctoral work.
+
+<font color="#d08770">[June 20 2023].</font> **New award**. Congratulations to Laura St. Germain (Ph.D. Candidate) on winning the 2023 Franklin Henry Young Scientist Award in Motor Control and Learning from the Canadian Society for Psychomotor Learning and Sport Psychology.
+
+<font color="#d08770">[June 16 2023].</font> **New preprint**. McKay, B., Corson, A.E., Seedu, J., De Faveri, C.S., Hasan, H., Arnold, K., Adams, F.C., & Carter, M.J. Reporting bias, not external focus: A robust Bayesian meta-analysis of the attentional focus literature. *SportR*$\chi$*iv*. doi: <https://doi.org/10.51224/SRXIV.304>
+
+<font color="#d08770">[May 26 2023].</font> **Paper accepted**. Lokesh, R., Sullivan, S.R., St. Germain, L., Roth, A.M., Calalo, J.A., Buggeln, J., Ngo, T., Marchhart, V.R.F., Carter, M.J, & Cashaback, J.G.A. Visual accuracy dominates over haptic speed for state estimation of a partner during collaborative sensorimotor interactions. *Journal of Neurophysiology*.
+
+<font color="#d08770">[May 19 2023].</font> **New preprint**. St. Germain, L., McKay, B., Tandon, C., Seedu, J., Barbera, L., Carrillo, C., Brown, D.M.Y., & Carter, M.J. Autonomy-supportive instructional language does not enhance skill acquisition compared to controlling instructional language. *SportR*$\chi$*iv*. doi: <https://doi.org/10.51224/SRXIV.298>
+
+<font color="#d08770">[April 13 2023].</font> **Paper accepted**. McKay, B., Bacelar, M.F.B., Parma, J.O., Miller, M.W., & Carter, M.J. The combination of reporting bias and underpowered study designs has substantially exaggerated the motor learning benefits of self-controlled practice and enhanced expectancies: A meta-analysis. *International Review of Sport and Exercise Psychology*.

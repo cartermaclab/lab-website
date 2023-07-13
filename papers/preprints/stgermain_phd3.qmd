@@ -1,0 +1,40 @@
+---
+title: "Autonomy-supportive instructional language does not enhance skill acquisition compared to controlling instructional language"
+type: "article"
+author: "St. Germain L., McKay B., Tandon C., Seedu J., Barbera L., Carrillo C., Brown D.M.Y., & Carter, MJ."
+year: "2023"
+publication: "SportR&#43859;iv"
+pdf: ""
+doi: "https://doi.org/10.51224/SRXIV.298"
+github: "https://github.com/cartermaclab/expt_instructional-language"
+materials: ""
+preprint: ""
+toc: false
+---
+
+## Citation
+
+### APA 7th
+
+> St. Germain, L., McKay, B., Tandon, C., Seedu, J., Barbera, L., Carrillo, C., Brown, D., & Carter, M. (2023). Autonomy-supportive instructional language does not enhance skill acquisition compared to controlling instructional language. *SportRxiv*. https://doi.org/10.51224/SRXIV.298
+
+### Bibtex
+
+<pre>
+@article{,
+  title = {Autonomy-Supportive Instructional Language Does Not Enhance Skill Acquisition Compared to Controlling Instructional Language},
+  author = {St. Germain, Laura and McKay, Brad and Tandon, Chitrini and Seedu, Jeswende and Barbera, Lidia and Carrillo, Chantal and Brown, Denver and Carter, Michael},
+  date = {2023-05-19},
+  eprinttype = {SportRxiv},
+  doi = {10.51224/SRXIV.298},
+  url = {https://sportrxiv.org/index.php/server/preprint/view/298},
+  urldate = {2023-07-13},
+  langid = {english},
+  pubstate = {preprint},
+  keywords = {Motor learning,OPTIMAL theory,Pre-registered,Retention}
+}
+</pre>
+
+## Abstract
+
+Instructional language is one of three possible techniques in OPTIMAL theory that can be manipulated to foster an autonomy-supportive practice environment to enhance motor performance and learning. While autonomy-supportive language has been shown to be beneficial in educational psychology, coaching, and health settings, the wording of task instructions has received minimal attention in the motor learning literature to date. Here, we investigated the influence of different instructional language styles on skill acquisition in a pre-registered experiment. Participants (*N* = 156) learned a speed cup stacking task and received instructions throughout practice that used either autonomy-supportive or controlling language. Although the autonomy-supportive instructions resulted in higher perceptions of autonomy, we did not find any group differences for motor performance in acquisition or in a delayed retention test. Perceptions of competence were higher at the end of acquisition following autonomy-supportive instructions, but this effect was transient as it disappeared before the delayed retention test. Interestingly, intrinsic motivation was lower before retention than after acquisition for the participants that received autonomy-supportive instructions. These data are difficult to reconcile with key predictions in OPTIMAL theory regarding a direct and causal influence of motivational factors on performance and learning. However, our equivalence test suggests these effects on skill acquisition may be smaller than what we were powered to detect. Nevertheless, this is consistent with a growing body of evidence highlighting the need for much larger *N* experiments in motor learning research.

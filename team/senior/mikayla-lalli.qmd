@@ -1,0 +1,30 @@
+---
+title: "Mikayla Lalli"
+subtitle: "M.Sc. Candidate"
+image: mikayla-lalli.jpg
+sortby: 2
+started: "September 2022"
+about:
+  id: hero-heading
+  template: solana
+  links:
+    - icon: github
+      text: github
+      href: https://www.github.com/mikaylalalli
+---
+
+:::{#hero-heading}
+
+I joined the lab in September 2022 after completing my undergraduate studies at McMaster University in the School of Interdisciplinary Science. I am interested in motor cognition, specifically understanding the underlying cognitive mechanisms of motor interactions between multiple agents. My research focuses on decision making in collaborative human-human interactions. In my free time I enjoy playing the drums and teaching the lab about Harry Styles.
+
+## Education
+
+**McMaster University** | Hamilton, ON, Canada  
+M.Sc in Kinesiology, Department of Kinesiology  
+2022--Present
+
+**McMaster University** | Hamilton, ON, Canada  
+B.Sc. (Honours) in Life Sciences (Minor in Psychology), School of Interdisciplinary Science  
+2018--22
+
+:::
