@@ -1,0 +1,26 @@
+---
+title: "Daniel Deletsu"
+subtitle: "M.Sc. Student"
+image: daniel-deletsu.jpg
+sortby: 5
+started: "September 2023"
+about:
+  id: hero-heading
+  template: solana
+---
+
+:::{#hero-heading}
+
+I joined the lab in September 2023 after completing my undergraduate studies at Queen’s University where I majored in Life Sciences. I am interested in exploring the how sensory, motor, and cognitive processes are affected in healthy aging and in neurological disorders such as Alzheimer's disease. Outside of the lab, you are most likely to find me in a gym or on a basketball court.
+
+## Education
+
+**McMaster University** | Hamilton, ON, Canada  
+M.Sc in Kinesiology, Department of Kinesiology  
+2023--Present
+
+**Queen's University** | Kingston, ON, Canada  
+B.Sc. (Honours) in Life Sciences, Faculty of Health Sciences  
+2019--23
+
+:::
