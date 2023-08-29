@@ -2,7 +2,7 @@
 title: "Nour Al Afif"
 subtitle: "M.Sc. Candidate"
 image: nour-alafif.jpg
-sortby: 3
+sortby: 4
 started: "September 2022"
 about:
   id: hero-heading

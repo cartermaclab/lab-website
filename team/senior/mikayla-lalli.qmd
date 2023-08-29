@@ -2,7 +2,7 @@
 title: "Mikayla Lalli"
 subtitle: "M.Sc. Candidate"
 image: mikayla-lalli.jpg
-sortby: 2
+sortby: 3
 started: "September 2022"
 about:
   id: hero-heading
