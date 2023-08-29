@@ -10,7 +10,7 @@ Our research is supported by the [Natural Sciences and Engineering Research Coun
 
 ### Decision-making for action
 
-Real-world action tasks involve a sequence of decision-making processes that determine, based on information extracted during the unfolding task, which movement to make next and when to make it. This complex interplay between decision-making and action is essential for understanding how people learn to make optimal choices, develop and learn skilled actions, and for elucidating how motor disorders (e.g., Parkinson's, Alzheimer's, etc) impact cognition in order to develop novel and more effective neurorehabilitation protocols. We are currently conducting experiments to better understand a) how individuals invest their time when learning multiple skills with the goal of maximize overall proficieny, and b) how individuals select and specify actions with multiple potential goals and/or sequential goals.
+Real-world action tasks involve a sequence of decision-making processes that determine, based on information extracted during the unfolding task, which movement to make next and when to make it. This complex interplay between decision-making and action is essential for understanding how people learn to make optimal choices, develop and learn skilled actions, and for elucidating how motor disorders (e.g., Parkinson's, Alzheimer's, etc) impact cognition in order to develop novel and more effective neurorehabilitation protocols. We are currently conducting experiments to better understand a) how individuals invest their time when learning multiple skills with the goal of maximize overall proficiency, and b) how individuals select and specify actions with multiple potential goals and/or sequential goals.
 
 ### Sensorimotor interactions
 
