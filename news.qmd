@@ -4,7 +4,7 @@ pagetitle: "CarterLab | News"
 toc: false
 ---
 
-<font color="#d08770">[May 26 2023].</font> **Paper accepted**.   Roth, A.M., Calalo, J.A., Lokesh, R., Sullivan, S.R., Grill, S., Jeka, J.J., van der Kooij, K., Carter, M.J, & Cashaback, J.G.A. Reinforcement-based processes actively regulate motor exploration along redundant solution manifolds. *Proceedings of the Royal Society B*.
+<font color="#d08770">[September 6 2023].</font> **Paper accepted**.   Roth, A.M., Calalo, J.A., Lokesh, R., Sullivan, S.R., Grill, S., Jeka, J.J., van der Kooij, K., Carter, M.J, & Cashaback, J.G.A. Reinforcement-based processes actively regulate motor exploration along redundant solution manifolds. *Proceedings of the Royal Society B*.
 
 <font color="#d08770">[August 28 2023].</font> **New members**. Welcome to Daniel Deletsu and Jiaqiao (Jack) Tang. Daniel will be starting his M.Sc in the lab and Jack will be starting his Ph.D in the lab.
 
