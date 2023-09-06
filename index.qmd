@@ -10,6 +10,8 @@ The **Action, Cognition, and Metascience Lab** is an interdisciplinary research 
 
 #### Recent lab news ---------
 
+<font color="#d08770">[May 26 2023].</font> **Paper accepted**.   Roth, A.M., Calalo, J.A., Lokesh, R., Sullivan, S.R., Grill, S., Jeka, J.J., van der Kooij, K., Carter, M.J, & Cashaback, J.G.A. Reinforcement-based processes actively regulate motor exploration along redundant solution manifolds. *Proceedings of the Royal Society B*.
+
 <font color="#d08770">[August 28 2023].</font> **New members**. Welcome to Daniel Deletsu and Jiaqiao (Jack) Tang. Daniel will be starting his M.Sc in the lab and Jack will be starting his Ph.D in the lab.
 
 <font color="#d08770">[June 28 2023].</font> **New milestone**. Congratulations Dr. Laura St. Germain on a successfully defending your doctoral work.
@@ -17,5 +19,3 @@ The **Action, Cognition, and Metascience Lab** is an interdisciplinary research 
 <font color="#d08770">[June 20 2023].</font> **New award**. Congratulations to Laura St. Germain (Ph.D. Candidate) on winning the 2023 Franklin Henry Young Scientist Award in Motor Control and Learning from the Canadian Society for Psychomotor Learning and Sport Psychology.
 
 <font color="#d08770">[June 16 2023].</font> **New preprint**. McKay, B., Corson, A.E., Seedu, J., De Faveri, C.S., Hasan, H., Arnold, K., Adams, F.C., & Carter, M.J. Reporting bias, not external focus: A robust Bayesian meta-analysis of the attentional focus literature. *SportR*$\chi$*iv*. doi: <https://doi.org/10.51224/SRXIV.304>
-
-<font color="#d08770">[May 26 2023].</font> **Paper accepted**. Lokesh, R., Sullivan, S.R., St. Germain, L., Roth, A.M., Calalo, J.A., Buggeln, J., Ngo, T., Marchhart, V.R.F., Carter, M.J, & Cashaback, J.G.A. Visual accuracy dominates over haptic speed for state estimation of a partner during collaborative sensorimotor interactions. *Journal of Neurophysiology*.
