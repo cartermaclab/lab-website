@@ -35,13 +35,13 @@ listing:
 
 ## Junior members
 
-**Hibaa Hasan**, Undergraduate thesis student (Psychology, Neuroscience, and Behaviour)  
-**Lidia Barbera**, Undergraduate thesis student (Life Sciences)  
-**Ola Schwarzenberg**, Undergraduate thesis student (Life Sciences - Sensory Motor Systems specialization)  
-**Enuri Dissanayake**, Undergraduate practicum student (Life Sciences - Sensory Motor Systems specialization)  
+:::{#junior}
+:::
 
-<!-- :::{#junior} -->
-<!-- ::: -->
+<!-- **Hibaa Hasan**, Undergraduate thesis student (Psychology, Neuroscience, and Behaviour)   -->
+<!-- **Lidia Barbera**, Undergraduate thesis student (Life Sciences)   -->
+<!-- **Ola Schwarzenberg**, Undergraduate thesis student (Life Sciences - Sensory Motor Systems specialization)   -->
+<!-- **Enuri Dissanayake**, Undergraduate practicum student (Life Sciences - Sensory Motor Systems specialization)   -->
 
 
 ## Collaborators

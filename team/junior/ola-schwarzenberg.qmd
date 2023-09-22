@@ -1,0 +1,16 @@
+---
+title: "Ola Schwarzenberg"
+subtitle: "Undergraduate thesis student"
+image: ola-schwarzenberg.jpg
+sortby: 3
+started: "September 2023"
+about:
+  id: hero-heading
+  template: solana
+---
+
+:::{#hero-heading}
+
+I joined the lab in September 2023 as an undergraduate thesis student and I am in the final year of my undergraduate degree in Life Sciences (Sensory Motor Systems specialization) with a minor in English and Cultural Studies. For my thesis work, I will be investigating cooperative decision-making. In my free time, I like to read, run, and play the piano.
+
+:::

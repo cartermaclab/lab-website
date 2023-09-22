@@ -1,0 +1,16 @@
+---
+title: "Lidia Barbera"
+subtitle: "Undergraduate thesis student"
+image: lidia-barbera.jpg
+sortby: 1
+started: "September 2023"
+about:
+  id: hero-heading
+  template: solana
+---
+
+:::{#hero-heading}
+
+I first joined the lab in September 2022 as a volunteer research assistant during my third year of the Honours Life Sciences program. I am now completing my undergraduate thesis in the lab. My research interests include sensorimotor interactions and how the use of virtual partners can be beneficial for motor learning and rehabilitation. My experience working as a pilates instructor for clients undergoing physiotherapy has strengthened my interest in motor behaviour and has supported my passion for this area of research.
+
+:::
