@@ -1,6 +1,6 @@
 ---
 title: "Enuri Dissanayake"
-subtitle: "Undergraduate thesis student"
+subtitle: "Undergraduate practicum student"
 image: enuri-dissanayake.jpg
 sortby: 5
 started: "September 2023"
