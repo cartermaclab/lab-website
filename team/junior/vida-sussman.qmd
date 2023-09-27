@@ -1,0 +1,16 @@
+---
+title: "Vida Sussman"
+subtitle: "Undergraduate research assistant"
+image: vida-sussman.jpg
+sortby: 6
+started: "September 2023"
+about:
+  id: hero-heading
+  template: solana
+---
+
+:::{#hero-heading}
+
+I joined the lab as an undergraduate research assistant in March 2023. My research interests include investigating the neurological processes behind skill acquisition, as well as collaborative sensorimotor interactions involving two humans or a human and a virtual agent. Outside of the lab, I enjoy running with my dog, biking on trails that I definitely cannot handle, and going on hiking trips with friends!
+
+:::

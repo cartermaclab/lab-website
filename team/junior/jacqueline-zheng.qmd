@@ -1,0 +1,16 @@
+---
+title: "Jacqueline Zheng"
+subtitle: "Undergraduate practicum student"
+image: jacqueline-zheng.jpg
+sortby: 6
+started: "September 2023"
+about:
+  id: hero-heading
+  template: solana
+---
+
+:::{#hero-heading}
+
+I joined the lab in September 2023 as a research practicum student and I am in my third year of the Honours Neuroscience program. My research interests include sensorimotor interactions and motor learning metascience. Outside of lab, I am a cat parent who loves food hunting in Hamilton and the GTA.
+
+:::
