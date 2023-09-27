@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cartermaclab.org/index.html</loc>
-    <lastmod>2023-09-22T23:29:59.647Z</lastmod>
+    <lastmod>2023-09-27T13:37:52.273Z</lastmod>
   </url>
   <url>
     <loc>https://cartermaclab.org/research.html</loc>
@@ -162,11 +162,11 @@
   </url>
   <url>
     <loc>https://cartermaclab.org/team.html</loc>
-    <lastmod>2023-09-22T18:20:08.559Z</lastmod>
+    <lastmod>2023-09-27T13:36:26.497Z</lastmod>
   </url>
   <url>
     <loc>https://cartermaclab.org/news.html</loc>
-    <lastmod>2023-09-22T22:22:54.697Z</lastmod>
+    <lastmod>2023-09-27T13:34:44.273Z</lastmod>
   </url>
   <url>
     <loc>https://cartermaclab.org/team/senior/nour-alafif.html</loc>
@@ -206,7 +206,7 @@
   </url>
   <url>
     <loc>https://cartermaclab.org/team/junior/vida-sussman.html</loc>
-    <lastmod>2023-08-29T02:57:04.133Z</lastmod>
+    <lastmod>2023-09-27T13:37:44.313Z</lastmod>
   </url>
   <url>
     <loc>https://cartermaclab.org/team/junior/ola-schwarzenberg.html</loc>
@@ -218,7 +218,7 @@
   </url>
   <url>
     <loc>https://cartermaclab.org/team/junior/abby-girouard.html</loc>
-    <lastmod>2023-08-29T02:57:04.133Z</lastmod>
+    <lastmod>2023-09-27T13:34:31.088Z</lastmod>
   </url>
   <url>
     <loc>https://cartermaclab.org/team/junior/enuri-dissanayake.html</loc>
@@ -231,5 +231,9 @@
   <url>
     <loc>https://cartermaclab.org/team/junior/lidia-barbera.html</loc>
     <lastmod>2023-09-22T18:23:55.067Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cartermaclab.org/team/junior/jacqueline-zheng.html</loc>
+    <lastmod>2023-09-27T13:34:31.358Z</lastmod>
   </url>
 </urlset>
