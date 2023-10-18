@@ -3,7 +3,6 @@
     "listing": "/papers.html",
     "items": [
       "/papers/preprints/mckay_foa-meta.html",
-      "/papers/preprints/roth_reinforcement.html",
       "/papers/preprints/stgermain_phd3.html",
       "/papers/preprints/debrouwer_pdf.html",
       "/papers/2020-25/2023_lokesh_jnp.html",
@@ -11,6 +10,7 @@
       "/papers/2020-25/2023b_mckay_jmld.html",
       "/papers/2020-25/2023_mckay_irsep.html",
       "/papers/2020-25/2023a_mckay_jmld.html",
+      "/papers/2020-25/2023_roth_rspb.html",
       "/papers/2020-25/2023_stgermain_pbr.html",
       "/papers/2020-25/2022_lokesh_scirep.html",
       "/papers/2020-25/2022_mckay_metapsych.html",
