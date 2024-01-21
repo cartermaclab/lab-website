@@ -1,0 +1,34 @@
+---
+title: "Punishment leads to greater sensorimotor learning but less movement variability compared to reward"
+type: "article"
+author: "Roth AM., Lokesh R., Tang J., Buggeln JH., Smith C., Calalo JA., Sullivan SR., Ngo T., St. Germain L., Carter MJ., & Cashaback JGA."
+year: "2024"
+publication: "Neurosicence"
+pdf: ""
+doi: "https://doi.org/10.1016/j.neuroscience.2024.01.004"
+github: ""
+materials: ""
+#supplementary: "https://www.sciencedirect.com/science/article/pii/S0306452224000125#s0150"
+preprint: ""
+toc: false
+---
+
+## Citation
+
+### APA 7th
+
+> Roth, A.M., Lokesh, R., Tang, J., Buggeln, J.H., Smith, C., Calalo, J.A., Sullivan, S.R., Ngo, T., St. Germain, L., Carter, M.J., & Cashaback, J.G.A. (2024). Punishment leads to greater sensorimotor learning but less movement variability compared to reward. *Neuroscience*. https://doi.org/10.1016/j.neuroscience.2024.01.004
+
+### Bibtex
+
+<pre>
+@article{,
+  title = {Punishment leads to greater sensorimotor learning but less movement variability compared to reward},
+  author = {Roth, Adam M. and Lokesh, Rakshith and Tang, Jiaqiao and Buggeln, John H. and Smith, Carly and Calalo, Jan A. and Sullivan, Seth R. and Ngo, Truc and St. Germain, Laura and Carter, Michael J. and Cashaback, Joshua G. A.},
+  date = {2024},
+}
+</pre>
+
+## Abstract
+
+When a musician practices a new song, hitting a correct note sounds pleasant while striking an incorrect note sounds unpleasant. Such reward and punishment feedback has been shown to differentially influence the ability to learn a new motor skill. Recent work has suggested that punishment leads to greater movement variability, which causes greater exploration and faster learning. To further test this idea, we collected 102 participants over two experiments. Unlike previous work, in Experiment 1 we found that punishment did not lead to faster learning compared to reward (n = 68), but did lead to a greater extent of learning. Surprisingly, we also found evidence to suggest that punishment led to less movement variability, which was related to the extent of learning. We then designed a second experiment that did not involve adaptation, allowing us to further isolate the influence of punishment feedback on movement variability. In Experiment 2, we again found that punishment led to significantly less movement variability compared to reward (n = 34). Collectively our results suggest that punishment feedback leads to less movement variability. Future work should investigate whether punishment feedback leads to a greater knowledge of movement variability and or increases the sensitivity of updating motor actions.
