@@ -11,7 +11,7 @@ listing:
       - "year desc"
       - "author"
   - id: papers2020
-    contents: "papers/2020-25/*.qmd"
+    contents: "papers/2020-24/*.qmd"
     template: papers.ejs
     sort:
       - "year desc"
