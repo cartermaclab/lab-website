@@ -4,7 +4,7 @@ pagetitle: "CarterLab | Research"
 toc: true
 ---
 
-Our research is supported by the [Natural Sciences and Engineering Research Council of Canada](https://www.nserc-crsng.gc.ca/), the [Canadian Foundation for Innovation](https://www.innovation.ca/), and the [Ontario Research Fund](https://www.ontario.ca/page/ontario-research-fund-research-infrastructure).
+Our research is supported by the [Natural Sciences and Engineering Research Council of Canada](https://www.nserc-crsng.gc.ca/){target="_blank"}, the [Canadian Foundation for Innovation](https://www.innovation.ca/){target="_blank"}, and the [Ontario Research Fund](https://www.ontario.ca/page/ontario-research-fund-research-infrastructure){target="_blank"}.
 
 ## Current projects
 

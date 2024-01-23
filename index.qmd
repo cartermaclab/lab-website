@@ -6,15 +6,15 @@ toc: false
 
 ![](images/uni-hall-front.jpg)
 
-The **Action, Cognition, and Metascience Lab** is an interdisciplinary research team investigating basic scientific questions about how the human brain controls and learns skilled actions. We study decision-making for action and practice factors supporting skill acquisition and maintenance in single- and multi-agent scenarios. We also conduct metascience research to gain important insights into research practices within kinesiology and sport science. We are located in the Ivor Wynne Centre, which is home to the [Department of Kinesiology](https://www.science.mcmaster.ca/kinesiology/) within the [Faculty of Science](https://www.science.mcmaster.ca/) at [McMaster University](https://www.mcmaster.ca/).
+The **Action, Cognition, and Metascience Lab** is an interdisciplinary research team investigating basic scientific questions about how the human brain controls and learns skilled actions. We study decision-making for action and practice factors supporting skill acquisition and maintenance in single- and multi-agent scenarios. We also conduct metascience research to gain important insights into research practices within kinesiology and sport science. We are located in the Ivor Wynne Centre, which is home to the [Department of Kinesiology](https://www.science.mcmaster.ca/kinesiology/){target="_blank"} within the [Faculty of Science](https://www.science.mcmaster.ca/){target="_blank"} at [McMaster University](https://www.mcmaster.ca/){target="_blank"}.
 
 #### Recent lab news ---------
 
-<font color="#d08770">[January 22 2024].</font> **Paper accepted**. Roth, A.M., Lokesh, R., Tang, J., Buggeln, J.H., Smith, C., Calalo, J.A., Sullivan, S.R., Ngo, T., St. Germain, L., Carter, M.J., & Cashaback, J.G.A. Punishment leads to greater sensorimotor learning but less movement variability compared to reward. *Neuroscience*. <https://doi.org/10.1016/j.neuroscience.2024.01.004>
+<font color="#d08770">[January 22 2024].</font> **Paper accepted**. Roth, A.M., Lokesh, R., Tang, J., Buggeln, J.H., Smith, C., Calalo, J.A., Sullivan, S.R., Ngo, T., St. Germain, L., Carter, M.J., & Cashaback, J.G.A. Punishment leads to greater sensorimotor learning but less movement variability compared to reward. *Neuroscience*. [https://doi.org/10.1016/j.neuroscience.2024.01.004](https://doi.org/10.1016/j.neuroscience.2024.01.004){target="_blank"}
 
 <font color="#d08770">[September 22 2023].</font> **New award**. Congratulations to Daniel Deletsu who was awarded a 2-year Master's scholarship through an initiative from the Heart and Stroke Foundation of Canada, Brain Canada Foundation, and the Canadian Institutes of Health Research.
 
-<font color="#d08770">[September 6 2023].</font> **Paper accepted**. Roth, A.M., Calalo, J.A., Lokesh, R., Sullivan, S.R., Grill, S., Jeka, J.J., van der Kooij, K., Carter, M.J, & Cashaback, J.G.A. Reinforcement-based processes actively regulate motor exploration along redundant solution manifolds. *Proceedings of the Royal Society B*. <https://doi.org/10.1098/rspb.2023.1475>
+<font color="#d08770">[September 6 2023].</font> **Paper accepted**. Roth, A.M., Calalo, J.A., Lokesh, R., Sullivan, S.R., Grill, S., Jeka, J.J., van der Kooij, K., Carter, M.J, & Cashaback, J.G.A. Reinforcement-based processes actively regulate motor exploration along redundant solution manifolds. *Proceedings of the Royal Society B*. [https://doi.org/10.1098/rspb.2023.1475](https://doi.org/10.1098/rspb.2023.1475){target="_blank"}
 
 <font color="#d08770">[August 28 2023].</font> **New members**. Welcome to Daniel Deletsu and Jiaqiao (Jack) Tang. Daniel will be starting his M.Sc in the lab and Jack will be starting his Ph.D in the lab.
 
