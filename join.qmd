@@ -6,5 +6,26 @@ toc: false
 
 We are always seeking curious, creative, and self-motivated students to enhance our research team and learning environment. The Action, Cognition, & Metascience lab at McMaster University is committed to the training and development of all its team members by promoting a highly collaborative research and training environment, and fostering a passion for lifelong learning and discovery. We are committed to supporting and promoting diversity and equity in our lab. **Everyone---regardless of race, nationality, sex, gender, sexual orientation, age, disability, or religion---is welcome in our lab.**
 
+## Undergraduate student opportunities
 
-Updates in progress...
+Undergraduate students are vital to the lab’s success and we love working with students from different academic programs and backgrounds. Undergraduate students will have the opportunity to work in the lab as part of their undergraduate degree requirements (e.g., research practicums, honour’s thesis, etc) or to explore an interest in sensorimotor neuroscience by gaining experience as a volunteer research assistant. You will have the opportunity to contribute to all stages of the research process, with the goal of disseminating your findings at an academic conference and/or in a peer-reviewed journal. There is also the possibility of paid summer positions depending on your experience and the availability of funds; however, these positions are generally given to students who have already worked in the lab.
+
+If you are interested in joining the team, please email your completed [application form](https://raw.githubusercontent.com/cartermaclab/lab-website/master/files/2024_carterlab_undergraduate-application-form.pdf){target="_blank"}, an up-to-date curriculum vitae, and unofficial transcripts to motorlab@mcmaster.ca.
+
+**The application period for practicum, project, and thesis courses for the 2024-25 academic year is now open.**
+
+- Applications will be received until Friday, March 1, 2024
+- Applicants selected for an interview will be notified by Friday, March 8, 2024
+- Interviews will take place in mid-to-late March
+- Offers for a practicum, project, or thesis position in the lab will be sent to selected students by Friday, March 29, 2024
+
+Please be aware that volunteer research assistant positions are filled on a rolling basis and as needed.
+
+
+## Graduate student opportunities
+
+The study of sensorimotor behaviour is multidisciplinary so students with backgrounds in the areas of, but not limited to, kinesiology, neuroscience, psychology, life or health sciences, engineering, or computer science are encouraged to apply. There are a limited number of graduate student positions in the lab at any given time. This approach allows for a more individualized training environment for each student, larger research stipends/bursaries, and the option to attend 1-2 academic conferences each year. Students interested in completing their M.Sc or Ph.D studies in the lab are encouraged to consult the relevant information pertaining to graduate studies in the [Department of Kinesiology](https://www.science.mcmaster.ca/kinesiology/graduate/graduate-studies.html){target="_blank"} and the [School of Graduate Studies](https://gs.mcmaster.ca/){target="_blank"}.
+
+### M.Sc and Ph.D applicants
+
+If you are interested in completing your M.Sc or Ph.D in the lab, please email Dr. Carter (cartem11@mcmaster.ca) an up-to-date curriculum vitae, unofficial academic transcripts, and a 1-page statement of research interests.
