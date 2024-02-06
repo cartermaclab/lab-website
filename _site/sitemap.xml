@@ -2,11 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cartermaclab.org/index.html</loc>
-    <lastmod>2024-01-23T22:46:53.606Z</lastmod>
+    <lastmod>2024-01-23T22:46:53.000Z</lastmod>
   </url>
   <url>
     <loc>https://cartermaclab.org/research.html</loc>
-    <lastmod>2024-01-09T16:34:33.634Z</lastmod>
+    <lastmod>2024-01-23T22:47:35.000Z</lastmod>
   </url>
   <url>
     <loc>https://cartermaclab.org/papers/2020-25/2023_mckay_irsep.html</loc>
@@ -162,7 +162,7 @@
   </url>
   <url>
     <loc>https://cartermaclab.org/team.html</loc>
-    <lastmod>2024-01-09T16:34:33.634Z</lastmod>
+    <lastmod>2024-01-09T16:34:33.000Z</lastmod>
   </url>
   <url>
     <loc>https://cartermaclab.org/news.html</loc>
@@ -291,5 +291,25 @@
   <url>
     <loc>https://cartermaclab.org/papers/2020-24/2023b_mckay_jmld.html</loc>
     <lastmod>2024-01-09T16:34:33.630Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cartermaclab.org/team/junior/navishka-brahmbhatt.html</loc>
+    <lastmod>2024-02-06T04:13:24.576Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cartermaclab.org/team/junior/michael-croteau.html</loc>
+    <lastmod>2024-02-06T04:14:58.819Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cartermaclab.org/team/junior/aditya-trivedi.html</loc>
+    <lastmod>2024-02-02T15:56:10.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cartermaclab.org/team/junior/jil-soni.html</loc>
+    <lastmod>2024-02-02T15:55:03.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cartermaclab.org/team/junior/francesca-caputo.html</loc>
+    <lastmod>2024-02-02T14:17:02.000Z</lastmod>
   </url>
 </urlset>
