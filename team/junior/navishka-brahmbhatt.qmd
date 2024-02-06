@@ -1,0 +1,16 @@
+---
+title: "Navishka Brahmbhatt"
+subtitle: "Undergraduate practicum student"
+image: navishka-brahmbhatt.jpg
+sortby: 5
+started: "January 2024"
+about:
+  id: hero-heading
+  template: solana
+---
+
+:::{#hero-heading}
+
+I joined the lab in January of 2024 as an undergraduate practicum student. My research interests include neurodegenerative diseases and rehabilitation sciences. Outside the lab, I enjoy traveling, dancing, and cooking.
+
+:::

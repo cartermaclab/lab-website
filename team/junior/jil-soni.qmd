@@ -1,0 +1,16 @@
+---
+title: "Jil Soni"
+subtitle: "Undergraduate practicum student"
+image: jil-soni.png
+sortby: 6
+started: "January 2024"
+about:
+  id: hero-heading
+  template: solana
+---
+
+:::{#hero-heading}
+
+I joined the lab in January 2024 as a research practicum student. I am in my third year of Life Sciences (Sensory Motor Systems specialization) with a minor in Statistics. My research interests include sensorimotor interactions and cooperative decision-making. Outside of the lab, I enjoy reading a good book, painting, and going on hikes!
+
+:::
