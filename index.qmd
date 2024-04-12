@@ -10,6 +10,8 @@ The **Action, Cognition, and Metascience Lab** is an interdisciplinary research 
 
 #### Recent lab news ---------
 
+<font color="#d08770">[April 12 2024].</font> **Paper accepted**. McKay, B., Corson, A.E., Seedu, J., De Faveri, C.S., Hasan, H., Arnold, K., Adams, F.C., & Carter, M.J. Reporting bias, not external focus: A robust Bayesian meta-analysis and systematic review of the attentional focus literature. *Psychological Bulletin*.
+
 <font color="#d08770">[January 22 2024].</font> **Paper accepted**. Roth, A.M., Lokesh, R., Tang, J., Buggeln, J.H., Smith, C., Calalo, J.A., Sullivan, S.R., Ngo, T., St. Germain, L., Carter, M.J., & Cashaback, J.G.A. Punishment leads to greater sensorimotor learning but less movement variability compared to reward. *Neuroscience*. [https://doi.org/10.1016/j.neuroscience.2024.01.004](https://doi.org/10.1016/j.neuroscience.2024.01.004){target="_blank"}
 
 <font color="#d08770">[September 22 2023].</font> **New award**. Congratulations to Daniel Deletsu who was awarded a 2-year Master's scholarship through an initiative from the Heart and Stroke Foundation of Canada, Brain Canada Foundation, and the Canadian Institutes of Health Research.
@@ -17,5 +19,3 @@ The **Action, Cognition, and Metascience Lab** is an interdisciplinary research 
 <font color="#d08770">[September 6 2023].</font> **Paper accepted**. Roth, A.M., Calalo, J.A., Lokesh, R., Sullivan, S.R., Grill, S., Jeka, J.J., van der Kooij, K., Carter, M.J, & Cashaback, J.G.A. Reinforcement-based processes actively regulate motor exploration along redundant solution manifolds. *Proceedings of the Royal Society B*. [https://doi.org/10.1098/rspb.2023.1475](https://doi.org/10.1098/rspb.2023.1475){target="_blank"}
 
 <font color="#d08770">[August 28 2023].</font> **New members**. Welcome to Daniel Deletsu and Jiaqiao (Jack) Tang. Daniel will be starting his M.Sc in the lab and Jack will be starting his Ph.D in the lab.
-
-<font color="#d08770">[June 28 2023].</font> **New milestone**. Congratulations Dr. Laura St. Germain on a successfully defending your doctoral work.

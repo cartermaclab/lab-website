@@ -4,6 +4,8 @@ pagetitle: "CarterLab | News"
 toc: false
 ---
 
+<font color="#d08770">[April 12 2024].</font> **Paper accepted**. McKay, B., Corson, A.E., Seedu, J., De Faveri, C.S., Hasan, H., Arnold, K., Adams, F.C., & Carter, M.J. Reporting bias, not external focus: A robust Bayesian meta-analysis and systematic review of the attentional focus literature. *Psychological Bulletin*.
+
 <font color="#d08770">[January 22 2024].</font> **Paper accepted**. Roth, A.M., Lokesh, R., Tang, J., Buggeln, J.H., Smith, C., Calalo, J.A., Sullivan, S.R., Ngo, T., St. Germain, L., Carter, M.J., & Cashaback, J.G.A. Punishment leads to greater sensorimotor learning but less movement variability compared to reward. *Neuroscience*. [https://doi.org/10.1016/j.neuroscience.2024.01.004](https://doi.org/10.1016/j.neuroscience.2024.01.004){target="_blank"}
 
 <font color="#d08770">[September 22 2023].</font> **New award**. Congratulations to Daniel Deletsu who was awarded a 2-year Master's scholarship from the Heart and Stroke Foundation of Canada, Brain Canada Foundation, and the Canadian Institutes of Health Research.
