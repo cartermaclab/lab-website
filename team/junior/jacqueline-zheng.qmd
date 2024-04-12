@@ -1,6 +1,6 @@
 ---
 title: "Jacqueline Zheng"
-subtitle: "Undergraduate practicum student"
+subtitle: "Undergraduate research assistant"
 image: jacqueline-zheng.jpg
 sortby: 6
 started: "September 2023"

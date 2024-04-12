@@ -1,6 +1,6 @@
 ---
 title: "Michael Croteau"
-subtitle: "Undergraduate practicum student"
+subtitle: "Undergraduate research assistant"
 image: michael-croteau.jpg
 sortby: 6
 started: "January 2024"
