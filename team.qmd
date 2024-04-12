@@ -38,12 +38,6 @@ listing:
 :::{#junior}
 :::
 
-<!-- **Hibaa Hasan**, Undergraduate thesis student (Psychology, Neuroscience, and Behaviour)   -->
-<!-- **Lidia Barbera**, Undergraduate thesis student (Life Sciences)   -->
-<!-- **Ola Schwarzenberg**, Undergraduate thesis student (Life Sciences - Sensory Motor Systems specialization)   -->
-<!-- **Enuri Dissanayake**, Undergraduate practicum student (Life Sciences - Sensory Motor Systems specialization)   -->
-
-
 ## Collaborators
 
 The lab maintains active and extensive research collaborations with:  
@@ -74,11 +68,11 @@ Former lab members and what they did after leaving the lab or what they are curr
 
 #### Honours thesis
 
-Chitrini Tandon (2021-23); Alyssa Skouros (2022-23); Kiana Masoudi (2022-23); Raika Bourmand (2021-22); Armin Sariaslani (2021-22); Katharine (Katie) Douglas (2021-22); Thinzar Soe (2021-22); Julianna Marfisi (2020-21); Matthew Tobis (2020-21); Andrew Poskus (2020-21); Sherry Feldman (2019-20); Olena Leshchyshen (2019-20); Noura Balbaa (2019-20)
+Lidia Barbera (2023-24); Hibaa Hasan (2023-24); Ola Schwarzenberg (2023-24); Mithun Manivannan (2023-24); Chitrini Tandon (2021-23); Alyssa Skouros (2022-23); Kiana Masoudi (2022-23); Raika Bourmand (2021-22); Armin Sariaslani (2021-22); Katharine (Katie) Douglas (2021-22); Thinzar Soe (2021-22); Julianna Marfisi (2020-21); Matthew Tobis (2020-21); Andrew Poskus (2020-21); Sherry Feldman (2019-20); Olena Leshchyshen (2019-20); Noura Balbaa (2019-20)
 
 #### Research practicum / project
 
-Jeswende Seedu (2022-23); Vivian Li (2022); Caroline Jarvi (2022); Gurlal Gill (2021); Anita Chaseendran (2021); Gianna Jeyarajan (2021); Mackenzie (Kenzie) Bell (2021); Ashton Yuen (2021); Charlie Violin (2021); Ammaar Jan (2020); Faran Chaudhry (2020); Yu (Sarah) Fu (2020); Andrew Poskus (2019); Maya El-Zahed (2019); Grant Yang (2019); Olena Leshchyshen (2019); Rita Waseem (2019); Christian Kleiser (2018); Christopher Li (2018); Faryal Zahir (2018)
+Jacqueline Zheng (2023-24); Abby Girouard (2023-24); Michael Croteau (2024); Aditya Trivedi (2024); Navishka Brahmbhatt (2024); Francesca Caputo (2024); Jil Soni (2024); Enuri Dissanayake (2023); Jeswende Seedu (2022-23); Vivian Li (2022); Caroline Jarvi (2022); Gurlal Gill (2021); Anita Chaseendran (2021); Gianna Jeyarajan (2021); Mackenzie (Kenzie) Bell (2021); Ashton Yuen (2021); Charlie Violin (2021); Ammaar Jan (2020); Faran Chaudhry (2020); Yu (Sarah) Fu (2020); Andrew Poskus (2019); Maya El-Zahed (2019); Grant Yang (2019); Olena Leshchyshen (2019); Rita Waseem (2019); Christian Kleiser (2018); Christopher Li (2018); Faryal Zahir (2018)
 
 #### Research assistants
 
