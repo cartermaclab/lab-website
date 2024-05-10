@@ -3,7 +3,7 @@ title: "Punishment leads to greater sensorimotor learning but less movement vari
 type: "article"
 author: "Roth AM., Lokesh R., Tang J., Buggeln JH., Smith C., Calalo JA., Sullivan SR., Ngo T., St. Germain L., Carter MJ., & Cashaback JGA."
 year: "2024"
-publication: "Neurosicence"
+publication: "Neuroscience"
 pdf: ""
 doi: "https://doi.org/10.1016/j.neuroscience.2024.01.004"
 github: ""
