@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cartermaclab.org/index.html</loc>
-    <lastmod>2024-05-10T15:25:31.834Z</lastmod>
+    <lastmod>2024-05-10T15:25:31.000Z</lastmod>
   </url>
   <url>
     <loc>https://cartermaclab.org/research.html</loc>
@@ -315,5 +315,9 @@
   <url>
     <loc>https://cartermaclab.org/team/junior/eleanore-wu.html</loc>
     <lastmod>2024-05-17T12:41:42.338Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cartermaclab.org/team/junior/eshaa-tariq.html</loc>
+    <lastmod>2024-05-31T20:02:54.903Z</lastmod>
   </url>
 </urlset>
