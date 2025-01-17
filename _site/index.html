@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.33">
+<meta name="generator" content="quarto-1.6.40">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -31,10 +31,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-49ea38b5c784583f107f390c3e702a31.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-58110b82337caefd93b6521b0116e960.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-7653227531431312ee93039963213ce3.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-29d7c024db8313b9b37b5189e063308b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -137,7 +137,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p><img src="images/iwc-front.jpg" class="img-fluid"></p>
-<p>The <strong>Action, Cognition, and Metascience Lab</strong> is an interdisciplinary research team investigating basic scientific questions about how the human brain controls and learns skilled actions. We study decision-making for action and practice factors supporting skill acquisition and maintenance in single- and multi-agent scenarios. We also conduct metascience research to gain important insights into research practices within kinesiology and sport science. We are located in the Ivor Wynne Centre, which is home to the <a href="https://www.science.mcmaster.ca/kinesiology/" target="_blank">Department of Kinesiology</a> within the <a href="https://www.science.mcmaster.ca/" target="_blank">Faculty of Science</a> at <a href="https://www.mcmaster.ca/" target="_blank">McMaster University</a>.</p>
+<p>The <strong>Action, Cognition, and Metascience Lab</strong> is an interdisciplinary research team interested in how the human brain controls and learns skilled actions in healthy and clinical populations. We also conduct metascience research to gain insights into research practices within kinesiology and related areas. The lab is located in the Ivor Wynne Centre, which is home to the <a href="https://www.science.mcmaster.ca/kinesiology/" target="_blank">Department of Kinesiology</a> within the <a href="https://www.science.mcmaster.ca/" target="_blank">Faculty of Science</a> at <a href="https://www.mcmaster.ca/" target="_blank">McMaster University</a>.</p>
 <section id="recent-lab-news" class="level4">
 <h4 class="anchored" data-anchor-id="recent-lab-news">Recent lab news ———</h4>
 <p><font color="#d08770">[October 21 2024].</font> <strong>New milestone</strong>. Congratulations to Nour Al Afif on successfully defending her MSc work. We are excited that Nour is staying in the lab for her doctoral studies.</p>
@@ -231,8 +231,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -343,7 +341,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
