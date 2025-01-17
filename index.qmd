@@ -6,7 +6,7 @@ toc: false
 
 ![](images/iwc-front.jpg)
 
-The **Action, Cognition, and Metascience Lab** is an interdisciplinary research team investigating basic scientific questions about how the human brain controls and learns skilled actions. We study decision-making for action and practice factors supporting skill acquisition and maintenance in single- and multi-agent scenarios. We also conduct metascience research to gain important insights into research practices within kinesiology and sport science. We are located in the Ivor Wynne Centre, which is home to the [Department of Kinesiology](https://www.science.mcmaster.ca/kinesiology/){target="_blank"} within the [Faculty of Science](https://www.science.mcmaster.ca/){target="_blank"} at [McMaster University](https://www.mcmaster.ca/){target="_blank"}.
+The **Action, Cognition, and Metascience Lab** is an interdisciplinary research team interested in how the human brain controls and learns skilled actions in healthy and clinical populations. We also conduct metascience research to gain insights into research practices within kinesiology and related areas. The lab is located in the Ivor Wynne Centre, which is home to the [Department of Kinesiology](https://www.science.mcmaster.ca/kinesiology/){target="_blank"} within the [Faculty of Science](https://www.science.mcmaster.ca/){target="_blank"} at [McMaster University](https://www.mcmaster.ca/){target="_blank"}.
 
 #### Recent lab news ---------
 

@@ -3,49 +3,219 @@ title: "Papers"
 pagetitle: "CarterLab | Papers"
 toc: true
 toc-title: "Jump to..."
-listing:
-  - id: preprints
-    contents: "papers/preprints/*.qmd"
-    template: papers.ejs
-    sort:
-      - "year desc"
-      - "author"
-  - id: papers2020
-    contents: "papers/2020-24/*.qmd"
-    template: papers.ejs
-    sort:
-      - "year desc"
-      - "author"
-  - id: papers2015
-    contents: "papers/2015-19/*.qmd"
-    template: papers.ejs
-    sort:
-      - "year desc"
-      - "author"
-  - id: papers2010
-    contents: "papers/2010-14/*.qmd"
-    template: papers.ejs
-    sort:
-      - "year desc"
-      - "author"
 ---
 
 ## Preprints
 
-:::{#preprints}
-:::
+- Calalo JA., Ngo TT., Sullivan SR., Strand K., Buggeln JH., Lokesh R., Roth AM., Carter MJ., Kurtzer IL., & Cashaback JGA. (2024). Online movements reflect ongoing deliberation. *bioR$\chi$iv*. ---
+[{{< ai doi >}}](https://doi.org/10.1101/2024.08.19.608669){target="_blank" style="color: inherit;"}
 
-## 2020--24
+- de Brouwer AJ., Carter MJ., Smail LC., Wolpert DM., Gallivan JP., & Flanagan JR. (2020). Gaze behaviour reveals flexible encoding of competing reach goals under conditions of target uncertainty. *bioR$\chi$iv*. ---
+[{{< ai doi >}}](https://doi.org/10.1101/2020.09.02.279414){target="_blank" style="color: inherit;"}
 
-:::{#papers2020}
-:::
+## 2025
 
-## 2015--19
+- St. Germain L., McKay B., Tandon C., Seedu J., Barbera L., Carrillo C., Brown D.M.Y., & Carter, MJ. (2025). Autonomy-supportive instructional language does not enhance skill acquisition compared to controlling instructional language. *Psychological Research*. ---
+[{{< ai doi >}}](https://doi.org/10.1007/s00426-024-02059-z){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2025_st-germain-etal_autonomy-supportive-instructional-language-does-not-enhance-skill-acquisition-compared-to-controlling-instructional-language.pdf){target="_blank" style="color: inherit;"}
+[{{< fa brands github >}}](https://github.com/cartermaclab/expt_instructional-language){target="_blank" style="color: inherit;"}
 
-:::{#papers2015}
-:::
 
-## 2010--14
+## 2024
 
-:::{#papers2010}
-:::
+- McKay B., Corson AE., Seedu J., De Faveri CS., Hasan H., Arnold K., Adams FC., & Carter MJ. (2024). Reporting bias, not external focus: A robust Bayesian meta-analysis and systematic review of the external focus of attention literature. *Psychological Bulletin*. ---
+[{{< ai doi >}}](https://doi.org/10.1037/bul0000451){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2024_mckay-etal_reporting-bias-not-external-focus-a-robust-bayesian-meta-analysis-and-systematic-review-of-the-external-focus-of-attention.pdf){target="_blank" style="color: inherit;"}
+[{{< fa brands github >}}](https://github.com/cartermaclab/proj_foa-optimal-theory){target="_blank" style="color: inherit;"}
+
+- Roth AM., Buggeln JH., Hoh JE., Wood JM., Sullivan SR., Ngo TT., Calalo JA., Lokesh R., Morton SM., Grill S., Jeka JJ., Carter MJ., & Cashaback JGA. (2024). Roles and interplay of reinforcement-based and error-based processes during reaching and gait in neurotypical adults and individuals with Parkinson’s disease *PLoS Computational Biology*. ---
+[{{< ai doi >}}](https://doi.org/10.1371/journal.pcbi.1012474){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2024_roth-etal_roles-and-interplay-of-reinforcement-based-and-error-based-processes-during-reaching-and-gait-in-neurotypical-adults-and-indi.pdf){target="_blank" style="color: inherit;"}
+[{{< fa brands github >}}](https://github.com/CashabackLab/Roles_and_Interplay_of_Reinforcement_and_Error){target="_blank" style="color: inherit;"}
+
+- Roth AM., Lokesh R., Tang J., Buggeln JH., Smith C., Calalo JA., Sullivan SR., Ngo T., St. Germain L., Carter MJ., & Cashaback JGA. (2024). Punishment leads to greater sensorimotor learning but less movement variability compared to reward. *Neuroscience*. ---
+[{{< ai doi >}}](https://doi.org/10.1016/j.neuroscience.2024.01.004){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2024_roth-etal_punishment-leads-to-greater-sensorimotor-learning-but-less-movement-variability-compared-to-reward.pdf){target="_blank" style="color: inherit;"}
+
+
+## 2023
+
+- McKay B., Bacelar MFB., Parma JO., Miller MW., & Carter, MJ. (2023). The combination of reporting bias and underpowered study designs has substantially exaggerated the motor learning benefits of self-controlled practice and enhanced expectancies: A meta-analysis. *International Review of Sport and Exercise Psychology*. ---
+[{{< ai doi >}}](https://doi.org/10.1080/1750984X.2023.2207255){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2023_mckay-etal_the-combination-of-reporting-bias-and-underpowered-study-designs-has-substantially-exaggerated-the-motor-learning-benefits-of.pdf){target="_blank" style="color: inherit;"}
+[{{< fa brands github >}}](https://github.com/cartermaclab/proj_sc-ee-optimal-theory){target="_blank" style="color: inherit;"}
+
+- McKay B., Corson A., Vinh M., Jeyarajan G., Tandon C., Brooks H., Hubley J., & Carter MJ. (2023). Low prevalence of a priori power analyses in motor behavior research. *Journal of Motor Learning and Development*. ---
+[{{< ai doi >}}](https://doi.org/10.1123/jmld.2022-0042){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2023_mckay-etal_low-prevalence-of-a-priori-power-analyses-in-motor-behavior-research.pdf){target="_blank" style="color: inherit;"}
+[{{< fa brands github >}}](https://github.com/cartermaclab/proj_power-motor-behaviour){target="_blank" style="color: inherit;"}
+
+- McKay B., Bacelar MFB., & Carter MJ. (2023). On the reproducibility of power analyses in motor behavior research. *Journal of Motor Learning and Development*. ---
+[{{< ai doi >}}](https://doi.org/10.1123/jmld.2022-0061){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2023_mckay-etal_on-the-reproducibility-of-power-analyses-in-motor-behavior-research.pdf){target="_blank" style="color: inherit;"}
+[{{< fa brands github >}}](https://github.com/cartermaclab/proj_power-reproducibility-motor-behaviour){target="_blank" style="color: inherit;"}
+
+- Lokesh R., Sullivan SR., St. Germain L., Roth AM., Calalo JA., Buggeln J., Ngo T., Marchhart VRF., Carter MJ., & Cashaback JGA. (2023). Visual accuracy dominates over haptic speed for state estimation of a partner during collaborative sensorimotor interactions. *Journal of Neurophysiology*. ---
+[{{< ai doi >}}](https://doi.org/10.1152/jn.00053.2023){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2023_lokesh-etal_visual-accuracy-dominates-over-haptic-speed-for-state-estimation-of-a-partner-during-collaborative-sensorimotor-interactions.pdf){target="_blank" style="color: inherit;"}
+[{{< fa brands github >}}](https://github.com/CashabackLab/VisionHaptics_Collab_OFCModel){target="_blank" style="color: inherit;"}
+
+- McKay B. & Carter MJ. (2023). A critical re-analysis of six implicit learning papers. *Meta-Psychology*. ---
+[{{< ai doi >}}](https://doi.org/10.15626/MP.2021.2938){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2023_mckay-carter_a-critical-re-analysis-of-six-implicit-learning-papers.pdf){target="_blank" style="color: inherit;"}
+[{{< fa brands github >}}](https://github.com/cartermaclab/comm_lola-tzetzis-data-irregularities){target="_blank" style="color: inherit;"}
+
+- Roth AM., Calalo JA., Lokesh R., Sullivan SR., Grill S., Jeka JJ., van der Kooij K., Carter MJ., & Cashaback JGA. (2023). Reinforcement-based processes actively regulate motor exploration along redundant solution manifolds. *Proceedings of the Royal Society B*. ---
+[{{< ai doi >}}](https://doi.org/10.1098/rspb.2023.1475){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2023_roth-etal_reinforcement-based-processes-actively-regulate-motor-exploration-along-redundant-solution-manifolds.pdf){target="_blank" style="color: inherit;"}
+[{{< fa brands github >}}](https://github.com/CashabackLab/Exploration-Along-Solution-Manifolds-Data){target="_blank" style="color: inherit;"}
+
+- St. Germain L., McKay B., Poskus A., Williams A., Leshchyshen O., Feldman S., Cashaback JGA., & Carter MJ. (2023). Exercising choice over feedback schedules during practice is not advantageous for motor learning. *Psychonomic Bulletin & Review*. ---
+[{{< ai doi >}}](https://doi.org/10.3758/s13423-022-02170-5){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2023_st-germain-etal_exercising-choice-over-feedback-schedules-during-practice-is-not-advantageous-for-motor-learning.pdf){target="_blank" style="color: inherit;"}
+[{{< fa brands github >}}](https://github.com/cartermaclab/expt_sc-feedback-characteristics){target="_blank" style="color: inherit;"}
+
+
+## 2022
+
+*Note. Parental leave May 2022 to Dec 2022*
+
+- McKay B., Yantha ZD., Hussein J., Carter MJ., Ste-Marie DM. (2022). Meta-analytic findings of the self-controlled motor learning literature: Underpowered, biased, and lacking evidential value. *Meta-Psychology*. ---
+[{{< ai doi >}}](https://doi.org/10.15626/MP.2021.2803){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2022_mckay-etal_meta-analytic-findings-of-the-self-controlled-motor-learning-literature-underpowered-biased-and-lacking-evidential-value.pdf){target="_blank" style="color: inherit;"}
+[{{< fa brands github >}}](https://github.com/cartermaclab/proj_sc-meta-analysis){target="_blank" style="color: inherit;"}
+
+- Lokesh R., Sullivan S., Calalo JA., Roth A., Swanik B., Carter MJ., & Cashaback JGA. (2022). Humans utilize sensory evidence of others’ intended action to make online decisions. *Scientific Reports*.  ---
+[{{< ai doi >}}](https://doi.org/10.1038/s41598-022-12662-y){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2022_lokesh-etal_humans-utilize-sensory-evidence-of-others-intended-action-to-make-online-decisions.pdf){target="_blank" style="color: inherit;"}
+[{{< ai osf >}}](https://osf.io/bgf7t/){target="_blank" style="color: inherit;"}
+
+- St. Germain L., Williams A., Balbaa N., Poskus A., Leshchyshen O., Lohse KR., & Carter MJ. (2022). Increased perceptions of autonomy through choice fail to enhance motor skill retention. *Journal of Experimental Psychology: Human Perception and Performance*. ---
+[{{< ai doi >}}](){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/){target="_blank" style="color: inherit;"}
+[{{< fa brands github >}}](){target="_blank" style="color: inherit;"}
+
+
+## 2021 
+
+*Note. Parental leave January 2021 to August 2021*
+
+- McKay B., Hussien J., Carter MJ., Yantha ZD., & Ste-Marie DM. (2021). Expecting to teach a novel golf putting task did not enhance retention performance: A replication attempt of Daou and colleagues. *Communications in Kinesiology*. ---
+[{{< ai doi >}}](https://doi.org/10.51224/cik.v1i2.39){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2021_mckay-etal_expecting-to-teach-a-novel-golf-putting-task-did-not-enhance-retention-performance-a-replication-attempt-of-daou-and-colleag.pdf){target="_blank" style="color: inherit;"}
+[{{< fa brands github >}}](https://github.com/cartermaclab/expt_expect-to-teach){target="_blank" style="color: inherit;"}
+
+
+## 2020 
+
+*Note. Lab shutdown from COVID-19 pandemic*
+
+
+## 2019
+
+- Ste-Marie DM., Carter MJ., & Yantha ZD. (2020). Self-controlled learning: Current findings, theoretical perspectives, and future directions. In N.J. Hodges & A.M. Williams (Eds.), *Skill Acquisition in Sport: Research, theory, and practice* (3rd ed.). Routledge. ---
+[{{< ai doi >}}](https://doi.org/10.4324/9781351189750-7){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2019_ste-marie-etal_self-controlled-learning.pdf){target="_blank" style="color: inherit;"}
+
+- Barros JAC., Yantha ZD., Carter MJ., Hussien J., & Ste-Marie DM. (2019). Examining the impact of error estimation on the effects of self-controlled feedback. *Human Movement Science*. ---
+[{{< ai doi >}}](https://doi.org/10.1016/j.humov.2018.12.002){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2019_barros-etal_examining-the-impact-of-error-estimation-on-the-effects-of-self-controlled-feedback.pdf){target="_blank" style="color: inherit;"}
+
+
+## 2018
+
+- Carter MJ., Smith V., Carlsen AN., & Ste-Marie DM. (2018). Anodal transcranial direct current stimulation over the primary motor cortex does not enhance the learning benefits of self-controlled feedback schedules. *Psychological Research*. ---
+[{{< ai doi >}}](https://doi.org/10.1007/s00426-017-0846-x){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2018_carter-etal_anodal-transcranial-direct-current-stimulation-over-the-primary-motor-cortex-does-not-enhance-the-learning-benefits-of-self-c.pdf){target="_blank" style="color: inherit;"}
+
+## 2017
+
+- Carter MJ., & Ste-Marie DM. (2017). Not all choices are created equal: Task-relevant choices enhance motor learning compared to task-irrelevant choices. *Psychonomic Bulletin & Review*. ---
+[{{< ai doi >}}](https://doi.org/10.3758/s13423-017-1250-7){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2017_carter-ste-marie_not-all-choices-are-created-equal-task-relevant-choices-enhance-motor-learning-compared-to-task-irrelevant-choices.pdf){target="_blank" style="color: inherit;"}
+
+- Carter MJ., & Ste-Marie DM. (2017). An interpolated activity during the knowledge-of-results delay interval eliminates the learning advantages of self-controlled feedback schedules. *Psychological Research*. ---
+[{{< ai doi >}}](https://doi.org/10.1007/s00426-016-0757-2){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2017_carter-ste-marie_an-interpolated-activity-during-the-knowledge-of-results-delay-interval-eliminates-the-learning-advantages-of-self-controlled.pdf){target="_blank" style="color: inherit;"}
+
+- Carter MJ., & Maslovat D., & Carlsen AN. (2017). Intentional switches between coordination patterns are faster following anodal-tDCS applied over the supplementary motor area. *Brain Stimulation*. ---
+[{{< ai doi >}}](https://doi.org/10.1016/j.brs.2016.11.002){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2017_carter-etal_intentional-switches-between-coordination-patterns-are-faster-following-anodal-tdcs-applied-over-the-supplementary-motor-area.pdf){target="_blank" style="color: inherit;"}
+
+- Maslovat D., Carter MJ., & Carlsen AN. (2017). Response preparation and execution during intentional bimanual pattern switching. *Journal of Neurophysiology*. ---
+[{{< ai doi >}}](2017_maslovat-etal_response-preparation-and-execution-during-intentional-bimanual-pattern-switching.pdf){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2017_maslovat-etal_response-preparation-and-execution-during-intentional-bimanual-pattern-switching.pdf){target="_blank" style="color: inherit;"}
+
+## 2016
+
+- Carter MJ., Smith V., & Ste-Marie DM. (2016). Judgments of learning are significantly higher following feedback on relatively good versus relatively poor trials despite no actual learning differences. *Human Movement Science*. ---
+[{{< ai doi >}}](https://doi.org/10.1016/j.humov.2015.11.006){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2016_carter-etal_judgments-of-learning-are-significantly-higher-following-feedback-on-relatively-good-versus-relatively-poor-trials-despite-no.pdf){target="_blank" style="color: inherit;"}
+
+- Carter MJ., Rathwell S., & Ste-Marie DM. (2016). Motor skill retention is modulated by strategy choice during self-controlled knowledge of results schedules. *Journal of Motor Learning and Development*. ---
+[{{< ai doi >}}](https://doi.org/10.1123/jmld.2015-0023){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2016_carter-etal_motor-skill-retention-is-modulated-by-strategy-choice-during-self-controlled-knowledge-of-results-schedules.pdf){target="_blank" style="color: inherit;"}
+
+- Martini R., Carter MJ., Yoxon E., Cumming J., & Ste-Marie DM. (2016). Development and validation of the Movement Imagery Questionnaire for Children (MIQ-C). *Psychology of Sport and Exercise*. ---
+[{{< ai doi >}}](https://doi.org/10.1016/j.psychsport.2015.08.008){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2016_martini-etal_development-and-validation-of-the-movement-imagery-questionnaire-for-children-miq-c.pdf){target="_blank" style="color: inherit;"}
+
+- Patterson JT., Hart A., Hansen S., Carter MJ., & Ditor D. (2016). Measuring investment in learning: Can electrocardiogram provide an indication of cognitive effort during learning?. *Perceptual and Motor Skills*. ---
+[{{< ai doi >}}](https://doi.org/10.1177/0031512516633348){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2016_patterson-etal_measuring-investment-in-learning-can-electrocardiogram-provide-an-indication-of-cognitive-effort-during-learning.pdf){target="_blank" style="color: inherit;"}
+
+- Ste-Marie DM., Carter MJ., Law B., Vertes K., & Smith V. (2016). Self-controlled learning benefits: exploring contributions of self-efficacy and intrinsic motivation via path analysis. *Journal of Sports Sciences*. ---
+[{{< ai doi >}}](https://doi.org/10.1080/02640414.2015.1130236){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2016_ste-marie-etal_self-controlled-learning-benefits-exploring-contributions-of-self-efficacy-and-intrinsic-motivation-via-path-analysis.pdf){target="_blank" style="color: inherit;"}
+
+## 2015
+
+- Carter MJ., Maslovat D., & Carlsen AN. (2015). Anodal transcranial direct current stimulation applied over the supplementary motor area delays spontaneous antiphase-to-in-phase transitions. *Journal of Neurophysiology*. ---
+[{{< ai doi >}}](https://doi.org/10.1152/jn.00662.2014){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2015_carter-etal_anodal-transcranial-direct-current-stimulation-applied-over-the-supplementary-motor-area-delays-spontaneous-antiphase-to-in-p.pdf){target="_blank" style="color: inherit;"}
+
+- Maslovat D., Drummond NM., Carter MJ., & Carlsen AN. (2015). Reduced motor preparation during dual-task performance: Evidence from startle. *Experimental Brain Research*. ---
+[{{< ai doi >}}](https://doi.org/10.1007/s00221-015-4340-7){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2015_maslovat-etal_reduced-motor-preparation-during-dual-task-performance-evidence-from-startle.pdf){target="_blank" style="color: inherit;"}
+
+- Maslovat D., Drummond NM., Carter MJ., & Carlsen AN. (2015). Startle activation is additive with voluntary cortical activation irrespective of stimulus modality. *Neuroscience Letters*. ---
+[{{< ai doi >}}](https://doi.org/10.1016/j.neulet.2015.08.053){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2015_maslovat-etal_startle-activation-is-additive-with-voluntary-cortical-activation-irrespective-of-stimulus-modality.pdf){target="_blank" style="color: inherit;"}
+
+## 2014
+
+- Carter MJ., Carlsen AN., & Ste-Marie DM. (2014). Self-controlled feedback is effective if it is based on the learner’s performance: a replication and extension of Chiviacowsky and Wulf (2005). *Frontiers in Psychology*. ---
+[{{< ai doi >}}](https://doi.org/10.3389/fpsyg.2014.01325){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2014_carter-etal_self-controlled-feedback-is-effective-if-it-is-based-on-the-learners-performance-a-replication-and-extension-of-chiviacow.pdf){target="_blank" style="color: inherit;"}
+
+- Maslovat D., Carter MJ., Kennefick M., & Carlsen AN. (2014). Startle neural activity is additive with normal cortical initiation-related activation. *Neuroscience Letters*. ---
+[{{< ai doi >}}](https://doi.org/10.1016/j.neulet.2013.11.009){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2014_maslovat-etal_startle-neural-activity-is-additive-with-normal-cortical-initiation-related-activation.pdf){target="_blank" style="color: inherit;"}
+
+## 2013
+
+- Bajema MC., MacKinnon CD., Carter MJ., Kennefick M., Perlmutter S., & Carlsen AN. (2013). Pause time alters the preparation of two-component movements. *Experimental Brain Research*. ---
+[{{< ai doi >}}](https://doi.org/10.1007/s00221-013-3670-6){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2013_bajema-etal_pause-time-alters-the-preparation-of-two-component-movements.pdf){target="_blank" style="color: inherit;"}
+
+- Patterson JT., Carter MJ., & Hansen S. (2013). Self-controlled KR schedules: Does repetition order matter?. *Human Movement Science*. ---
+[{{< ai doi >}}](https://doi.org/10.1016/j.humov.2013.03.005){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2013_patterson-etal_self-controlled-kr-schedules-does-repetition-order-matter.pdf){target="_blank" style="color: inherit;"}
+
+## 2012
+
+- Carter MJ. & Patterson JT. (2012). Self-controlled knowledge of results: Age-related differences in motor learning, strategies, and error detection. *Human Movement Science*. ---
+[{{< ai doi >}}](https://doi.org/10.1016/j.humov.2012.07.008){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2012_carter-patterson_self-controlled-knowledge-of-results-age-related-differences-in-motor-learning,-strategies,-and-error-detection.pdf){target="_blank" style="color: inherit;"}
+
+## 2011
+
+- Patterson JT., Carter MJ., & Sanli E. (2011). Decreasing the proportion of self-control trials during the acquisition period does not compromise the learning advantages in a self-controlled context. *Research Quarterly for Exercise and Sport*. ---
+[{{< ai doi >}}](https://doi.org/10.1080/02701367.2011.10599799){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2011_patterson-etal_decreasing-the-proportion-of-self-control-trials-during-the-acquisition-period-does-not-compromise-t.pdf){target="_blank" style="color: inherit;"}
+
+## 2010
+
+- Patterson JT. & Carter MJ. (2010). Learner regulated knowledge of results during the acquisition of multiple timing goals. *Human Movement Science*. ---
+[{{< ai doi >}}](https://doi.org/10.1016/j.humov.2009.12.003){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2010_patterson-carter_learner-regulated-knowledge-of-results-during-the-acquisition-of-multiple-timing-goals.pdf){target="_blank" style="color: inherit;"}

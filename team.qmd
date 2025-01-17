@@ -1,42 +1,75 @@
 ---
 title: "Meet the team"
 toc: false
-listing:
-  - id: senior
-    contents: "team/senior/*.qmd"
-    type: grid
-    image-height: 225px
-    grid-columns: 3
-    fields: 
-      - image
-      - title
-      - subtitle
-    sort: sortby
-    field-display-names: 
-      started: "Started"
-  - id: junior
-    contents: "team/junior/*.qmd"
-    type: grid
-    image-height: 225px
-    grid-columns: 3
-    fields: 
-      - image
-      - title
-      - subtitle
-    sort: sortby
-    field-display-names: 
-      started: "Started"
 ---
 
-## Senior members
+<style>
+.team-member {
+  display: flex;
+  align-items: center;
+  padding: 20px; /* Add padding around each team member */
+  border: 1px solid #ddd; /* Optional: Add a border for better visual separation */
+  margin-bottom: 20px; /* Add space between each team member */
+}
 
-:::{#senior}
-:::
+.team-img {
+  margin-right: 20px;
+  width: 175px; /* Set the desired width */
+  height: 175px; /* Set the desired height */
+  border-radius: 50%; /* Make the image rounded */
+  object-fit: cover; /* Ensure the image covers the area */
+}
 
-## Junior members
+.team-info {
+  display: flex;
+  flex-direction: column;
+}
+</style>
 
-:::{#junior}
-:::
+<div class="team-member">
+  <img src="images/mike-carter.jpg" alt="images/mike-carter.jpg" class="team-img">
+  <div class="team-info">
+  <h4> Mike Carter, Ph.D. </h4>
+  <p> Assistant Professor | Principal Investigator </p>
+  <p> cartem11 [at] mcmaster [dot] ca </p>
+  </div>
+</div>
+
+<div class="team-member">
+  <img src="images/jack-tang.jpg" alt="images/jack-tang.jpg" class="team-img">
+  <div class="team-info">
+  <h4> Jiaqiao Tang, M.Sc.PT </h4>
+  <p> Ph.D. Student </p>
+  <p> tangj24 [at] mcmaster [dot] ca</p>
+  </div>
+</div>
+
+<div class="team-member">
+  <img src="images/mikayla-lalli.jpg" alt="images/mikayla-lalli.jpg" class="team-img">
+  <div class="team-info">
+  <h4> Mikayla Lalli, M.Sc. </h4>
+  <p> Ph.D. Student </p>
+  <p> lallim1 [at] mcmaster [dot] ca </p>
+  </div>
+</div>
+
+<div class="team-member">
+  <img src="images/nour-al-afif.jpg" alt="images/nour-al-afif.jpg" class="team-img">
+  <div class="team-info">
+  <h4> Nour Al Afif, M.Sc. </h4>
+  <p> Ph.D. Student </p>
+  <p> alafin1 [at] mcmaster [dot] ca </p>
+  </div>
+</div>
+
+<div class="team-member">
+  <img src="images/daniel-deletsu.jpg" alt="images/nour-alfif.jpg" class="team-img">
+  <div class="team-info">
+  <h4> Daniel Deletsu, B.Sc. </h4>
+  <p> M.Sc. Student </p>
+  <p> deletsud [at] mcmaster [dot] ca </p>
+  </div>
+</div>
 
 ## Collaborators
 
@@ -49,6 +82,7 @@ Some of our other collaborators include:
 [Matthew Miller](http://www.education.auburn.edu/initiatives/performance-exercise-psychophysiology-lab-pep-matt-miller-ph-d/) | School of Kinesiology, Auburn University  
 [Mariane Bacelar](https://www.boisestate.edu/kinesiology/faculty-and-staff-mariane-bacelar-phd/) | Department of Kinesiology, Boise State University
 
+
 ## Alumni
 
 Former lab members and what they did after leaving the lab or what they are currently doing (if known).
@@ -57,8 +91,11 @@ Former lab members and what they did after leaving the lab or what they are curr
 
 **Brad McKay** (2021-23); *Senior Strategist of Training Design, Milwaukee Brewers*
 
+
 ### Graduate students
 
+**Mikayla Lalli**, M.Sc. Kinesiology (2022-24); *Ph.D. student in the lab*.  
+**Nour Al Afif**, M.Sc. Kinesiology (2022-24); *Ph.D. student in the lab*  
 **Laura St. Germain**, Ph.D. Kinesiology (2018-23); *Research and Data Specialist at Sheridan College*  
 **Mirette Mounir**, M.Sc. Kinesiology (2019-21); *Dentistry at Western University*  
 **Rajbir Sihu**, M.Sc. Kinesiology (2019-21); *Dentistry at the University of Toronto*
