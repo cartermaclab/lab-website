@@ -7,17 +7,17 @@ toc: false
 .team-member {
   display: flex;
   align-items: center;
-  padding: 20px; /* Add padding around each team member */
-  border: 1px solid #ddd; /* Optional: Add a border for better visual separation */
-  margin-bottom: 20px; /* Add space between each team member */
+  padding: 20px; 
+  border: 1px solid #ddd;
+  margin-bottom: 20px;
 }
 
 .team-img {
   margin-right: 20px;
-  width: 175px; /* Set the desired width */
-  height: 175px; /* Set the desired height */
-  border-radius: 50%; /* Make the image rounded */
-  object-fit: cover; /* Ensure the image covers the area */
+  width: 175px;
+  height: 175px;
+  border-radius: 50%;
+  object-fit: cover;
 }
 
 .team-info {
@@ -63,11 +63,204 @@ toc: false
 </div>
 
 <div class="team-member">
-  <img src="images/daniel-deletsu.jpg" alt="images/nour-alfif.jpg" class="team-img">
+  <img src="images/daniel-deletsu.jpg" alt="images/daniel-deletsu.jpg" class="team-img">
   <div class="team-info">
   <h4> Daniel Deletsu, B.Sc. </h4>
   <p> M.Sc. Student </p>
   <p> deletsud [at] mcmaster [dot] ca </p>
+  </div>
+</div>
+
+<div class="team-member">
+  <img src="images/lab-logo.png" alt="images/" class="team-img">
+  <div class="team-info">
+  <h4> Andrea Albert Pravin </h4>
+  <p> Undergraduate thesis student </p>
+  <p> BIOLOGY 4C12 </p>
+  </div>
+</div>
+
+<div class="team-member">
+  <img src="images/lab-logo.png" alt="images/" class="team-img">
+  <div class="team-info">
+  <h4> Faris Almoni </h4>
+  <p> Undergraduate practicum student </p>
+  <p> LIFESCI 4A03 </p>
+  </div>
+</div>
+
+<div class="team-member">
+  <img src="images/lab-logo.png" alt="images/" class="team-img">
+  <div class="team-info">
+  <h4> Gaile Cheng </h4>
+  <p> Undergraduate practicum student </p>
+  <p> SCIENCE 2RP3 </p>
+  </div>
+</div>
+
+<div class="team-member">
+  <img src="images/michael-croteau.jpg" alt="images/michael-croteau.jpg" class="team-img">
+  <div class="team-info">
+  <h4> Michael Croteau </h4>
+  <p> Undergraduate thesis student </p>
+  <p> NEUROSCI 4L12 A/B </p>
+  </div>
+</div>
+
+<div class="team-member">
+  <img src="images/lab-logo.png" alt="images/" class="team-img">
+  <div class="team-info">
+  <h4> Enuri Dissanayake </h4>
+  <p> Undergraduate thesis student </p>
+  <p> LIFESCI 4C12 </p>
+  </div>
+</div>
+
+<div class="team-member">
+  <img src="images/lab-logo.png" alt="images/" class="team-img">
+  <div class="team-info">
+  <h4> Leo Ducharme </h4>
+  <p> Undergraduate thesis student </p>
+  <p> PNB 4D06 </p>
+  </div>
+</div>
+
+<div class="team-member">
+  <img src="images/lab-logo.png" alt="images/" class="team-img">
+  <div class="team-info">
+  <h4> Tara Esbati </h4>
+  <p> Undergraduate project student </p>
+  <p> PNB 3QQ3 </p>
+  </div>
+</div>
+
+<div class="team-member">
+  <img src="images/lab-logo.png" alt="images/" class="team-img">
+  <div class="team-info">
+  <h4> Shiuli Khanna </h4>
+  <p> Undergraduate thesis student </p>
+  <p> NEUROSCI 4L12 A/B </p>
+  </div>
+</div>
+
+<div class="team-member">
+  <img src="images/lab-logo.png" alt="images/" class="team-img">
+  <div class="team-info">
+  <h4> Linsea Martin </h4>
+  <p> Undergraduate project student </p>
+  <p> PNB 3QQ3 </p>
+  </div>
+</div>
+
+<div class="team-member">
+  <img src="images/courtney-nguyen.jpg" alt="images/" class="team-img">
+  <div class="team-info">
+  <h4> Courtney Nguyen </h4>
+  <p> Undergraduate thesis student </p>
+  <p> HTHSCI 4A15 </p>
+  </div>
+</div>
+
+<div class="team-member">
+  <img src="images/shiv-peshwa.jpg" alt="images/" class="team-img">
+  <div class="team-info">
+  <h4> Shiv Peshwa </h4>
+  <p> Undergraduate practicum student </p>
+  <p> KINESIOL 3RP3 </p>
+  </div>
+</div>
+
+<div class="team-member">
+  <img src="images/lab-logo.png" alt="images/" class="team-img">
+  <div class="team-info">
+  <h4> Dana Rugole </h4>
+  <p> Undergraduate research assistant </p>
+  <p> Volunteer (Biochemistry) </p>
+  </div>
+</div>
+
+<div class="team-member">
+  <img src="images/lab-logo.png" alt="images/" class="team-img">
+  <div class="team-info">
+  <h4> Nicole Su </h4>
+  <p> Undergraduate thesis student </p>
+  <p> BIOLOGY 4C12 </p>
+  </div>
+</div>
+
+<div class="team-member">
+  <img src="images/vida-sussman.jpg" alt="images/" class="team-img">
+  <div class="team-info">
+  <h4> Vida Sussman </h4>
+  <p> Undergraduate project student </p>
+  <p> PNB 3QQ3 </p>
+  </div>
+</div>
+
+<div class="team-member">
+  <img src="images/eshaa-tariq.jpg" alt="images/" class="team-img">
+  <div class="team-info">
+  <h4> Eshaa Tariq </h4>
+  <p> Undergraduate research assistant </p>
+  <p> Volunteer (Kinesiology) </p>
+  </div>
+</div>
+
+<div class="team-member">
+  <img src="images/eleanore-wu.png" alt="images/" class="team-img">
+  <div class="team-info">
+  <h4> Eleanore Wu </h4>
+  <p> Undergraduate research assistant </p>
+  <p> Volunteer (Kinesiology) </p>
+  </div>
+</div>
+
+<div class="team-member">
+  <img src="images/jacqueline-zheng.jpg" alt="images/" class="team-img">
+  <div class="team-info">
+  <h4> Jacqueline Zheng </h4>
+  <p> Undergraduate thesis student </p>
+  <p> NEUROSCI 4L09 </p>
+  </div>
+</div>
+
+<div class="team-member">
+  <img src="images/headshot_duck-bryan.jpg" alt="images/headshot_duck-bryan.jpg" class="team-img">
+  <div class="team-info">
+  <h4> Duck Bryan </h4>
+  <p> Lab duck </p>
+  </div>
+</div>
+
+<div class="team-member">
+  <img src="images/headshot_duck-joy.jpg" alt="images/headshot_duck-joy.jpg" class="team-img">
+  <div class="team-info">
+  <h4> Duck Joy </h4>
+  <p> Lab duck </p>
+  </div>
+</div>
+
+<div class="team-member">
+  <img src="images/headshot_duck-norris.jpg" alt="images/headshot_duck-norris.jpg" class="team-img">
+  <div class="team-info">
+  <h4> Duck Norris </h4>
+  <p> Lab duck </p>
+  </div>
+</div>
+
+<div class="team-member">
+  <img src="images/headshot_ducky-parton.jpg" alt="images/headshot_ducky-parton.jpg" class="team-img">
+  <div class="team-info">
+  <h4> Ducky Parton </h4>
+  <p> Lab duck </p>
+  </div>
+</div>
+
+<div class="team-member">
+  <img src="images/headshot_lil-quack.jpg" alt="images/headshot_lil-quack.jpg" class="team-img">
+  <div class="team-info">
+  <h4> Lil Quack </h4>
+  <p> Lab duck </p>
   </div>
 </div>
 
@@ -76,6 +269,7 @@ toc: false
 The lab maintains active and extensive research collaborations with:  
 [Joshua Cashaback](https://joshcashaback.weebly.com/) | Department of Biomedical Engineering, University of Delaware  
 [Brad Mckay](https://bradmckay-motor-meta.netlify.app/) | Milwaukee Brewers  
+[Jonathan Cannon](https://metre.mcmaster.ca/) | Department of Psychology, Neuroscience, and Behaviour, McMaster University  
 
 Some of our other collaborators include:  
 [Keith Lohse](https://sites.google.com/site/lohsekr/) | Department of Neurology, Washington University School of Medicine in Saint Louis  
@@ -109,7 +303,7 @@ Lidia Barbera (2023-24); Hibaa Hasan (2023-24); Ola Schwarzenberg (2023-24); Mit
 
 #### Research practicum / project
 
-Jacqueline Zheng (2023-24); Abby Girouard (2023-24); Michael Croteau (2024); Aditya Trivedi (2024); Navishka Brahmbhatt (2024); Francesca Caputo (2024); Jil Soni (2024); Enuri Dissanayake (2023); Jeswende Seedu (2022-23); Vivian Li (2022); Caroline Jarvi (2022); Gurlal Gill (2021); Anita Chaseendran (2021); Gianna Jeyarajan (2021); Mackenzie (Kenzie) Bell (2021); Ashton Yuen (2021); Charlie Violin (2021); Ammaar Jan (2020); Faran Chaudhry (2020); Yu (Sarah) Fu (2020); Andrew Poskus (2019); Maya El-Zahed (2019); Grant Yang (2019); Olena Leshchyshen (2019); Rita Waseem (2019); Christian Kleiser (2018); Christopher Li (2018); Faryal Zahir (2018)
+Aashna Gujral (2024); Dami Alabi Benson (2024); Jacqueline Zheng (2023-24); Abby Girouard (2023-24); Michael Croteau (2024); Aditya Trivedi (2024); Navishka Brahmbhatt (2024); Francesca Caputo (2024); Jil Soni (2024); Enuri Dissanayake (2023); Jeswende Seedu (2022-23); Vivian Li (2022); Caroline Jarvi (2022); Gurlal Gill (2021); Anita Chaseendran (2021); Gianna Jeyarajan (2021); Mackenzie (Kenzie) Bell (2021); Ashton Yuen (2021); Charlie Violin (2021); Ammaar Jan (2020); Faran Chaudhry (2020); Yu (Sarah) Fu (2020); Andrew Poskus (2019); Maya El-Zahed (2019); Grant Yang (2019); Olena Leshchyshen (2019); Rita Waseem (2019); Christian Kleiser (2018); Christopher Li (2018); Faryal Zahir (2018)
 
 #### Research assistants
 
