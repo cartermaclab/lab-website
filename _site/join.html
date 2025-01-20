@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.57">
+<meta name="generator" content="quarto-1.6.40">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -31,10 +31,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-58110b82337caefd93b6521b0116e960.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-29d7c024db8313b9b37b5189e063308b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -156,16 +156,22 @@ ul.task-list li input[type="checkbox"] {
 <section id="undergraduate-student-opportunities" class="level2">
 <h2 class="anchored" data-anchor-id="undergraduate-student-opportunities">Undergraduate student opportunities</h2>
 <p>Undergraduate students are vital to the lab’s success and we love working with students from different academic programs and backgrounds. Undergraduate students will have the opportunity to work in the lab as part of their undergraduate degree requirements (e.g., research practicums, honour’s thesis, etc) or to explore an interest in sensorimotor neuroscience by gaining experience as a volunteer research assistant. You will have the opportunity to contribute to all stages of the research process, with the goal of disseminating your findings at an academic conference and/or in a peer-reviewed journal. There is also the possibility of paid summer positions depending on your experience and the availability of funds; however, these positions are generally given to students who have already worked in the lab.</p>
-<p>If you are interested in joining the team, please email your completed <a href="https://raw.githubusercontent.com/cartermaclab/lab-website/master/files/2024_carterlab_undergraduate-application-form.pdf" target="_blank">application form</a>, an up-to-date curriculum vitae, and unofficial transcripts to cartem11@mcmaster.ca.</p>
-<p><strong>The application period for practicum, project, and thesis courses for the 2024-25 academic year is now closed.</strong></p>
-<p>Please be aware that volunteer research assistant positions are filled on a rolling basis and as needed.</p>
+<p>If you are interested in joining the team, please email your completed <a href="https://raw.githubusercontent.com/cartermaclab/lab-website/master/files/2024_carterlab_undergraduate-application-form.pdf" target="_blank">application form</a>, an up-to-date curriculum vitae, and unofficial transcripts to motorlab [at] mcmaster [dot] ca.</p>
+<p><font color="#d08770"><strong>The application period is now open for students interested in a practicum, project, thesis, or volunteer position in the lab for the 2025-26 academic year.</strong></font></p>
+<ul>
+<li>Applications will be received until Friday, February 28, 2025</li>
+<li>Applicants selected for an interview will be notified by Friday, March 7, 2025</li>
+<li>Interviews will take place in mid-to-late March</li>
+<li>Offers for a practicum, project, or thesis position in the lab will be sent to selected students by Monday, March 31, 2025</li>
+</ul>
+<p>Please be aware that volunteer research assistant positions are also filled on a rolling basis and as needed.</p>
 </section>
 <section id="graduate-student-opportunities" class="level2">
 <h2 class="anchored" data-anchor-id="graduate-student-opportunities">Graduate student opportunities</h2>
 <p>The study of sensorimotor behaviour is multidisciplinary so students with backgrounds in the areas of, but not limited to, kinesiology, neuroscience, psychology, life or health sciences, engineering, or computer science are encouraged to apply. There are a limited number of graduate student positions in the lab at any given time. This approach allows for a more individualized training environment for each student, larger research stipends/bursaries, and the option to attend 1-2 academic conferences each year. Students interested in completing their M.Sc or Ph.D studies in the lab are encouraged to consult the relevant information pertaining to graduate studies in the <a href="https://www.science.mcmaster.ca/kinesiology/graduate/graduate-studies.html" target="_blank">Department of Kinesiology</a> and the <a href="https://gs.mcmaster.ca/" target="_blank">School of Graduate Studies</a>.</p>
 <section id="m.sc-and-ph.d-applicants" class="level3">
 <h3 class="anchored" data-anchor-id="m.sc-and-ph.d-applicants">M.Sc and Ph.D applicants</h3>
-<p>If you are interested in completing your M.Sc or Ph.D in the lab, please email Dr.&nbsp;Carter (cartem11@mcmaster.ca) an up-to-date curriculum vitae, unofficial academic transcripts, and a 1-page statement of research interests.</p>
+<p>If you are interested in completing your M.Sc or Ph.D in the lab, please email Dr.&nbsp;Carter (cartem11 [at] mcmaster [dot] ) an up-to-date curriculum vitae, unofficial academic transcripts, and a 1-page statement of research interests.</p>
 
 
 </section>
@@ -254,8 +260,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -366,7 +370,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
-      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
