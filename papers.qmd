@@ -13,9 +13,17 @@ toc-title: "Jump to..."
 - de Brouwer AJ., Carter MJ., Smail LC., Wolpert DM., Gallivan JP., & Flanagan JR. (2020). Gaze behaviour reveals flexible encoding of competing reach goals under conditions of target uncertainty. *bioR$\chi$iv*. ---
 [{{< ai doi >}}](https://doi.org/10.1101/2020.09.02.279414){target="_blank" style="color: inherit;"}
 
+## In Press
+
+- McKay B., Bacelar MFB., Parma JO., Miller MW., & Carter, MJ. (2023). The combination of reporting bias and underpowered study designs has substantially exaggerated the motor learning benefits of self-controlled practice and enhanced expectancies: A meta-analysis. *International Review of Sport and Exercise Psychology*. ---
+[{{< ai doi >}}](https://doi.org/10.1080/1750984X.2023.2207255){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2023_mckay-etal_the-combination-of-reporting-bias-and-underpowered-study-designs-has-substantially-exaggerated-the-motor-learning-benefits-of.pdf){target="_blank" style="color: inherit;"}
+[{{< fa brands github >}}](https://github.com/cartermaclab/proj_sc-ee-optimal-theory){target="_blank" style="color: inherit;"}
+
+
 ## 2025
 
-- St. Germain L., McKay B., Tandon C., Seedu J., Barbera L., Carrillo C., Brown D.M.Y., & Carter, MJ. (2025). Autonomy-supportive instructional language does not enhance skill acquisition compared to controlling instructional language. *Psychological Research*. ---
+- St. Germain L., McKay B., Tandon C., Seedu J., Barbera L., Carrillo C., Brown DMY., & Carter, MJ. (2025). Autonomy-supportive instructional language does not enhance skill acquisition compared to controlling instructional language. *Psychological Research*. ---
 [{{< ai doi >}}](https://doi.org/10.1007/s00426-024-02059-z){target="_blank" style="color: inherit;"}
 [{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2025_st-germain-etal_autonomy-supportive-instructional-language-does-not-enhance-skill-acquisition-compared-to-controlling-instructional-language.pdf){target="_blank" style="color: inherit;"}
 [{{< fa brands github >}}](https://github.com/cartermaclab/expt_instructional-language){target="_blank" style="color: inherit;"}
@@ -28,7 +36,7 @@ toc-title: "Jump to..."
 [{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2024_mckay-etal_reporting-bias-not-external-focus-a-robust-bayesian-meta-analysis-and-systematic-review-of-the-external-focus-of-attention.pdf){target="_blank" style="color: inherit;"}
 [{{< fa brands github >}}](https://github.com/cartermaclab/proj_foa-optimal-theory){target="_blank" style="color: inherit;"}
 
-- Roth AM., Buggeln JH., Hoh JE., Wood JM., Sullivan SR., Ngo TT., Calalo JA., Lokesh R., Morton SM., Grill S., Jeka JJ., Carter MJ., & Cashaback JGA. (2024). Roles and interplay of reinforcement-based and error-based processes during reaching and gait in neurotypical adults and individuals with Parkinson’s disease *PLoS Computational Biology*. ---
+- Roth AM., Buggeln JH., Hoh JE., Wood JM., Sullivan SR., Ngo TT., Calalo JA., Lokesh R., Morton SM., Grill S., Jeka JJ., Carter MJ., & Cashaback JGA. (2024). Roles and interplay of reinforcement-based and error-based processes during reaching and gait in neurotypical adults and individuals with Parkinson’s disease. *PLoS Computational Biology*. ---
 [{{< ai doi >}}](https://doi.org/10.1371/journal.pcbi.1012474){target="_blank" style="color: inherit;"}
 [{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2024_roth-etal_roles-and-interplay-of-reinforcement-based-and-error-based-processes-during-reaching-and-gait-in-neurotypical-adults-and-indi.pdf){target="_blank" style="color: inherit;"}
 [{{< fa brands github >}}](https://github.com/CashabackLab/Roles_and_Interplay_of_Reinforcement_and_Error){target="_blank" style="color: inherit;"}
@@ -39,11 +47,6 @@ toc-title: "Jump to..."
 
 
 ## 2023
-
-- McKay B., Bacelar MFB., Parma JO., Miller MW., & Carter, MJ. (2023). The combination of reporting bias and underpowered study designs has substantially exaggerated the motor learning benefits of self-controlled practice and enhanced expectancies: A meta-analysis. *International Review of Sport and Exercise Psychology*. ---
-[{{< ai doi >}}](https://doi.org/10.1080/1750984X.2023.2207255){target="_blank" style="color: inherit;"}
-[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2023_mckay-etal_the-combination-of-reporting-bias-and-underpowered-study-designs-has-substantially-exaggerated-the-motor-learning-benefits-of.pdf){target="_blank" style="color: inherit;"}
-[{{< fa brands github >}}](https://github.com/cartermaclab/proj_sc-ee-optimal-theory){target="_blank" style="color: inherit;"}
 
 - McKay B., Corson A., Vinh M., Jeyarajan G., Tandon C., Brooks H., Hubley J., & Carter MJ. (2023). Low prevalence of a priori power analyses in motor behavior research. *Journal of Motor Learning and Development*. ---
 [{{< ai doi >}}](https://doi.org/10.1123/jmld.2022-0042){target="_blank" style="color: inherit;"}
@@ -113,7 +116,7 @@ toc-title: "Jump to..."
 
 ## 2019
 
-- Ste-Marie DM., Carter MJ., & Yantha ZD. (2020). Self-controlled learning: Current findings, theoretical perspectives, and future directions. In N.J. Hodges & A.M. Williams (Eds.), *Skill Acquisition in Sport: Research, theory, and practice* (3rd ed.). Routledge. ---
+- Ste-Marie DM., Carter MJ., & Yantha ZD. (2019). Self-controlled learning: Current findings, theoretical perspectives, and future directions. In N.J. Hodges & A.M. Williams (Eds.), *Skill Acquisition in Sport: Research, theory, and practice* (3rd ed.). Routledge. ---
 [{{< ai doi >}}](https://doi.org/10.4324/9781351189750-7){target="_blank" style="color: inherit;"}
 [{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2019_ste-marie-etal_self-controlled-learning.pdf){target="_blank" style="color: inherit;"}
 
