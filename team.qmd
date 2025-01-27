@@ -117,7 +117,7 @@ toc: false
 </div>
 
 <div class="team-member">
-  <img src="images/lab-logo.png" alt="images/" class="team-img">
+  <img src="images/leo-ducharme.jpg" alt="images/leo-ducharme.jpg" class="team-img">
   <div class="team-info">
   <h4> Leo Ducharme </h4>
   <p> Undergraduate thesis student </p>
@@ -144,7 +144,7 @@ toc: false
 </div>
 
 <div class="team-member">
-  <img src="images/lab-logo.png" alt="images/" class="team-img">
+  <img src="images/linsea-martin.jpg" alt="images/linsea-martin.jpg" class="team-img">
   <div class="team-info">
   <h4> Linsea Martin </h4>
   <p> Undergraduate project student </p>
@@ -171,7 +171,7 @@ toc: false
 </div>
 
 <div class="team-member">
-  <img src="images/lab-logo.png" alt="images/" class="team-img">
+  <img src="images/dana-rugole.jpg" alt="images/dana-rugole.jpg" class="team-img">
   <div class="team-info">
   <h4> Dana Rugole </h4>
   <p> Undergraduate research assistant </p>
