@@ -72,7 +72,7 @@ toc: false
 </div>
 
 <div class="team-member">
-  <img src="images/lab-logo.png" alt="images/" class="team-img">
+  <img src="images/andrea-albert-pravin.jpg" alt="images/andrea-albert-pravin.jpg" class="team-img">
   <div class="team-info">
   <h4> Andrea Albert Pravin </h4>
   <p> Undergraduate thesis student </p>
@@ -81,7 +81,7 @@ toc: false
 </div>
 
 <div class="team-member">
-  <img src="images/lab-logo.png" alt="images/" class="team-img">
+  <img src="images/faris-almoni.jpg" alt="images/faris-almoni.jpg" class="team-img">
   <div class="team-info">
   <h4> Faris Almoni </h4>
   <p> Undergraduate practicum student </p>
@@ -135,7 +135,7 @@ toc: false
 </div>
 
 <div class="team-member">
-  <img src="images/lab-logo.png" alt="images/" class="team-img">
+  <img src="images/shiuli-khanna.jpg" alt="images/shiuli-khanna.jpg" class="team-img">
   <div class="team-info">
   <h4> Shiuli Khanna </h4>
   <p> Undergraduate thesis student </p>

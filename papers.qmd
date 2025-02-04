@@ -13,9 +13,10 @@ toc-title: "Jump to..."
 - de Brouwer AJ., Carter MJ., Smail LC., Wolpert DM., Gallivan JP., & Flanagan JR. (2020). Gaze behaviour reveals flexible encoding of competing reach goals under conditions of target uncertainty. *bioR$\chi$iv*. ---
 [{{< ai doi >}}](https://doi.org/10.1101/2020.09.02.279414){target="_blank" style="color: inherit;"}
 
+
 ## In Press
 
-- McKay B., Bacelar MFB., Parma JO., Miller MW., & Carter, MJ. (2023). The combination of reporting bias and underpowered study designs has substantially exaggerated the motor learning benefits of self-controlled practice and enhanced expectancies: A meta-analysis. *International Review of Sport and Exercise Psychology*. ---
+- McKay B., Bacelar MFB., Parma JO., Miller MW., & Carter, MJ. The combination of reporting bias and underpowered study designs has substantially exaggerated the motor learning benefits of self-controlled practice and enhanced expectancies: A meta-analysis. *International Review of Sport and Exercise Psychology*. ---
 [{{< ai doi >}}](https://doi.org/10.1080/1750984X.2023.2207255){target="_blank" style="color: inherit;"}
 [{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2023_mckay-etal_the-combination-of-reporting-bias-and-underpowered-study-designs-has-substantially-exaggerated-the-motor-learning-benefits-of.pdf){target="_blank" style="color: inherit;"}
 [{{< fa brands github >}}](https://github.com/cartermaclab/proj_sc-ee-optimal-theory){target="_blank" style="color: inherit;"}
