@@ -7,6 +7,8 @@ toc-title: "Jump to..."
 
 ## Preprints
 
+- Lalli, M., Al Afif, N., Tang, J., Hasan, H., Dissanayake, E., Sussman, V., Lokesh, R., Rathwell, S., Cashaback, JGA., & Carter, MJ. Preferences for costly cooperation are highly individualized. *PsyAr$\chi$iv*. --- [{{< ai doi >}}](https://doi.org/10.31234/osf.io/3qaeu_v3){target="_blank" style="color: inherit;"}
+
 - Calalo JA., Ngo TT., Sullivan SR., Strand K., Buggeln JH., Lokesh R., Roth AM., Carter MJ., Kurtzer IL., & Cashaback JGA. (2024). Online movements reflect ongoing deliberation. *bioR$\chi$iv*. ---
 [{{< ai doi >}}](https://doi.org/10.1101/2024.08.19.608669){target="_blank" style="color: inherit;"}
 

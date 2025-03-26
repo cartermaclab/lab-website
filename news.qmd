@@ -4,6 +4,10 @@ pagetitle: "CarterLab | News"
 toc: false
 ---
 
+<font color="#d08770">[March 03 2025].</font> **New Preprint**. Lalli, M., Al Afif, N., Tang, J., Hasan, H., Dissanayake, E., Sussman, V., Lokesh, R., Rathwell, S., Cashaback, J.G.A., & Carter, M.J. Preferences for costly cooperation are highly individualized. *PsyAr$\chi$iv*. [https://doi.org/10.31234/osf.io/3qaeu_v3](https://doi.org/10.31234/osf.io/3qaeu_v3){target="_blank"}
+
+<font color="#d08770">[January 20 2025].</font> **Announcement**. The application period is now open for students interested in a practicum, project, thesis, or volunteer position in the lab for the 2025-26 academic year. Please see [https://cartermaclab.org/join](https://cartermaclab.org/join) for details.
+
 <font color="#d08770">[October 21 2024].</font> **New milestone**. Congratulations to Nour Al Afif on successfully defending her MSc work. We are excited that Nour is staying in the lab for her doctoral studies.
 
 <font color="#d08770">[September 18 2024].</font> **Paper accepted**. Roth, A.M., Buggeln, J.H., Hoh, J., Woods, J.M., Sullivan, S.R., Ngo, T., Calalo, J.A., Lokesh, R., Morton, S.M., Grill, S., Jeka, J.J., Carter, M.J., & Cashaback, J.G.A. Roles and interplay of reinforcement-based and error-based processes during reaching and gait in neurotypical adults and individuals with Parkinson's disease. *PLoS Computational Biology*.

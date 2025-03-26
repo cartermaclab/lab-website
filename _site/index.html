@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.40">
+<meta name="generator" content="quarto-1.6.42">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -31,7 +31,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-58110b82337caefd93b6521b0116e960.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-07a4f449efea10ea765c379cd31b5a3e.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="site_libs/bootstrap/bootstrap-29d7c024db8313b9b37b5189e063308b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
@@ -51,6 +51,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -140,6 +169,7 @@ ul.task-list li input[type="checkbox"] {
 <p>The <strong>Action, Cognition, and Metascience Lab</strong> is an interdisciplinary research team interested in how the human brain controls and learns skilled actions in healthy and clinical populations. We also conduct metascience research to gain insights into research practices within kinesiology and related areas. The lab is located in the Ivor Wynne Centre, which is home to the <a href="https://www.science.mcmaster.ca/kinesiology/" target="_blank">Department of Kinesiology</a> within the <a href="https://www.science.mcmaster.ca/" target="_blank">Faculty of Science</a> at <a href="https://www.mcmaster.ca/" target="_blank">McMaster University</a>.</p>
 <section id="recent-lab-news" class="level4">
 <h4 class="anchored" data-anchor-id="recent-lab-news">Recent lab news ———</h4>
+<p><font color="#d08770">[March 03 2025].</font> <strong>New Preprint</strong>. Lalli, M., Al Afif, N., Tang, J., Hasan, H., Dissanayake, E., Sussman, V., Lokesh, R., Rathwell, S., Cashaback, J.G.A., &amp; Carter, M.J. Preferences for costly cooperation are highly individualized. <em>PsyAr<span class="math inline">\(\chi\)</span>iv</em>. <a href="https://doi.org/10.31234/osf.io/3qaeu_v3" target="_blank">https://doi.org/10.31234/osf.io/3qaeu_v3</a></p>
 <p><font color="#d08770">[January 20 2025].</font> <strong>Announcement</strong>. The application period is now open for students interested in a practicum, project, thesis, or volunteer position in the lab for the 2025-26 academic year. Please see <a href="https://cartermaclab.org/join">https://cartermaclab.org/join</a> for details.</p>
 
 
