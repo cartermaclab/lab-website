@@ -10,14 +10,11 @@ We are always seeking curious, creative, and self-motivated students to enhance 
 
 Undergraduate students are vital to the lab’s success and we love working with students from different academic programs and backgrounds. Undergraduate students will have the opportunity to work in the lab as part of their undergraduate degree requirements (e.g., research practicums, honour’s thesis, etc) or to explore an interest in sensorimotor neuroscience by gaining experience as a volunteer research assistant. You will have the opportunity to contribute to all stages of the research process, with the goal of disseminating your findings at an academic conference and/or in a peer-reviewed journal. There is also the possibility of paid summer positions depending on your experience and the availability of funds; however, these positions are generally given to students who have already worked in the lab.
 
-<font color="#d08770">**The application period is now open for students interested in a practicum, project, thesis, or volunteer position in the lab for the 2025-26 academic year.**</font>
+<font color="#d08770">**The application period is for practicum, project, or thesis positions in the lab for the 2025-26 academic year is now closed.**</font>
 
-- Applications will be received until Friday, February 28, 2025
-- Applicants selected for an interview will be notified by Friday, March 7, 2025
-- Interviews will take place in mid-to-late March
-- Offers for a practicum, project, or thesis position in the lab will be sent to selected students by Monday, March 31, 2025
-
+<!--
 If you are interested in joining the team, please email your completed [application form](https://raw.githubusercontent.com/cartermaclab/lab-website/master/files/2024_carterlab_undergraduate-application-form.pdf){target="_blank"}, an up-to-date curriculum vitae, and unofficial transcripts to motorlab [at] mcmaster [dot] ca. *Incomplete applications will not be reviewed.*
+-->
 
 General inquiries regarding other undergraduate opportunities in the lab such as NSERC USRA, Kinesiology Summer Research Award, MIRA Summer Research Fellowship, etc can be sent to cartem11 [at] mcmaster [dot] ca.
 
