@@ -1,7 +1,28 @@
 ---
-title: "Teaching"
+title: ""
 pagetitle: "CarterLab | Teaching"
 toc: false
 ---
 
-Updates in progress...
+```{r}
+#| echo: false
+
+library(markdown)
+library(tinytable)
+
+tibble::tibble(
+    `FALL 2025` = c(
+        "Motor Control and Learning (KINESIOL 2MC3)...*Coming soon*",
+        "Neurorehabilitation and Robotics (KINESIOL 4TT3)...*Coming soon*",
+        "Scientific Computing for Reproducible Science (KINESIOL 736)...*Coming soon*"
+        )
+) |> 
+    tt(width = 1) |> 
+    group_tt(i = list(
+        "Undergraduate courses" = 1,
+        "Graduate courses" = 3
+    )) |> 
+    format_tt(j = 1, markdown = TRUE) |> 
+    style_tt(i = 0, background = "#0077bb", color = "white") |> 
+    style_tt(i = c(1,4), background = "#eceff4", bold = TRUE)
+```

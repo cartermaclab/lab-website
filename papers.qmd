@@ -1,5 +1,5 @@
 ---
-title: "Papers"
+title: ""
 pagetitle: "CarterLab | Papers"
 toc: true
 toc-title: "Jump to..."

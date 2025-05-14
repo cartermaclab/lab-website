@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: ""
 pagetitle: "CarterLab | Research"
 toc: true
 ---

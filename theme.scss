@@ -1,21 +1,11 @@
 /*-- scss:defaults --*/
 
 // fonts
-@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Barlow:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital@0;1&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap');
-
-@import url('https://fonts.googleapis.com/css2?family=Space+Mono&display=swap');
-
-$headings-font-family: "Atkinson Hyperlegible", sans-serif !default;
-$font-family-sans-serif: "Atkinson Hyperlegible", sans-serif !default;
-$font-family-monospace: "Space Mono", monospace;
+$headings-font-family: "Roboto", sans-serif !default;
+$font-family-sans-serif: "Roboto Light", sans-serif !default;
+$font-family-monospace: "Roboto Mono", monospace;
 
 
 /*-- scss:rules --*/
