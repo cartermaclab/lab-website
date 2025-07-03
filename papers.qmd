@@ -15,7 +15,8 @@ toc-title: "Jump to..."
 
 ## Accepted or In Press
 
-- Calalo JA, Ngo T, Sullivan S, Roth A, Lokesh R, Buggeln JH, Strand K, Marchhart V, Carter MJ, Kurtzer I, & Cashaback JGA. (Accepted). Online movements reflect ongoing deliberation. *Journal of Neuroscience*.
+- Calalo JA, Ngo T, Sullivan S, Roth A, Lokesh R, Buggeln JH, Strand K, Marchhart V, Carter MJ, Kurtzer I, & Cashaback JGA. (Accepted). Online movements reflect ongoing deliberation. *Journal of Neuroscience*. ---
+[{{< ai doi >}}](https://doi.org/10.1523/JNEUROSCI.1913-24.2025){target="_blank" style="color: inherit;"}
 
 
 ## 2025
