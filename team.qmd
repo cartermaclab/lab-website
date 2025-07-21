@@ -39,7 +39,7 @@ toc: false
   <img src="images/jack-tang.jpg" alt="images/jack-tang.jpg" class="team-img">
   <div class="team-info">
   <h4> Jiaqiao Tang, M.Sc.PT </h4>
-  <p> Ph.D. Student </p>
+  <p> Ph.D. Candidate </p>
   <p> tangj24 [at] mcmaster [dot] ca</p>
   </div>
 </div>
@@ -63,20 +63,10 @@ toc: false
 </div>
 
 <div class="team-member">
-  <img src="images/daniel-deletsu.jpg" alt="images/daniel-deletsu.jpg" class="team-img">
-  <div class="team-info">
-  <h4> Daniel Deletsu, B.Sc. </h4>
-  <p> M.Sc. Candidate </p>
-  <p> deletsud [at] mcmaster [dot] ca </p>
-  </div>
-</div>
-
-
-<div class="team-member">
   <img src="images/michael-croteau.jpg" alt="images/michael-croteau.jpg" class="team-img">
   <div class="team-info">
   <h4> Michael Croteau </h4>
-  <p> M.Sc. Student </p>
+  <p> Incoming M.Sc. Student - Fall 2025 </p>
   <p> croteaum [at] mcmaster [dot] ca </p>
   </div>
 </div>
@@ -87,6 +77,15 @@ toc: false
   <h4> Maria Alex </h4>
   <p> Undergraduate Research Assistant </p>
   <p> McMaster Institute for Research on Aging 2025 Summer Research Fellowship Winner </p>
+  </div>
+</div>
+
+<div class="team-member">
+  <img src="images/lab-logo.png" alt="images/" class="team-img">
+  <div class="team-info">
+  <h4> Kaylen Rathwell </h4>
+  <p> Lab Technician </p>
+  <p> motorlab [at] mcmaster [dot] ca </p>
   </div>
 </div>
 
@@ -122,13 +121,6 @@ toc: false
   </div>
 </div>
 
-<div class="team-member">
-  <img src="images/headshot_lil-quack.jpg" alt="images/headshot_lil-quack.jpg" class="team-img">
-  <div class="team-info">
-  <h4> Lil Quack </h4>
-  <p> Lab duck </p>
-  </div>
-</div>
 
 ## Collaborators
 
@@ -154,7 +146,8 @@ Former lab members and what they did after leaving the lab or what they are curr
 
 ### Graduate students
 
-**Mikayla Lalli**, M.Sc. Kinesiology (2022-24); *Ph.D. student in the lab*.  
+**Daniel Deletsu**, M.Sc. Kinesiology (2023-25); *Medical School at Western University*  
+**Mikayla Lalli**, M.Sc. Kinesiology (2022-24); *Ph.D. student in the lab*  
 **Nour Al Afif**, M.Sc. Kinesiology (2022-24); *Ph.D. student in the lab*  
 **Laura St. Germain**, Ph.D. Kinesiology (2018-23); *Research and Data Specialist at Sheridan College*  
 **Mirette Mounir**, M.Sc. Kinesiology (2019-21); *Dentistry at Western University*  
