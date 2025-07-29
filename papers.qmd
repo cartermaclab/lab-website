@@ -15,13 +15,13 @@ toc-title: "Jump to..."
 
 ## Accepted or In Press
 
-- Calalo JA, Ngo T, Sullivan S, Roth A, Lokesh R, Buggeln JH, Strand K, Marchhart V, Carter MJ, Kurtzer I, & Cashaback JGA. (Accepted). Online movements reflect ongoing deliberation. *Journal of Neuroscience*. ---
+- Calalo JA., Ngo T., Sullivan S., Strand K., Buggeln JH., Lokesh R., Roth A., Carter MJ., Kurtzer IL., & Cashaback JGA.. (Accepted). Online movements reflect ongoing deliberation. *Journal of Neuroscience*. ---
 [{{< ai doi >}}](https://doi.org/10.1523/JNEUROSCI.1913-24.2025){target="_blank" style="color: inherit;"}
 
 
 ## 2025
 
-- Sullivan SR., Lokesh R., Peters CS., Calalo J., Roth AR., Buggeln JH., Ngo TT., Carter MJ., & Cashaback JGA. (2025). Indecision under time pressure arises from suboptimal switching behaviour. *Journal of Neurophysiology*. ---
+- Sullivan SR., Lokesh R., Calalo J., Ngo TT., Buggeln JH., Roth AR., Peters CS., Kurtzer IL., Carter MJ., & Cashaback JGA. (2025). Indecision under time pressure arises from suboptimal switching behaviour. *Journal of Neurophysiology*. ---
 [{{< ai doi >}}](https://doi.org/10.1152/jn.00563.2024){target="_blank" style="color: inherit;"}
 [{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2025_sullivan-etal_indecision-under-time-pressure-arises-from-suboptimal-switching-behavior.pdf){target="_blank" style="color: inherit;"}
 
