@@ -13,13 +13,13 @@ toc-title: "Jump to..."
 [{{< ai doi >}}](https://doi.org/10.1101/2020.09.02.279414){target="_blank" style="color: inherit;"}
 
 
-## Accepted or In Press
-
-- Calalo JA., Ngo T., Sullivan S., Strand K., Buggeln JH., Lokesh R., Roth A., Carter MJ., Kurtzer IL., & Cashaback JGA.. (Accepted). Online movements reflect ongoing deliberation. *Journal of Neuroscience*. ---
-[{{< ai doi >}}](https://doi.org/10.1523/JNEUROSCI.1913-24.2025){target="_blank" style="color: inherit;"}
-
+<!-- ## Accepted or In Press -->
 
 ## 2025
+
+- Calalo JA., Ngo T., Sullivan S., Strand K., Buggeln JH., Lokesh R., Roth A., Carter MJ., Kurtzer IL., & Cashaback JGA.. (2025). Online movements reflect ongoing deliberation. *Journal of Neuroscience*. ---
+[{{< ai doi >}}](https://doi.org/10.1523/JNEUROSCI.1913-24.2025){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2025_calalo-etal_online-movements-reflect-ongoing-deliberation.pdf){target="_blank" style="color: inherit;"}
 
 - Sullivan SR., Lokesh R., Calalo J., Ngo TT., Buggeln JH., Roth AR., Peters CS., Kurtzer IL., Carter MJ., & Cashaback JGA. (2025). Indecision under time pressure arises from suboptimal switching behaviour. *Journal of Neurophysiology*. ---
 [{{< ai doi >}}](https://doi.org/10.1152/jn.00563.2024){target="_blank" style="color: inherit;"}
