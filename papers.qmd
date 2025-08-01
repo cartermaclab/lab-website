@@ -7,7 +7,9 @@ toc-title: "Jump to..."
 
 ## Preprints
 
-- Lalli, M., Al Afif, N., Tang, J., Hasan, H., Dissanayake, E., Sussman, V., Lokesh, R., Rathwell, S., Cashaback, JGA., & Carter, MJ. Preferences for costly cooperation are highly individualized. *PsyAr$\chi$iv*. --- [{{< ai doi >}}](https://doi.org/10.31234/osf.io/3qaeu_v3){target="_blank" style="color: inherit;"}
+- Sullivan SR., Buggeln JH., Calalo JA., Ngo TT., Semrau JA., Carter MJ., & Cashaback JGA.. Involuntary feedback responses reflect a representation of partner actions. *bioR$\chi$iv*. --- [{{< ai doi >}}](https://doi.org/10.1101/2025.07.29.667240){target="_blank" style="color: inherit;"}
+
+- Lalli, M., Al Afif, N., Tang J., Hasan H., Dissanayake E., Sussman V., Lokesh R., Rathwell S., Cashaback JGA., & Carter MJ. Preferences for costly cooperation are highly individualized. *PsyAr$\chi$iv*. --- [{{< ai doi >}}](https://doi.org/10.31234/osf.io/3qaeu_v3){target="_blank" style="color: inherit;"}
 
 - de Brouwer AJ., Carter MJ., Smail LC., Wolpert DM., Gallivan JP., & Flanagan JR. (2020). Gaze behaviour reveals flexible encoding of competing reach goals under conditions of target uncertainty. *bioR$\chi$iv*. ---
 [{{< ai doi >}}](https://doi.org/10.1101/2020.09.02.279414){target="_blank" style="color: inherit;"}
