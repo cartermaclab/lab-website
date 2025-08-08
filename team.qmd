@@ -48,7 +48,7 @@ toc: false
   <img src="images/mikayla-lalli.jpg" alt="images/mikayla-lalli.jpg" class="team-img">
   <div class="team-info">
   <h4> Mikayla Lalli, M.Sc. </h4>
-  <p> Ph.D. Student </p>
+  <p> Ph.D. Candidate </p>
   <p> lallim1 [at] mcmaster [dot] ca </p>
   </div>
 </div>
@@ -57,7 +57,7 @@ toc: false
   <img src="images/nour-al-afif.jpg" alt="images/nour-al-afif.jpg" class="team-img">
   <div class="team-info">
   <h4> Nour Al Afif, M.Sc. </h4>
-  <p> Ph.D. Student </p>
+  <p> Ph.D. Candidate </p>
   <p> alafin1 [at] mcmaster [dot] ca </p>
   </div>
 </div>
