@@ -10,8 +10,8 @@ The **Action, Cognition, and Metascience Lab** is an interdisciplinary research 
 
 #### Recent lab news ---------
 
+<font color="#d08770">[August 26 2025].</font> **New member**. Welcome to Michael Croteau, who is starting his M.Sc studies. Michael previously completed his undergraduate project and thesis courses in the lab.
+
 <font color="#d08770">[July 31 2025].</font> **New Preprint**. Sullivan SR, Buggeln JH, Calalo JA, Ngo TT, Semrau JA, Carter MJ, & Cashaback JGA. Involuntary feedback responses reflect a representation of partner actions. *bioR$\chi$iv*. [https://doi.org/10.1101/2025.07.29.667240](https://doi.org/10.1101/2025.07.29.667240){target="_blank"}
 
 <font color="#d08770">[June 13 2024].</font> **Paper accepted**. Calalo JA, Ngo T, Sullivan S, Strand K, Buggeln JH, Lokesh R, Roth A, Carter MJ, Kurtzer IL, & Cashaback JGA. (Accepted). Online movements reflect ongoing deliberation. *Journal of Neuroscience*. [https://doi.org/10.1523/JNEUROSCI.1913-24.2025](https://doi.org/10.1523/JNEUROSCI.1913-24.2025){target="_blank"}
-
-<font color="#d08770">[May 14 2024].</font> **Paper accepted**. Sullivan SR, Lokesh R, Calalo J, Ngo TT, Buggeln JH, Roth AR, Peters CS, Kurtzer IL, Carter MJ, & Cashaback JGA. (In Press). Indecision under time pressure arises from suboptimal switching behaviour. *Journal of Neurophysiology*. [https://doi.org/10.1152/jn.00563.2024](https://doi.org/10.1152/jn.00563.2024){target="_blank"}

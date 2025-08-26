@@ -66,26 +66,8 @@ toc: false
   <img src="images/michael-croteau.jpg" alt="images/michael-croteau.jpg" class="team-img">
   <div class="team-info">
   <h4> Michael Croteau </h4>
-  <p> Incoming M.Sc. Student - Fall 2025 </p>
+  <p> M.Sc. Student </p>
   <p> croteaum [at] mcmaster [dot] ca </p>
-  </div>
-</div>
-
-<div class="team-member">
-  <img src="images/maria-alex.png" alt="images/" class="team-img">
-  <div class="team-info">
-  <h4> Maria Alex </h4>
-  <p> Undergraduate Research Assistant </p>
-  <p> McMaster Institute for Research on Aging 2025 Summer Research Fellowship Winner </p>
-  </div>
-</div>
-
-<div class="team-member">
-  <img src="images/lab-logo.png" alt="images/" class="team-img">
-  <div class="team-info">
-  <h4> Kaylen Rathwell </h4>
-  <p> Lab Technician </p>
-  <p> motorlab [at] mcmaster [dot] ca </p>
   </div>
 </div>
 

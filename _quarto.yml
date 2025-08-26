@@ -29,8 +29,8 @@ website:
         href: teaching.qmd
       - text: Join
         href: join.qmd
-      - text: Resources
-        href: resources.qmd
+      - text: Lab manual
+        href: https://cartermaclab.github.io/lab-manual/
       - icon: github
         href: https://github.com/cartermaclab
         target: "_blank"
