@@ -4,25 +4,35 @@ pagetitle: "CarterLab | Teaching"
 toc: false
 ---
 
-```{r}
-#| echo: false
+<style>
+.course-listing {
+  display: flex;
+  align-items: center;
+  padding: 20px; 
+  border: 1px solid #ddd;
+  margin-bottom: 20px;
+}
 
-library(markdown)
-library(tinytable)
+.course-img {
+  margin-right: 20px;
+  width: 175px;
+  height: 175px;
+  border-radius: 50%;
+  object-fit: cover;
+}
 
-tibble::tibble(
-    `FALL 2025` = c(
-        "Motor Control and Learning (KINESIOL 2MC3)...*Coming soon*",
-        "Neurorehabilitation and Robotics (KINESIOL 4TT3)...*Coming soon*",
-        "Scientific Computing for Reproducible Science (KINESIOL 736)...*Coming soon*"
-        )
-) |> 
-    tt(width = 1) |> 
-    group_tt(i = list(
-        "Undergraduate courses" = 1,
-        "Graduate courses" = 3
-    )) |> 
-    format_tt(j = 1, markdown = TRUE) |> 
-    style_tt(i = 0, background = "#0077bb", color = "white") |> 
-    style_tt(i = c(1,4), background = "#eceff4", bold = TRUE)
-```
+.course-info {
+  display: flex;
+  flex-direction: column;
+}
+</style>
+
+
+<div class="course-listing">
+  <img src="images/logo-2mc3.png" alt="images/logo-2mc3.png" class="course-img">
+  <div class="course-info">
+  <h4> [Motor Control and Learning](https://carterjmike.github.io/kinesiol-2mc3/) </h4>
+  <p> KINESIOL 2MC3 </p>
+  <p> Sept-Dec 2025 </p>
+  </div>
+</div>

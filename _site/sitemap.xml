@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cartermaclab.org/index.html</loc>
-    <lastmod>2025-08-26T18:04:11.113Z</lastmod>
+    <lastmod>2025-09-08T00:05:16.496Z</lastmod>
   </url>
   <url>
     <loc>https://cartermaclab.org/research.html</loc>
@@ -190,7 +190,7 @@
   </url>
   <url>
     <loc>https://cartermaclab.org/teaching.html</loc>
-    <lastmod>2025-05-14T17:36:00.707Z</lastmod>
+    <lastmod>2025-09-08T00:04:50.957Z</lastmod>
   </url>
   <url>
     <loc>https://cartermaclab.org/team/senior/jack-tang.html</loc>
@@ -323,5 +323,9 @@
   <url>
     <loc>https://cartermaclab.org/CopyOfpapers.html</loc>
     <lastmod>2025-01-16T20:18:40.570Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cartermaclab.org/2mc3.html</loc>
+    <lastmod>2025-08-29T13:26:06.418Z</lastmod>
   </url>
 </urlset>
