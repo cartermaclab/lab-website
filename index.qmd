@@ -10,6 +10,8 @@ The **Action, Cognition, and Metascience Lab** is an interdisciplinary research 
 
 #### Recent lab news ---------
 
+<font color="#d08770">[September 26 2024].</font> **Paper accepted**. Hussain M, Foglia SD, Park J, Ramdeo KR, Adams FC, Drapeau CC, Bobinski AR, Carter MJ, & Nelson AJ. Ipsilateral contraction increases map area and decreases motor threshold for contralateral hand muscle. *Neuroscience*. [https://doi.org/10.1016/j.neuroscience.2025.09.034](https://doi.org/10.1016/j.neuroscience.2025.09.034){target="_blank"}
+
 <font color="#d08770">[August 26 2025].</font> **New member**. Welcome to Michael Croteau, who is starting his M.Sc studies. Michael previously completed his undergraduate project and thesis courses in the lab.
 
 <font color="#d08770">[July 31 2025].</font> **New Preprint**. Sullivan SR, Buggeln JH, Calalo JA, Ngo TT, Semrau JA, Carter MJ, & Cashaback JGA. Involuntary feedback responses reflect a representation of partner actions. *bioR$\chi$iv*. [https://doi.org/10.1101/2025.07.29.667240](https://doi.org/10.1101/2025.07.29.667240){target="_blank"}

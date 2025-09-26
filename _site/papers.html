@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.8.24">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -28,14 +28,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-5b088bc1b061208832f78ccf2e33693d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-38f766ffad12c23fffa360f370546dfd.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-2d054b551a6b2579aac3bd8cab0f701d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-2db7926c8469b2aa17210eea564cee79.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/academicons-1.9.4/all.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/academicons-1.9.4/size.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
@@ -70,7 +71,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -97,7 +98,8 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/lab-logo_right-black-text.png" alt="" class="navbar-logo">
+    <img src="./images/lab-logo_right-black-text.png" alt="" class="navbar-logo light-content">
+    <img src="./images/lab-logo_right-black-text.png" alt="" class="navbar-logo dark-content">
     </a>
   </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -134,8 +136,8 @@ window.Quarto = {
 <span class="menu-text">Join</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./resources.html"> 
-<span class="menu-text">Resources</span></a>
+    <a class="nav-link" href="https://cartermaclab.github.io/lab-manual/"> 
+<span class="menu-text">Lab manual</span></a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/cartermaclab" target="_blank"> <i class="bi bi-github" role="img" aria-label="cartermaclab github">
@@ -143,12 +145,7 @@ window.Quarto = {
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/cartermaclab" target="_blank"> <i class="bi bi-twitter" role="img" aria-label="cartermaclab twitter">
-</i> 
-<span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://instagram.com/cartermaclab" target="_blank"> <i class="bi bi-instagram" role="img" aria-label="cartermaclab instagram">
+    <a class="nav-link" href="https://instagram.com/carterlab" target="_blank"> <i class="bi bi-instagram" role="img" aria-label="carterlab instagram">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -206,6 +203,7 @@ window.Quarto = {
 <section id="section" class="level2">
 <h2 class="anchored" data-anchor-id="section">2025</h2>
 <ul>
+<li><p>Hussain M., Foglia SD., Park J., Ramdeo KR., Adams FC., Drapeau CC., Bobinski AR., Carter MJ., &amp; Nelson AJ. Ipsilateral contraction increases map area and decreases motor threshold for contralateral hand muscle. <em>Neuroscience</em>. — <a href="https://doi.org/10.1016/j.neuroscience.2025.09.034" target="_blank" style="color: inherit;"><i class="ai  ai-doi" aria-label="doi"></i></a> <a href="https://raw.github.com/cartermaclab/carterlab-papers/main/2025_hussain-etal_ipsilateral-contraction-increases-map-area-and-decreases-motor-threshold-for-contralateral-hand-muscle.pdf" target="_blank" style="color: inherit;"><i class="fa-solid fa-file-pdf" aria-label="file-pdf"></i></a></p></li>
 <li><p>Calalo JA., Ngo T., Sullivan S., Strand K., Buggeln JH., Lokesh R., Roth A., Carter MJ., Kurtzer IL., &amp; Cashaback JGA.. (2025). Online movements reflect ongoing deliberation. <em>Journal of Neuroscience</em>. — <a href="https://doi.org/10.1523/JNEUROSCI.1913-24.2025" target="_blank" style="color: inherit;"><i class="ai  ai-doi" aria-label="doi"></i></a> <a href="https://raw.github.com/cartermaclab/carterlab-papers/main/2025_calalo-etal_online-movements-reflect-ongoing-deliberation.pdf" target="_blank" style="color: inherit;"><i class="fa-solid fa-file-pdf" aria-label="file-pdf"></i></a></p></li>
 <li><p>Sullivan SR., Lokesh R., Calalo J., Ngo TT., Buggeln JH., Roth AR., Peters CS., Kurtzer IL., Carter MJ., &amp; Cashaback JGA. (2025). Indecision under time pressure arises from suboptimal switching behaviour. <em>Journal of Neurophysiology</em>. — <a href="https://doi.org/10.1152/jn.00563.2024" target="_blank" style="color: inherit;"><i class="ai  ai-doi" aria-label="doi"></i></a> <a href="https://raw.github.com/cartermaclab/carterlab-papers/main/2025_sullivan-etal_indecision-under-time-pressure-arises-from-suboptimal-switching-behavior.pdf" target="_blank" style="color: inherit;"><i class="fa-solid fa-file-pdf" aria-label="file-pdf"></i></a></p></li>
 <li><p>McKay B., Bacelar MFB., Parma JO., Miller MW., &amp; Carter MJ. (2025). The combination of reporting bias and underpowered study designs has substantially exaggerated the motor learning benefits of self-controlled practice and enhanced expectancies: A meta-analysis. <em>International Review of Sport and Exercise Psychology</em>. — <a href="https://doi.org/10.1080/1750984X.2023.2207255" target="_blank" style="color: inherit;"><i class="ai  ai-doi" aria-label="doi"></i></a> <a href="https://raw.github.com/cartermaclab/carterlab-papers/main/2025_mckay-etal_the-combination-of-reporting-bias-and-underpowered-study-designs-has-substantially-exaggerated-the-motor-learning-benefits-of.pdf" target="_blank" style="color: inherit;"><i class="fa-solid fa-file-pdf" aria-label="file-pdf"></i></a> <a href="https://github.com/cartermaclab/proj_sc-ee-optimal-theory" target="_blank" style="color: inherit;"><i class="fa-brands fa-github" aria-label="github"></i></a></p></li>
@@ -378,13 +376,14 @@ window.Quarto = {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

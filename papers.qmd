@@ -19,6 +19,10 @@ toc-title: "Jump to..."
 
 ## 2025
 
+- Hussain M., Foglia SD., Park J., Ramdeo KR., Adams FC., Drapeau CC., Bobinski AR., Carter MJ., & Nelson AJ. Ipsilateral contraction increases map area and decreases motor threshold for contralateral hand muscle. *Neuroscience*. ---
+[{{< ai doi >}}](https://doi.org/10.1016/j.neuroscience.2025.09.034){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2025_hussain-etal_ipsilateral-contraction-increases-map-area-and-decreases-motor-threshold-for-contralateral-hand-muscle.pdf){target="_blank" style="color: inherit;"}
+
 - Calalo JA., Ngo T., Sullivan S., Strand K., Buggeln JH., Lokesh R., Roth A., Carter MJ., Kurtzer IL., & Cashaback JGA.. (2025). Online movements reflect ongoing deliberation. *Journal of Neuroscience*. ---
 [{{< ai doi >}}](https://doi.org/10.1523/JNEUROSCI.1913-24.2025){target="_blank" style="color: inherit;"}
 [{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2025_calalo-etal_online-movements-reflect-ongoing-deliberation.pdf){target="_blank" style="color: inherit;"}

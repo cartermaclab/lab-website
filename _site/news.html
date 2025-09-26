@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.33">
+<meta name="generator" content="quarto-1.8.24">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -28,14 +28,15 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-html/quarto.js" type="module"></script>
 <script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="site_libs/quarto-html/axe/axe-check.js" type="module"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-b427677ddefa5d93abdb57081dab58c5.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-38f766ffad12c23fffa360f370546dfd.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-2d054b551a6b2579aac3bd8cab0f701d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-2db7926c8469b2aa17210eea564cee79.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
     "search-no-results-text": "No results",
@@ -66,7 +67,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -93,7 +94,8 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
-    <img src="./images/lab-logo_right-black-text.png" alt="" class="navbar-logo">
+    <img src="./images/lab-logo_right-black-text.png" alt="" class="navbar-logo light-content">
+    <img src="./images/lab-logo_right-black-text.png" alt="" class="navbar-logo dark-content">
     </a>
   </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -130,8 +132,8 @@ window.Quarto = {
 <span class="menu-text">Join</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./resources.html"> 
-<span class="menu-text">Resources</span></a>
+    <a class="nav-link" href="https://cartermaclab.github.io/lab-manual/"> 
+<span class="menu-text">Lab manual</span></a>
   </li>  
   <li class="nav-item compact">
     <a class="nav-link" href="https://github.com/cartermaclab" target="_blank"> <i class="bi bi-github" role="img" aria-label="cartermaclab github">
@@ -139,12 +141,7 @@ window.Quarto = {
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/cartermaclab" target="_blank"> <i class="bi bi-twitter" role="img" aria-label="cartermaclab twitter">
-</i> 
-<span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://instagram.com/cartermaclab" target="_blank"> <i class="bi bi-instagram" role="img" aria-label="cartermaclab instagram">
+    <a class="nav-link" href="https://instagram.com/carterlab" target="_blank"> <i class="bi bi-instagram" role="img" aria-label="carterlab instagram">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
@@ -182,6 +179,7 @@ window.Quarto = {
 </header>
 
 
+<p><font color="#d08770">[September 26 2024].</font> <strong>Paper accepted</strong>. Hussain M, Foglia SD, Park J, Ramdeo KR, Adams FC, Drapeau CC, Bobinski AR, Carter MJ, &amp; Nelson AJ. Ipsilateral contraction increases map area and decreases motor threshold for contralateral hand muscle. <em>Neuroscience</em>. <a href="https://doi.org/10.1016/j.neuroscience.2025.09.034" target="_blank">https://doi.org/10.1016/j.neuroscience.2025.09.034</a></p>
 <p><font color="#d08770">[August 26 2025].</font> <strong>New member</strong>. Welcome to Michael Croteau, who is starting his M.Sc studies. Michael previously completed his undergraduate project and thesis courses in the lab.</p>
 <p><font color="#d08770">[July 31 2025].</font> <strong>New Preprint</strong>. Sullivan SR, Buggeln JH, Calalo JA, Ngo TT, Semrau JA, Carter MJ, &amp; Cashaback JGA. Involuntary feedback responses reflect a representation of partner actions. <em>bioR<span class="math inline">\(\chi\)</span>iv</em>. <a href="https://doi.org/10.1101/2025.07.29.667240" target="_blank">https://doi.org/10.1101/2025.07.29.667240</a></p>
 <p><font color="#d08770">[June 13 2024].</font> <strong>Paper accepted</strong>. Calalo JA, Ngo T, Sullivan S, Roth A, Lokesh R, Buggeln JH, Strand K, Marchhart V, Carter MJ, Kurtzer I, &amp; Cashaback JGA. (Accepted). Online movements reflect ongoing deliberation. <em>Journal of Neuroscience</em>. <a href="https://doi.org/10.1523/JNEUROSCI.1913-24.2025" target="_blank">https://doi.org/10.1523/JNEUROSCI.1913-24.2025</a></p>
@@ -259,13 +257,14 @@ window.Quarto = {
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy
