@@ -19,6 +19,17 @@ toc-title: "Jump to..."
 
 <!-- ## Accepted or In Press -->
 
+## 2026
+
+- Sullivan SR., Buggeln JH., Calalo JA., Ngo TT., Semrau JA., Carter MJ., & Cashaback JGA. Involuntary feedback responses reflect a representation of partner actions. *eLife*. ---
+[{{< ai doi >}}](https://doi.org/10.7554/eLife.109734.2){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2026_sullivan-etal_involuntary-feedback-responses-reflect-a-representation-of-partner-actions.pdf){target="_blank" style="color: inherit;"}
+
+- Radowits R., Young BW., Rathwell S., & Carter MJ. Emotions in sport practice: An integrative review of perspectives from motor behavior, sport, and educational psychology. *Communications in Kinesiology*. ---
+[{{< ai doi >}}](https://doi.org/10.51224/cik.2026.7640){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2026_radowits-etal_emotions-in-sport-practice-an-integrative-review-of-perspectives-from-motor-behavior-sport-and-educational-psychology.pdf){target="_blank" style="color: inherit;"}
+
+
 ## 2025
 
 - Hussain M., Foglia SD., Park J., Ramdeo KR., Adams FC., Drapeau CC., Bobinski AR., Carter MJ., & Nelson AJ. (2025). Ipsilateral contraction increases map area and decreases motor threshold for contralateral hand muscle. *Neuroscience*. ---

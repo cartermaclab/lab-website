@@ -73,97 +73,6 @@ toc: false
 
 
 <div class="team-member">
-  <img src="images/shiv-peshwa.jpg" alt="images/shiv-peshwa.jpg" class="team-img">
-  <div class="team-info">
-  <h4> Shiv Peshwa </h4>
-  <p> Undergraduate thesis student </p>
-  <p> Kinesiology </p>
-  </div>
-</div>
-
-<div class="team-member">
-  <img src="images/emilia-shlomit-katz.jpg" alt="images/emilia-shlomit-katz.jpg" class="team-img">
-  <div class="team-info">
-  <h4> Emilia Shlomit Katz </h4>
-  <p> Undergraduate thesis student </p>
-  <p> Neuroscience </p>
-  </div>
-</div>
-
-<div class="team-member">
-  <img src="images/heerud-seyedian.jpg" alt="images/heerud-seyedian.jpg" class="team-img">
-  <div class="team-info">
-  <h4> Heerud Seyedian </h4>
-  <p> Undergraduate thesis student </p>
-  <p> Life Sciences </p>
-  </div>
-</div>
-
-<div class="team-member">
-  <img src="images/vida-sussman.jpg" alt="images/vida-sussman.jpg" class="team-img">
-  <div class="team-info">
-  <h4> Vida Sussman </h4>
-  <p> Undergraduate project student </p>
-  <p> Psychology, Neuroscience, & Behaviour </p>
-  </div>
-</div>
-
-<div class="team-member">
-  <img src="images/eshaa-tariq.jpg" alt="images/eshaa-tariq.jpg" class="team-img">
-  <div class="team-info">
-  <h4> Eshaa Tariq </h4>
-  <p> Undergraduate practicum student </p>
-  <p> Kinesiology </p>
-  </div>
-</div>
-
-<div class="team-member">
-  <img src="images/noor-menhel.jpg" alt="images/noor-menhel.jpg" class="team-img">
-  <div class="team-info">
-  <h4> Noor Menhel </h4>
-  <p> Undergraduate practicum student </p>
-  <p> Kinesiology </p>
-  </div>
-</div>
-
-<div class="team-member">
-  <img src="images/lab-logo.png" alt="images/emily-hall.jpg" class="team-img">
-  <div class="team-info">
-  <h4> Emily Hall </h4>
-  <p> Undergraduate practicum student </p>
-  <p> Kinesiology </p>
-  </div>
-</div>
-
-<div class="team-member">
-  <img src="images/jocelyn-rivett.jpg" alt="images/jocelyn-rivett.jpg" class="team-img">
-  <div class="team-info">
-  <h4> Jocelyn Rivett </h4>
-  <p> Undergraduate research assistant </p>
-  <p> Kinesiology </p>
-  </div>
-</div>
-
-<div class="team-member">
-  <img src="images/ania-mihaila.jpg" alt="images/ania-mihaila.jpg" class="team-img">
-  <div class="team-info">
-  <h4> Ania Mihaila </h4>
-  <p> Undergraduate research assistant </p>
-  <p> Integrated Biomedical Engineering and Health Sciences </p>
-  </div>
-</div>
-
-<div class="team-member">
-  <img src="images/lab-logo.png" alt="images/tia-ryan-matthias.jpg" class="team-img">
-  <div class="team-info">
-  <h4> Tia Ryan Matthias </h4>
-  <p> Undergraduate research assistant </p>
-  <p> Kinesiology </p>
-  </div>
-</div>
-
-
-<div class="team-member">
   <img src="images/headshot_duck-bryan.jpg" alt="images/headshot_duck-bryan.jpg" class="team-img">
   <div class="team-info">
   <h4> Duck Bryan </h4>
@@ -198,9 +107,9 @@ toc: false
 
 ## Collaborators
 
-The lab maintains active and extensive research collaborations with:  
+The lab maintains active research collaborations with:  
 [Joshua Cashaback](https://joshcashaback.weebly.com/) | Department of Biomedical Engineering, University of Delaware  
-[Brad Mckay](https://bradmckay-motor-meta.netlify.app/) | Milwaukee Brewers  
+[Aimee Nelson](https://www.macneurolab.com/) | Department of Kinesiology, McMaster University  
 [Jonathan Cannon](https://metre.mcmaster.ca/) | Department of Psychology, Neuroscience, and Behaviour, McMaster University  
 
 Some of our other collaborators include:  
@@ -232,12 +141,12 @@ Former lab members and what they did after leaving the lab or what they are curr
 
 #### Honours thesis
 
-Shiuli Khanna (2024-25); Michael Croteau (2024-25); Enuri Dissanayake (2024-25); Nicole Su (2024-25); Courtney Nguyen (2024-25); Leo Ducharm (2024-25); Andrea Albert Pravin (2024-25); Jacqueline Zhang (2024-25); Lidia Barbera (2023-24); Hibaa Hasan (2023-24); Ola Schwarzenberg (2023-24); Mithun Manivannan (2023-24); Chitrini Tandon (2021-23); Alyssa Skouros (2022-23); Kiana Masoudi (2022-23); Raika Bourmand (2021-22); Armin Sariaslani (2021-22); Katharine (Katie) Douglas (2021-22); Thinzar Soe (2021-22); Julianna Marfisi (2020-21); Matthew Tobis (2020-21); Andrew Poskus (2020-21); Sherry Feldman (2019-20); Olena Leshchyshen (2019-20); Noura Balbaa (2019-20)
+Heerud Seyedian (2025-26); Emilia Shlomit Katz (2025-26); Shiv Peshwa (2025-26); Shiuli Khanna (2024-25); Michael Croteau (2024-25); Enuri Dissanayake (2024-25); Nicole Su (2024-25); Courtney Nguyen (2024-25); Leo Ducharm (2024-25); Andrea Albert Pravin (2024-25); Jacqueline Zhang (2024-25); Lidia Barbera (2023-24); Hibaa Hasan (2023-24); Ola Schwarzenberg (2023-24); Mithun Manivannan (2023-24); Chitrini Tandon (2021-23); Alyssa Skouros (2022-23); Kiana Masoudi (2022-23); Raika Bourmand (2021-22); Armin Sariaslani (2021-22); Katharine (Katie) Douglas (2021-22); Thinzar Soe (2021-22); Julianna Marfisi (2020-21); Matthew Tobis (2020-21); Andrew Poskus (2020-21); Sherry Feldman (2019-20); Olena Leshchyshen (2019-20); Noura Balbaa (2019-20)
 
 #### Research practicum / project
 
-Jocelyn Rivett (2025); Sydney Cooper (2025); Tara Esbati (2025); Alpha Liu (2025); Shreya Kapoor (2025); Julia Luong (2025); Eleanore Wu (2025); Vida Sussman (2024-25); Tara Esbati (2024-25); Shiv Peshwa (2025); Linsea Martin (2024-25); Faris Almoni (2025); Gaile Cheng (2025); Aashna Gujral (2024); Dami Alabi Benson (2024); Michael Croteau (2024); Francesca Caputo (2024); Jil Soni (2024); Navishka Brahmbhatt (2024); Aditya Trivedi (2024); Jacqueline Zheng (2023-24); Abby Girouard (2023-24); Michael Croteau (2024); Aditya Trivedi (2024); Navishka Brahmbhatt (2024); Francesca Caputo (2024); Jil Soni (2024); Enuri Dissanayake (2023); Jeswende Seedu (2022-23); Vivian Li (2022); Caroline Jarvi (2022); Gurlal Gill (2021); Anita Chaseendran (2021); Gianna Jeyarajan (2021); Mackenzie (Kenzie) Bell (2021); Ashton Yuen (2021); Charlie Violin (2021); Ammaar Jan (2020); Faran Chaudhry (2020); Yu (Sarah) Fu (2020); Andrew Poskus (2019); Maya El-Zahed (2019); Grant Yang (2019); Olena Leshchyshen (2019); Rita Waseem (2019); Christian Kleiser (2018); Christopher Li (2018); Faryal Zahir (2018)
+Emily Hall (2026); Eshaa Tariq (2026); Noor Menhel (2026); Jocelyn Rivett (2025); Sydney Cooper (2025); Tara Esbati (2025); Alpha Liu (2025); Shreya Kapoor (2025); Julia Luong (2025); Eleanore Wu (2025); Vida Sussman (2024-25); Tara Esbati (2024-25); Shiv Peshwa (2025); Linsea Martin (2024-25); Faris Almoni (2025); Gaile Cheng (2025); Aashna Gujral (2024); Dami Alabi Benson (2024); Michael Croteau (2024); Francesca Caputo (2024); Jil Soni (2024); Navishka Brahmbhatt (2024); Aditya Trivedi (2024); Jacqueline Zheng (2023-24); Abby Girouard (2023-24); Michael Croteau (2024); Aditya Trivedi (2024); Navishka Brahmbhatt (2024); Francesca Caputo (2024); Jil Soni (2024); Enuri Dissanayake (2023); Jeswende Seedu (2022-23); Vivian Li (2022); Caroline Jarvi (2022); Gurlal Gill (2021); Anita Chaseendran (2021); Gianna Jeyarajan (2021); Mackenzie (Kenzie) Bell (2021); Ashton Yuen (2021); Charlie Violin (2021); Ammaar Jan (2020); Faran Chaudhry (2020); Yu (Sarah) Fu (2020); Andrew Poskus (2019); Maya El-Zahed (2019); Grant Yang (2019); Olena Leshchyshen (2019); Rita Waseem (2019); Christian Kleiser (2018); Christopher Li (2018); Faryal Zahir (2018)
 
 #### Research assistants
 
-Maria Alex (2025); Eshaa Tariq (2024-25); Eleanore Wu (2024-25); Shiv Peshwa (2024); Dana Rugole (2025); Vida Sussman (2022-24); Elizabeth Mitchell (2020-23); Celeste de Faveri (2021-23); Lidia Barbera (2022-23); Hibaa Hasan (2022-23); Faith Adams (2022); Chitrini Tandon (2021-22); Kristen Arnold (2021-22); Alison Williams (2018-20); Andrew Poskus (2019); Kevin Gilotra (2019); Ashton Yuen (2019); Mackenzie (Kenzie) Bell (2019-21); Olena Leshchyshen (2018-19); Yu (Sarah) Fu (2018-19)
+Ania Mihaila (2025-26); Tia Ryan Matthias (2026); Alpha Liu (2026); Maria Alex (2025); Eshaa Tariq (2024-25); Eleanore Wu (2024-25); Shiv Peshwa (2024); Dana Rugole (2025); Vida Sussman (2022-24); Elizabeth Mitchell (2020-23); Celeste de Faveri (2021-23); Lidia Barbera (2022-23); Hibaa Hasan (2022-23); Faith Adams (2022); Chitrini Tandon (2021-22); Kristen Arnold (2021-22); Alison Williams (2018-20); Andrew Poskus (2019); Kevin Gilotra (2019); Ashton Yuen (2019); Mackenzie (Kenzie) Bell (2019-21); Olena Leshchyshen (2018-19); Yu (Sarah) Fu (2018-19)
