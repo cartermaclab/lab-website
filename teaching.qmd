@@ -29,10 +29,31 @@ toc: false
 
 
 <div class="course-listing">
-  <img src="images/logo-2mc3.png" alt="images/logo-2mc3.png" class="course-img">
+  <img src="images/kinesiol-2mc3-logo.png" alt="images/kinesiol-2mc3-logo.png" class="course-img">
   <div class="course-info">
-  <h4> [Motor Control and Learning](https://carterjmike.github.io/kinesiol-2mc3/) </h4>
+  <!-- <h4> [Motor Control and Learning](https://carterjmike.github.io/kinesiol-2mc3/) </h4> -->
+  <h4> Motor Control and Learning </h4>
   <p> KINESIOL 2MC3 </p>
-  <p> Sept-Dec 2025 </p>
+  <p> Coming soon... </p>
+  </div>
+</div>
+
+<div class="course-listing">
+  <img src="images/kinesiol-4tt3-logo.png" alt="images/kinesiol-4tt3-logo.png" class="course-img">
+  <div class="course-info">
+  <!-- <h4> [Motor Control and Learning](https://carterjmike.github.io/kinesiol-2mc3/) </h4> -->
+  <h4> Movement Neuroscience </h4>
+  <p> KINESIOL 4TT3 </p>
+  <p> Coming soon... </p>
+  </div>
+</div>
+
+<div class="course-listing">
+  <img src="images/kinesiol-736-logo1.png" alt="images/kinesiol-736-logo1.png" class="course-img">
+  <div class="course-info">
+  <!-- <h4> [Motor Control and Learning](https://carterjmike.github.io/kinesiol-2mc3/) </h4> -->
+  <h4> Scientific Computing for Reproducible Science </h4>
+  <p> KINESIOL 736 </p>
+  <p> Coming soon... </p>
   </div>
 </div>
