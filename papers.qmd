@@ -119,7 +119,7 @@ toc-title: "Jump to..."
 
 - St. Germain L., Williams A., Balbaa N., Poskus A., Leshchyshen O., Lohse KR., & Carter MJ. (2022). Increased perceptions of autonomy through choice fail to enhance motor skill retention. *Journal of Experimental Psychology: Human Perception and Performance*. ---
 [{{< ai doi >}}](){target="_blank" style="color: inherit;"}
-[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/){target="_blank" style="color: inherit;"}
+[{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2022_st-germain-etal_increased-perceptions-of-autonomy-through-choice-fail-to-enhance-motor-skill-retention.pdf){target="_blank" style="color: inherit;"}
 [{{< fa brands github >}}](){target="_blank" style="color: inherit;"}
 
 
