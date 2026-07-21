@@ -10,8 +10,8 @@ The **Movement and Cognition Lab** is an interdisciplinary research team interes
 
 #### Recent lab news ---------
 
+<font color="#d08770">[July 21 2026].</font> **New paper.** Buggeln JH, Muscara NR, Sullivan SR, Calalo JA, Ngo TT, Short MR, Roth AM, Carter MJ, & Cashaback JGA. Successful reinforcement history suppresses explicit and implicit error corrections. *PLoS Computational Biology*.
+
+<font color="#d08770">[June 8 2026].</font> **Milestone.** Congratulations to Michael Croteau who has successfully defended his Transfer to PhD talk. We are excited that Michael is continuing his graduate work in the lab.
+
 <font color="#d08770">[April 29 2026].</font> **Funding.** Our NSERC Discovery Grant has been renewed until 2031.
-
-<font color="#d08770">[April 28 2026].</font> **New paper.** Sullivan SR, Buggeln JH, Calalo JA, Ngo TT, Semrau JA, Carter MJ, & Cashaback JGA. Involuntary feedback responses reflect a representation of partner actions. *eLife*. [https://doi.org/10.7554/eLife.109734.3](https://doi.org/10.7554/eLife.109734.3){target="_blank"}
-
-<font color="#d08770">[April 9 2026].</font> **New paper.** Radowits R, Young BW, Rathwell S, & Carter MJ. Emotions in sport practice: An integrative review of perspectives from motor behavior, sport, and educational psychology. *Communications in Kinesiology*. [https://doi.org/10.51224/cik.2026.7640](https://doi.org/10.51224/cik.2026.7640){target="_blank"}

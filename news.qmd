@@ -4,6 +4,10 @@ pagetitle: "CarterLab | News"
 toc: false
 ---
 
+<font color="#d08770">[April 28 2026].</font> **New paper.** Sullivan SR, Buggeln JH, Calalo JA, Ngo TT, Semrau JA, Carter MJ, & Cashaback JGA. Involuntary feedback responses reflect a representation of partner actions. *eLife*. [https://doi.org/10.7554/eLife.109734.3](https://doi.org/10.7554/eLife.109734.3){target="_blank"}
+
+<font color="#d08770">[April 9 2026].</font> **New paper.** Radowits R, Young BW, Rathwell S, & Carter MJ. Emotions in sport practice: An integrative review of perspectives from motor behavior, sport, and educational psychology. *Communications in Kinesiology*. [https://doi.org/10.51224/cik.2026.7640](https://doi.org/10.51224/cik.2026.7640){target="_blank"}
+
 <font color="#d08770">[December 15 2025].</font> **New Preprint**. Calalo JA, Sullivan SR, Muscara NR, Buggeln JH, Ngo TT, Short MM, Carter MJ, Kurtzer IL, & Cashaback JGA. Deliberation is a controllable process governed by desirability and cognitive effort. *bioR$\chi$iv*. [https://doi.org/10.64898/2025.12.12.693733](https://doi.org/10.64898/2025.12.12.693733 ){target="_blank"}
 
 <font color="#d08770">[September 26 2024].</font> **Paper accepted**. Hussain M, Foglia SD, Park J, Ramdeo KR, Adams FC, Drapeau CC, Bobinski AR, Carter MJ, & Nelson AJ. Ipsilateral contraction increases map area and decreases motor threshold for contralateral hand muscle. *Neuroscience*. [https://doi.org/10.1016/j.neuroscience.2025.09.034](https://doi.org/10.1016/j.neuroscience.2025.09.034){target="_blank"}
