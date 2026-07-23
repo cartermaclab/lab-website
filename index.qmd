@@ -10,6 +10,9 @@ The **Movement and Cognition Lab** is an interdisciplinary research team interes
 
 #### Recent lab news ---------
 
+<font color="#d08770">[July 23 2026].</font> **New paper.** Calalo JA, Sullivan SR, Muscara NR, Buggeln JH, Ngo TT, Short MR, Carter MJ, Kurtzer IL, & Cashaback JGA. Deliberation is a controllable process governed by desirability and cognitive effort,. *Journal of Neurophysiology*.
+
+
 <font color="#d08770">[July 21 2026].</font> **New paper.** Buggeln JH, Muscara NR, Sullivan SR, Calalo JA, Ngo TT, Short MR, Roth AM, Carter MJ, & Cashaback JGA. Successful reinforcement history suppresses explicit and implicit error corrections. *PLoS Computational Biology*.
 
 <font color="#d08770">[June 8 2026].</font> **Milestone.** Congratulations to Michael Croteau who has successfully defended his Transfer to PhD talk. We are excited that Michael is continuing his graduate work in the lab.

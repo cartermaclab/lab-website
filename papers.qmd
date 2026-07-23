@@ -19,11 +19,11 @@ toc-title: "Jump to..."
 
 ## 2026
 
-- Sullivan SR., Buggeln JH., Calalo JA., Ngo TT., Semrau JA., Carter MJ., & Cashaback JGA. Involuntary feedback responses reflect a representation of partner actions. *eLife*. ---
+- Sullivan SR., Buggeln JH., Calalo JA., Ngo TT., Semrau JA., Carter MJ., & Cashaback JGA. (2026).Involuntary feedback responses reflect a representation of partner actions. *eLife*. ---
 [{{< ai doi >}}](https://doi.org/10.7554/eLife.109734.3){target="_blank" style="color: inherit;"}
 [{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2026_sullivan-etal_involuntary-feedback-responses-reflect-a-representation-of-partner-actions.pdf){target="_blank" style="color: inherit;"}
 
-- Radowits R., Young BW., Rathwell S., & Carter MJ. Emotions in sport practice: An integrative review of perspectives from motor behavior, sport, and educational psychology. *Communications in Kinesiology*. ---
+- Radowits R., Young BW., Rathwell S., & Carter MJ. (2026). Emotions in sport practice: An integrative review of perspectives from motor behavior, sport, and educational psychology. *Communications in Kinesiology*. ---
 [{{< ai doi >}}](https://doi.org/10.51224/cik.2026.7640){target="_blank" style="color: inherit;"}
 [{{< fa file-pdf >}}](https://raw.github.com/cartermaclab/carterlab-papers/main/2026_radowits-etal_emotions-in-sport-practice-an-integrative-review-of-perspectives-from-motor-behavior-sport-and-educational-psychology.pdf){target="_blank" style="color: inherit;"}
 
